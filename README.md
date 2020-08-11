@@ -1,4 +1,4 @@
-# Curated List of Redis Datasets
+# A Curated List of Sample Redis Datasets
 
 - [RediSearch](https://github.com/Redis-Developer/redis-datasets/blob/master/redisearch/README.md)
 - [RedisGraph](https://github.com/Redis-Developer/redis-datasets/blob/master/redisgraph/README.md)

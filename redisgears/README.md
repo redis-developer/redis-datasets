@@ -6,7 +6,7 @@ Sample IMDB dataset for RedisGears
 
 ### Set up you redis server with RedisGears
 
-* Download the IMDB data from this link and extract it to the current directory: https://datasets.imdbws.com/title.basics.tsv.gz
+### Download the IMDB data from this link and extract it to the current directory: https://datasets.imdbws.com/title.basics.tsv.gz
 
 #### Execute the below python script
 

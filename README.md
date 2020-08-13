@@ -24,7 +24,7 @@ This page shows the sample datasets available for Redis. Click the below sample 
 
 | List of Dataset | Description |
 | --- | --- |
-| Sample Movie Database Dataset | Contains details on Movie Database listings |
+| [Sample IMDB Dataset](https://github.com/Redis-Developer/redis-datasets/blob/master/redisgears/README.md) | Contains details on IMDB Movie Database listings |
 | Sample Geospatial  Dataset | Contains details on Geospatial listings |
 
 

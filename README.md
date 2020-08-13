@@ -10,7 +10,7 @@ This page shows the sample datasets available for Redis. Click the below sample 
 | List of Dataset | Description |
 | --- | --- |
 | IMDB 5000 Movie Dataset | Contains details on Movie Database listings |
-| [OpenBeerDB]() | Contains details on Geospatial listings |
+| [OpenBeerDB](https://github.com/Redis-Developer/redis-datasets/tree/master/redisearch/openbeerdb) | Contains details on Geospatial listings |
 
 
 ## [RedisGraph](https://github.com/Redis-Developer/redis-datasets/blob/master/redisgraph/README.md)

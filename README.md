@@ -49,8 +49,9 @@ This page shows the sample datasets available for Redis. Click the below sample 
 
 | List of Dataset | Description |
 | --- | --- |
-| Sample  Dataset | Contains details on Movie Database listings |
-| Sample   Dataset | Contains details on Geospatial listings |
+| [Animal Recognition Demo](https://github.com/Redis-Developer/redis-datasets/tree/master/redisai) | Contains details on Animal Recognition listings |
+| [Edge Real time Video Analytics](https://github.com/Redis-Developer/redis-datasets/tree/master/redisai)| Contains details on Edge Real time Video Analytics listings |
+| [Chat Bot Demo](https://github.com/Redis-Developer/redis-datasets/tree/master/redisai) | Contains details on Chat Bot Demo listing |
 
 ## [RedisBloom](https://github.com/Redis-Developer/redis-datasets/blob/master/redisbloom/README.md)
 

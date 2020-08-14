@@ -1,0 +1,2125 @@
+id,name,gender,culture 
+5e5af09d8201264f9db8613a,Walder,Male,
+5e5af09d8201264f9db8613b,Balon Greyjoy,Male,
+5e5af09d8201264f9db8613c,Chayle,Male,
+5e5af09d8201264f9db8613d,Gillam,Male,
+5e5af09d8201264f9db8613e,High Septon,Male,
+5e5af09d8201264f9db8613f,Margaery Tyrell,Female,Westeros
+5e5af09d8201264f9db86140,Melicent,Female,
+5e5af09d8201264f9db86141,Meribald,Male,
+5e5af09d8201264f9db86142,Moelle,Female,
+5e5af09d8201264f9db86143,Mordane,Female,
+5e5af09d8201264f9db86144,Nysterica,Female,
+5e5af09d8201264f9db86145,Ollidor,Male,
+5e5af09d8201264f9db86146,Osmynd,Male,
+5e5af09d8201264f9db86147,Raynard,Male,
+5e5af09d8201264f9db86148,Scolera,Female,
+5e5af09d8201264f9db86149,Torbert,Male,
+5e5af09d8201264f9db8614a,Tywin Lannister,Male,
+5e5af09d8201264f9db8614b,Unella,Female,
+5e5af09d8201264f9db8614c,Abelar Hightower,Male,
+5e5af09d8201264f9db8614d,Addam Frey,Male,
+5e5af09d8201264f9db8614e,Addam Marbrand,Male,
+5e5af09d8201264f9db8614f,Addam Osgrey,Male,
+5e5af09d8201264f9db86150,Addam Velaryon,Male,Valyrian
+5e5af09d8201264f9db86151,Addison Hill,Male,
+5e5af09d8201264f9db86152,Aegon Blackfyre,Male,Valyrian
+5e5af09d8201264f9db86153,Aegon Frey,Male,
+5e5af09d8201264f9db86154,Aegon Frey,Male,
+5e5af09d8201264f9db86155,Aegon I,Male,
+5e5af09d8201264f9db86156,Aegon II,Male,
+5e5af09d8201264f9db86157,Aegon III,Male,Valyrian
+5e5af09d8201264f9db86158,Aegon IV,Male,
+5e5af09d8201264f9db86159,Aegon Targaryen,Male,Valyrian
+5e5af09d8201264f9db8615a,Aegon Targaryen,Male,Valyrian
+5e5af09d8201264f9db8615b,Aegon Targaryen,Male,Valyrian
+5e5af09d8201264f9db8615c,Aegon Targaryen,Male,Valyrian
+5e5af09d8201264f9db8615d,Aegon V,Male,
+5e5af09d8201264f9db8615e,Aegor Rivers,Male,
+5e5af09d8201264f9db8615f,Aelinor Penrose,Female,Valyrian
+5e5af09d8201264f9db86160,Aemma Arryn,Female,
+5e5af09d8201264f9db86161,Aemon Blackfyre,Male,Valyrian
+5e5af09d8201264f9db86162,Aemon Costayne,Male,
+5e5af09d8201264f9db86163,Aemon Estermont,Male,Stormlands
+5e5af09d8201264f9db86164,Aemon Rivers,Male,
+5e5af09d8201264f9db86165,Aemon Targaryen,Male,Valyrian
+5e5af09d8201264f9db86166,Aemond Targaryen,Male,Valyrian
+5e5af09d8201264f9db86167,Aenys Frey,Male,
+5e5af09d8201264f9db86168,Aenys I,Male,
+5e5af09d8201264f9db86169,Aerion Targaryen,Male,Valyrian
+5e5af09d8201264f9db8616a,Aerion Targaryen,Male,Valyrian
+5e5af09d8201264f9db8616b,Aeron Greyjoy,Male,Ironborn
+5e5af09d8201264f9db8616c,Aerys I,Male,
+5e5af09d8201264f9db8616d,Aerys II,Male,
+5e5af09d8201264f9db8616e,Aglantine,Female,
+5e5af09d8201264f9db8616f,Aladale Wynch,Male,Ironborn
+5e5af09d8201264f9db86170,Alan,Male,
+5e5af09d8201264f9db86171,Alannys Harlaw,Female,Ironborn
+5e5af09d8201264f9db86172,Albar Royce,Male,
+5e5af09d8201264f9db86173,Alekyne Florent,Male,
+5e5af09d8201264f9db86174,Alerie Hightower,Female,
+5e5af09d8201264f9db86175,Alesander Frey,Male,
+5e5af09d8201264f9db86176,Alesander Staedmon,Male,
+5e5af09d8201264f9db86177,Alester Florent,Male,
+5e5af09d8201264f9db86178,Alester Norcross,Male,
+5e5af09d8201264f9db86179,Alester Oakheart,Male,
+5e5af09d8201264f9db8617a,Alester Tyrell,Male,Andal
+5e5af09d8201264f9db8617b,Alicent Hightower,Female,
+5e5af09d8201264f9db8617c,Alla Tyrell,Female,
+5e5af09d8201264f9db8617d,Allar Deem,Male,
+5e5af09d8201264f9db8617e,Alliser Thorne,Male,
+5e5af09d8201264f9db8617f,Allyria Dayne,Female,
+5e5af09d8201264f9db86180,Alyce Graceford,Female,
+5e5af09d8201264f9db86181,Alyn Ambrose,Male,
+5e5af09d8201264f9db86182,Alyn Cockshaw,Male,
+5e5af09d8201264f9db86183,Alyn Connington,Male,
+5e5af09d8201264f9db86184,Alyn Estermont,Male,Stormlands
+5e5af09d8201264f9db86185,Alyn Frey,Male,
+5e5af09d8201264f9db86186,Alyn Haigh,Male,
+5e5af09d8201264f9db86187,Alyn Hunt,Male,
+5e5af09d8201264f9db86188,Alyn Stackspear,Male,
+5e5af09d8201264f9db86189,Alyn Tarbeck,Male,
+5e5af09d8201264f9db8618a,Alyn Velaryon,Male,Valyrian
+5e5af09d8201264f9db8618b,Alys Arryn,Female,
+5e5af09d8201264f9db8618c,Alys Arryn,Female,
+5e5af09d8201264f9db8618d,Alys Beesbury,Female,
+5e5af09d8201264f9db8618e,Alys Frey,Female,
+5e5af09d8201264f9db8618f,Alys Karstark,Female,Northmen
+5e5af09d8201264f9db86190,Alys Karstark,Female,Northmen
+5e5af09d8201264f9db86191,Alys Karstark,Female,Northmen
+5e5af09d8201264f9db86192,Alysane Mormont,Female,Northmen
+5e5af09d8201264f9db86193,Alysanne Bulwer,Female,
+5e5af09d8201264f9db86194,Alysanne Farman,Female,
+5e5af09d8201264f9db86195,Alysanne Hightower,Female,
+5e5af09d8201264f9db86196,Alysanne Lefford,Female,
+5e5af09d8201264f9db86197,Alysanne Osgrey,Female,
+5e5af09d8201264f9db86198,Alysanne Targaryen,Female,
+5e5af09d8201264f9db86199,Alysanne Tarth,Female,
+5e5af09d8201264f9db8619a,Alyssa Arryn,Female,
+5e5af09d8201264f9db8619b,Alyssa Blackwood,Female,
+5e5af09d8201264f9db8619c,Alyssa Targaryen,Female,Valyrian
+5e5af09d8201264f9db8619d,Alyssa Velaryon,Female,Valyrian
+5e5af09d8201264f9db8619e,Alyx Frey,Female,
+5e5af09d8201264f9db8619f,Amarei Crakehall,Female,
+5e5af09d8201264f9db861a0,Ambrose Butterwell,Male,
+5e5af09d8201264f9db861a1,Amerei Frey,Female,
+5e5af09d8201264f9db861a2,Amory Lorch,Male,
+5e5af09d8201264f9db861a3,Andar Royce,Male,Valemen
+5e5af09d8201264f9db861a4,Anders Yronwood,Male,
+5e5af09d8201264f9db861a5,Andrew Estermont,Male,
+5e5af09d8201264f9db861a6,Andrey Charlton,Male,
+5e5af09d8201264f9db861a7,Andros Brax,Male,
+5e5af09d8201264f9db861a8,Androw Ashford,Male,Reach
+5e5af09d8201264f9db861a9,Androw Frey,Male,
+5e5af09d8201264f9db861aa,Annara Farring,Female,
+5e5af09d8201264f9db861ab,Antario Jast,Male,
+5e5af09d8201264f9db861ac,Anya Waynwood,Female,
+5e5af09d8201264f9db861ad,Archibald Yronwood,Male,
+5e5af09d8201264f9db861ae,Ardrian Celtigar,Male,
+5e5af09d8201264f9db861af,Argella Durrandon,Female,
+5e5af09d8201264f9db861b0,Argilac Durrandon,Male,
+5e5af09d8201264f9db861b1,Arianne Martell,Female,Dornish
+5e5af09d8201264f9db861b2,Arianne Tarth,Female,
+5e5af09d8201264f9db861b3,Arlan of Pennytree,Male,
+5e5af09d8201264f9db861b4,Armond Caswell,Male,
+5e5af09d8201264f9db861b5,Arnolf Karstark,Male,Northmen
+5e5af09d8201264f9db861b6,Aron Santagar,Male,Dornish
+5e5af09d8201264f9db861b7,Arra Norrey,Female,Northern mountain clans
+5e5af09d8201264f9db861b8,Arrec Durrandon,Male,
+5e5af09d8201264f9db861b9,Arron Qorgyle,Male,
+5e5af09d8201264f9db861ba,Arstan Selmy,Male,Westeros
+5e5af09d8201264f9db861bb,Arthor Karstark,Male,Northmen
+5e5af09d8201264f9db861bc,Arthur Ambrose,Male,
+5e5af09d8201264f9db861bd,Arthur Dayne,Male,
+5e5af09d8201264f9db861be,Artos Stark,Male,Northmen
+5e5af09d8201264f9db861bf,Artys I Arryn,Male,Andal
+5e5af09d8201264f9db861c0,Arwood Frey,Male,
+5e5af09d8201264f9db861c1,Arwyn Frey,Female,
+5e5af09d8201264f9db861c2,Arwyn Oakheart,Female,
+5e5af09d8201264f9db861c3,Arya Stark,Female,Northmen
+5e5af09d8201264f9db861c4,Arys Oakheart,Male,Reach
+5e5af09d8201264f9db861c5,Asha Greyjoy,Female,Ironborn
+5e5af09d8201264f9db861c6,Ashara Dayne,Female,
+5e5af09d8201264f9db861c7,Aubrey Ambrose,Male,
+5e5af09d8201264f9db861c8,Axell Florent,Male,
+5e5af09d8201264f9db861c9,Baela Targaryen,Female,Valyrian
+5e5af09d8201264f9db861ca,Baelon Targaryen,Male,Valyrian
+5e5af09d8201264f9db861cb,Baelon Targaryen,Male,Valyrian
+5e5af09d8201264f9db861cc,Baelon Targaryen,Male,Valyrian
+5e5af09d8201264f9db861cd,Baelor Blacktyde,Male,Ironborn
+5e5af09d8201264f9db861ce,Baelor Hightower,Male,
+5e5af09d8201264f9db861cf,Baelor I,Male,
+5e5af09d8201264f9db861d0,Baelor Targaryen,Male,
+5e5af09d8201264f9db861d1,Balman Byrch,Male,
+5e5af09d8201264f9db861d2,Balon Botley,Male,Ironborn
+5e5af09d8201264f9db861d3,Balon Swann,Male,Stormlands
+5e5af09d8201264f9db861d4,Barba Bracken,Female,
+5e5af09d8201264f9db861d5,Barbrey Dustin,Female,Northmen
+5e5af09d8201264f9db861d6,Barre,Male,
+5e5af09d8201264f9db861d7,Barristan Selmy,Male,Westeros
+5e5af09d8201264f9db861d8,Barth,Male,
+5e5af09d8201264f9db861d9,Barthogan Stark,Male,Northmen
+5e5af09d8201264f9db861da,Bass,Male,
+5e5af09d8201264f9db861db,Bayard Norcross,Male,
+5e5af09d8201264f9db861dc,Bellena Hawick,Female,
+5e5af09d8201264f9db861dd,Ben Bushy,Male,
+5e5af09d8201264f9db861de,Ben Plumm,Male,
+5e5af09d8201264f9db861df,Benedar Belmore,Male,
+5e5af09d8201264f9db861e0,Benedict Broom,Male,
+5e5af09d8201264f9db861e1,Benedict I Justman,Male,Rivermen
+5e5af09d8201264f9db861e2,Benfred Tallhart,Male,Northmen
+5e5af09d8201264f9db861e3,Benfrey Frey,Male,
+5e5af09d8201264f9db861e4,Benjen Stark,Male,Northmen
+5e5af09d8201264f9db861e5,Benjen Stark,Male,Northmen
+5e5af09d8201264f9db861e6,Benjen Stark,Male,Northmen
+5e5af09d8201264f9db861e7,Bennard Brune,Male,
+5e5af09d8201264f9db861e8,Bennarion Botley,Male,Ironborn
+5e5af09d8201264f9db861e9,Bennis,Male,
+5e5af09d8201264f9db861ea,Beony Beesbury,Female,
+5e5af09d8201264f9db861eb,Beren Tallhart,Male,Northmen
+5e5af09d8201264f9db861ec,Berena Hornwood,Female,Northmen
+5e5af09d8201264f9db861ed,Beric Dondarrion,Male,
+5e5af09d8201264f9db861ee,Beron Blacktyde,Male,
+5e5af09d8201264f9db861ef,Beron Stark,Male,Northmen
+5e5af09d8201264f9db861f0,Bertram Beesbury,Male,
+5e5af09d8201264f9db861f1,Beth Cassel,Female,Northmen
+5e5af09d8201264f9db861f2,Betha Blackwood,Female,
+5e5af09d8201264f9db861f3,Bethany Bolton,Female,Northmen
+5e5af09d8201264f9db861f4,Bethany Bracken,Female,
+5e5af09d8201264f9db861f5,Bethany Redwyne,Female,
+5e5af09d8201264f9db861f6,Bethany Rosby,Female,
+5e5af09d8201264f9db861f7,Bonifer Hasty,Male,
+5e5af09d8201264f9db861f8,Boremund Harlaw,Male,Ironborn
+5e5af09d8201264f9db861f9,Boros Blount,Male,
+5e5af09d8201264f9db861fa,Bowen Marsh,Male,
+5e5af09d8201264f9db861fb,Bradamar Frey,Male,
+5e5af09d8201264f9db861fc,Brandon Norrey,Male,Northern mountain clans
+5e5af09d8201264f9db861fd,Brandon Stark,Male,Northmen
+5e5af09d8201264f9db861fe,Brandon Stark,Male,Northmen
+5e5af09d8201264f9db861ff,Brandon Stark,Male,Northmen
+5e5af09d8201264f9db86200,Brandon Stark,Male,First Men
+5e5af09d8201264f9db86201,Brandon Stark,Male,Northmen
+5e5af09d8201264f9db86202,Brandon Stark,Male,Northmen
+5e5af09d8201264f9db86203,Brandon Stark,Male,Northmen
+5e5af09d8201264f9db86204,Brandon Stark,Male,Northmen
+5e5af09d8201264f9db86205,Brandon Tallhart,Male,Northmen
+5e5af09d8201264f9db86206,Branston Cuy,Male,
+5e5af09d8201264f9db86207,Brienne of Tarth,Female,
+5e5af09d8201264f9db86208,Bronn,Male,
+5e5af09d8201264f9db86209,Bryan Fossoway,Male,
+5e5af09d8201264f9db8620a,Bryan Frey,Male,
+5e5af09d8201264f9db8620b,Bryce Caron,Male,
+5e5af09d8201264f9db8620c,Bryen Caron,Male,
+5e5af09d8201264f9db8620d,Bryen Farring,Male,
+5e5af09d8201264f9db8620e,Brynden Tully,Male,Rivermen
+5e5af09d8201264f9db8620f,Buford Bulwer,Male,
+5e5af09d8201264f9db86210,Burton Crakehall,Male,
+5e5af09d8201264f9db86211,Calla Blackfyre,Female,Valyrian
+5e5af09d8201264f9db86212,Carellen Smallwood,Female,
+5e5af09d8201264f9db86213,Carolei Waynwood,Female,
+5e5af09d8201264f9db86214,Casper Wylde,Male,
+5e5af09d8201264f9db86215,Cassana Estermont,Female,
+5e5af09d8201264f9db86216,Cassella Vaith,Female,Dornish
+5e5af09d8201264f9db86217,Catelyn Stark,Female,Rivermen
+5e5af09d8201264f9db86218,Cedric Payne,Male,
+5e5af09d8201264f9db86219,Cedrik Storm,Male,
+5e5af09d8201264f9db8621a,Cerenna Lannister,Female,
+5e5af09d8201264f9db8621b,Cerissa Brax,Female,
+5e5af09d8201264f9db8621c,Cersei Frey,Female,
+5e5af09d8201264f9db8621d,Cersei Lannister,Female,Westerman
+5e5af09d8201264f9db8621e,Ceryse Hightower,Female,
+5e5af09d8201264f9db8621f,Clarence Charlton,Male,
+5e5af09d8201264f9db86220,Clarence Crabb,Male,
+5e5af09d8201264f9db86221,Clarent Crakehall,Male,
+5e5af09d8201264f9db86222,Clayton Suggs,Male,
+5e5af09d8201264f9db86223,Clement Crabb,Male,
+5e5af09d8201264f9db86224,Clement Piper,Male,Rivermen
+5e5af09d8201264f9db86225,Cletus Yronwood,Male,
+5e5af09d8201264f9db86226,Cley Cerwyn,Male,Northmen
+5e5af09d8201264f9db86227,Cleyton Caswell,Male,
+5e5af09d8201264f9db86228,Colen of Greenpools,Male,
+5e5af09d8201264f9db86229,Colin Florent,Male,
+5e5af09d8201264f9db8622a,Colmar Frey,Male,
+5e5af09d8201264f9db8622b,Corenna Swann,Female,
+5e5af09d8201264f9db8622c,Corlys Velaryon,Male,Valyrian
+5e5af09d8201264f9db8622d,Cortnay Penrose,Male,
+5e5af09d8201264f9db8622e,Corwyn Corbray,Male,
+5e5af09d8201264f9db8622f,Corwyn Corbray,Male,Andal
+5e5af09d8201264f9db86230,Crake,Male,
+5e5af09d8201264f9db86231,Cregan Karstark,Male,Northmen
+5e5af09d8201264f9db86232,Cregan Stark,Male,Northmen
+5e5af09d8201264f9db86233,Creighton Longbough,Male,
+5e5af09d8201264f9db86234,Creighton Redfort,Male,Valemen
+5e5af09d8201264f9db86235,Cynthea Frey,Female,
+5e5af09d8201264f9db86236,Cyrenna Swann,Female,
+5e5af09d8201264f9db86237,Dacey Mormont,Female,Northmen
+5e5af09d8201264f9db86238,Daella Targaryen,Female,Valyrian
+5e5af09d8201264f9db86239,Daella Targaryen,Female,Valyrian
+5e5af09d8201264f9db8623a,Daemon Blackfyre,Male,Valyrian
+5e5af09d8201264f9db8623b,Daemon II Blackfyre,Male,
+5e5af09d8201264f9db8623c,Daemon Targaryen,Male,Valyrian
+5e5af09d8201264f9db8623d,Daena Targaryen,Female,Valyrian
+5e5af09d8201264f9db8623e,Daenerys Targaryen,Female,
+5e5af09d8201264f9db8623f,Daenora Targaryen,Female,Valyrian
+5e5af09d8201264f9db86240,Daeron I,Male,
+5e5af09d8201264f9db86241,Daeron II,Male,
+5e5af09d8201264f9db86242,Daeron Targaryen,Male,
+5e5af09d8201264f9db86243,Daeron Targaryen,Male,
+5e5af09d8201264f9db86244,Daeron Vaith,Male,Dornish
+5e5af09d8201264f9db86245,Dagon Greyjoy,Male,Ironborn
+5e5af09d8201264f9db86246,Dagos Manwoody,Male,
+5e5af09d8201264f9db86247,Dalbridge,Male,
+5e5af09d8201264f9db86248,Dale Drumm,Male,
+5e5af09d8201264f9db86249,Damion Lannister,Male,
+5e5af09d8201264f9db8624a,Damon Lannister,Male,Westerman
+5e5af09d8201264f9db8624b,Damon Lannister,Male,
+5e5af09d8201264f9db8624c,Damon Marbrand,Male,
+5e5af09d8201264f9db8624d,Damon Paege,Male,
+5e5af09d8201264f9db8624e,Damon Shett,Male,
+5e5af09d8201264f9db8624f,Damon Vypren,Male,
+5e5af09d8201264f9db86250,Danelle Lothston,Female,
+5e5af09d8201264f9db86251,Danos Slynt,Male,
+5e5af09d8201264f9db86252,Danwell Frey,Male,
+5e5af09d8201264f9db86253,Darlessa Marbrand,Female,
+5e5af09d8201264f9db86254,Daryn Hornwood,Male,Northmen
+5e5af09d8201264f9db86255,Daven Lannister,Male,Westerman
+5e5af09d8201264f9db86256,Deana Hardyng,Female,
+5e5af09d8201264f9db86257,Delena Florent,Female,
+5e5af09d8201264f9db86258,Della Frey,Female,
+5e5af09d8201264f9db86259,Delonne Allyrion,Female,Dornish
+5e5af09d8201264f9db8625a,Dennis Plumm,Male,
+5e5af09d8201264f9db8625b,Denys Arryn,Male,
+5e5af09d8201264f9db8625c,Denys Darklyn,Male,
+5e5af09d8201264f9db8625d,Denys Drumm,Male,Ironborn
+5e5af09d8201264f9db8625e,Denys Mallister,Male,
+5e5af09d8201264f9db8625f,Denys Redwyne,Male,
+5e5af09d8201264f9db86260,Denyse Hightower,Female,
+5e5af09d8201264f9db86261,Desmond Grell,Male,
+5e5af09d8201264f9db86262,Desmond Redwyne,Male,
+5e5af09d8201264f9db86263,Devan Seaworth,Male,
+5e5af09d8201264f9db86264,Deziel Dalt,Male,
+5e5af09d8201264f9db86265,Dick Follard,Male,
+5e5af09d8201264f9db86266,Dickon Frey,Male,
+5e5af09d8201264f9db86267,Dickon Manwoody,Male,
+5e5af09d8201264f9db86268,Dickon Tarly,Male,
+5e5af09d8201264f9db86269,Domeric Bolton,Male,
+5e5af09d8201264f9db8626a,Donal Noye,Male,
+5e5af09d8201264f9db8626b,Donel Greyjoy,Male,Ironborn
+5e5af09d8201264f9db8626c,Donella Hornwood,Female,Northmen
+5e5af09d8201264f9db8626d,Donnel,Male,
+5e5af09d8201264f9db8626e,Donnel Drumm,Male,Ironborn
+5e5af09d8201264f9db8626f,Donnel Haigh,Male,
+5e5af09d8201264f9db86270,Donnel Locke,Male,
+5e5af09d8201264f9db86271,Donnel Swann,Male,Stormlands
+5e5af09d8201264f9db86272,Donnor Saltcliffe,Male,Ironborn
+5e5af09d8201264f9db86273,Donnor Stark,Male,Northmen
+5e5af09d8201264f9db86274,Dontos Hollard,Male,
+5e5af09d8201264f9db86275,Doran Martell,Male,Dornish
+5e5af09d8201264f9db86276,Dorna Swyft,Female,
+5e5af09d8201264f9db86277,Dorren Stark,Male,Northmen
+5e5af09d8201264f9db86278,Duncan,Male,
+5e5af09d8201264f9db86279,Duncan Targaryen,Male,
+5e5af09d8201264f9db8627a,Dunstan Drumm,Male,Ironborn
+5e5af09d8201264f9db8627b,Duram Bar Emmon,Male,
+5e5af09d8201264f9db8627c,Durran,Male,First Men
+5e5af09d8201264f9db8627d,Dyanna Dayne,Female,
+5e5af09d8201264f9db8627e,Dykk Harlaw,Male,
+5e5af09d8201264f9db8627f,Ebben,Male,
+5e5af09d8201264f9db86280,Eddara Tallhart,Female,Northmen
+5e5af09d8201264f9db86281,Eddard Karstark,Male,Northmen
+5e5af09d8201264f9db86282,Eddard Stark,Male,Northmen
+5e5af09d8201264f9db86283,Edderion Stark,Male,Northmen
+5e5af09d8201264f9db86284,Eddison Tollet,Male,Valemen
+5e5af09d8201264f9db86285,Eden Risley,Male,
+5e5af09d8201264f9db86286,Edgerran Oakheart,Male,
+5e5af09d8201264f9db86287,Edmund Ambrose,Male,
+5e5af09d8201264f9db86288,Edmund Waxley,Male,
+5e5af09d8201264f9db86289,Edmure Tully,Male,Rivermen
+5e5af09d8201264f9db8628a,Edmyn Tully,Male,Rivermen
+5e5af09d8201264f9db8628b,Edric Dayne,Male,
+5e5af09d8201264f9db8628c,Edrick Stark,Male,Northmen
+5e5af09d8201264f9db8628d,Edwyd Fossoway,Male,
+5e5af09d8201264f9db8628e,Edwyle Stark,Male,Northmen
+5e5af09d8201264f9db8628f,Edwyn Frey,Male,
+5e5af09d8201264f9db86290,Edwyn Osgrey,Male,
+5e5af09d8201264f9db86291,Edwyn Stark,Male,Northmen
+5e5af09d8201264f9db86292,Eglantine,Female,
+5e5af09d8201264f9db86293,Elbert Arryn,Male,
+5e5af09d8201264f9db86294,Eldon Estermont,Male,Stormlands
+5e5af09d8201264f9db86295,Eldred Codd,Male,Ironborn
+5e5af09d8201264f9db86296,Eleanor Mooton,Female,
+5e5af09d8201264f9db86297,Eleyna Westerling,Female,
+5e5af09d8201264f9db86298,Elia Martell,Female,
+5e5af09d8201264f9db86299,Elinor Tyrell,Female,
+5e5af09d8201264f9db8629a,Ella Lannister,Female,
+5e5af09d8201264f9db8629b,Ellaria Sand,Female,Dornish
+5e5af09d8201264f9db8629c,Ellery Vance,Male,
+5e5af09d8201264f9db8629d,Ellyn Ever Sweet,Female,
+5e5af09d8201264f9db8629e,Ellyn Reyne,Female,
+5e5af09d8201264f9db8629f,Elmar Frey,Male,
+5e5af09d8201264f9db862a0,Elwood Meadows,Male,Reach
+5e5af09d8201264f9db862a1,Elyana Vypren,Female,
+5e5af09d8201264f9db862a2,Elyas Willum,Male,
+5e5af09d8201264f9db862a3,Elyn Norridge,Female,
+5e5af09d8201264f9db862a4,Elys Waynwood,Male,
+5e5af09d8201264f9db862a5,Elys Westerling,Male,
+5e5af09d8201264f9db862a6,Emberlei Frey,Female,
+5e5af09d8201264f9db862a7,Emmon Cuy,Male,
+5e5af09d8201264f9db862a8,Emmon Frey,Male,
+5e5af09d8201264f9db862a9,Emphyria Vance,Female,
+5e5af09d8201264f9db862aa,Endrew Tarth,Male,
+5e5af09d8201264f9db862ab,Eon Hunter,Male,
+5e5af09d8201264f9db862ac,Erena Glover,Female,Northmen
+5e5af09d8201264f9db862ad,Ermesande Hayford,Female,
+5e5af09d8201264f9db862ae,Erren Florent,Male,
+5e5af09d8201264f9db862af,Ethan Glover,Male,Northmen
+5e5af09d8201264f9db862b0,Euron Greyjoy,Male,Ironborn
+5e5af09d8201264f9db862b1,Eustace,Male,
+5e5af09d8201264f9db862b2,Eustace Hunter,Male,
+5e5af09d8201264f9db862b3,Eustace Osgrey,Male,
+5e5af09d8201264f9db862b4,Eyron Stark,Male,Northmen
+5e5af09d8201264f9db862b5,Ezzelyno,Male,Braavosi
+5e5af09d8201264f9db862b6,Falena Stokeworth,Female,
+5e5af09d8201264f9db862b7,Falyse Stokeworth,Female,
+5e5af09d8201264f9db862b8,Flement Brax,Male,
+5e5af09d8201264f9db862b9,Forley Prester,Male,
+5e5af09d8201264f9db862ba,Foss the Archer,Male,
+5e5af09d8201264f9db862bb,Frankyln Fowler,Male,Dornish
+5e5af09d8201264f9db862bc,Galbart Glover,Male,Northmen
+5e5af09d8201264f9db862bd,Galladon Tarth,Male,
+5e5af09d8201264f9db862be,Galtry the Green,Male,
+5e5af09d8201264f9db862bf,Gared,Male,
+5e5af09d8201264f9db862c0,Garlan Tyrell,Male,
+5e5af09d8201264f9db862c1,Garrett Paege,Male,
+5e5af09d8201264f9db862c2,Garrison Prester,Male,
+5e5af09d8201264f9db862c3,Garse Goodbrook,Male,
+5e5af09d8201264f9db862c4,Garth Greenfield,Male,Westerman
+5e5af09d8201264f9db862c5,Garth Greyfeather,Male,
+5e5af09d8201264f9db862c6,Garth Hightower,Male,
+5e5af09d8201264f9db862c7,Garth Tyrell,Male,
+5e5af09d8201264f9db862c8,Garth XII Gardener,Male,
+5e5af09d8201264f9db862c9,Garth the Gardener,Male,First Men
+5e5af09d8201264f9db862ca,Gawen Glover,Male,Northmen
+5e5af09d8201264f9db862cb,Gawen Swann,Male,
+5e5af09d8201264f9db862cc,Gawen Westerling,Male,Westerman
+5e5af09d8201264f9db862cd,Gawen Wylde,Male,
+5e5af09d8201264f9db862ce,Genna Lannister,Female,
+5e5af09d8201264f9db862cf,Gerald Gower,Male,
+5e5af09d8201264f9db862d0,Geremy Frey,Male,
+5e5af09d8201264f9db862d1,Gerion Lannister,Male,
+5e5af09d8201264f9db862d2,Germund Botley,Male,Ironborn
+5e5af09d8201264f9db862d3,Gerold Grafton,Male,
+5e5af09d8201264f9db862d4,Gerold Hightower,Male,
+5e5af09d8201264f9db862d5,Gerold Lannister,Male,Westerman
+5e5af09d8201264f9db862d6,Gevin Harlaw,Male,Ironborn
+5e5af09d8201264f9db862d7,Gilbert Farring,Male,
+5e5af09d8201264f9db862d8,Gilbert of the Vines,Male,
+5e5af09d8201264f9db862d9,Gilwood Hunter,Male,
+5e5af09d8201264f9db862da,Gladden Wylde,Male,
+5e5af09d8201264f9db862db,Glendon Flowers,Male,
+5e5af09d8201264f9db862dc,Godric Borrell,Male,Sistermen
+5e5af09d8201264f9db862dd,Godry Farring,Male,
+5e5af09d8201264f9db862de,Gormon Peake,Male,
+5e5af09d8201264f9db862df,Gormond Drumm,Male,Ironborn
+5e5af09d8201264f9db862e0,Gormond Goodbrother,Male,Ironborn
+5e5af09d8201264f9db862e1,Gorold Goodbrother,Male,Ironborn
+5e5af09d8201264f9db862e2,Gowen Baratheon,Male,
+5e5af09d8201264f9db862e3,Gran Goodbrother,Male,Ironborn
+5e5af09d8201264f9db862e4,Grance Morrigen,Male,
+5e5af09d8201264f9db862e5,Grazdan mo Eraz,Male,Ghiscari
+5e5af09d8201264f9db862e6,Grenn,Male,Westeros
+5e5af09d8201264f9db862e7,Greydon Goodbrother,Male,Ironborn
+5e5af09d8201264f9db862e8,Gulian Qorgyle,Male,
+5e5af09d8201264f9db862e9,Gulian Swann,Male,
+5e5af09d8201264f9db862ea,Guncer Sunglass,Male,
+5e5af09d8201264f9db862eb,Gunthor Hightower,Male,
+5e5af09d8201264f9db862ec,Guthor Grimm,Male,
+5e5af09d8201264f9db862ed,Guyard Morrigen,Male,
+5e5af09d8201264f9db862ee,Gwayne Corbray,Male,
+5e5af09d8201264f9db862ef,Gwayne Gaunt,Male,
+5e5af09d8201264f9db862f0,Gwayne Hightower,Male,
+5e5af09d8201264f9db862f1,Gwin Goodbrother,Female,Ironborn
+5e5af09d8201264f9db862f2,Gwynesse Harlaw,Female,Ironborn
+5e5af09d8201264f9db862f3,Gwyneth Yronwood,Female,Dornish
+5e5af09d8201264f9db862f4,Gylbert Farwynd,Male,Ironborn
+5e5af09d8201264f9db862f5,Gyles,Male,
+5e5af09d8201264f9db862f6,Gyles Farwynd,Male,Ironborn
+5e5af09d8201264f9db862f7,Gyles Grafton,Male,
+5e5af09d8201264f9db862f8,Gyles III Gardener,Male,
+5e5af09d8201264f9db862f9,Gyles Rosby,Male,
+5e5af09d8201264f9db862fa,Gysella Goodbrother,Female,Ironborn
+5e5af09d8201264f9db862fb,Halleck Hoare,Male,
+5e5af09d8201264f9db862fc,Hallis Mollen,Male,Northmen
+5e5af09d8201264f9db862fd,Halmon Paege,Male,
+5e5af09d8201264f9db862fe,Halys Hornwood,Male,Northmen
+5e5af09d8201264f9db862ff,Harbert Paege,Male,
+5e5af09d8201264f9db86300,Harlan Grandison,Male,
+5e5af09d8201264f9db86301,Harlan Hunter,Male,
+5e5af09d8201264f9db86302,Harlen Tyrell,Male,Reach
+5e5af09d8201264f9db86303,Harlon Botley,Male,Ironborn
+5e5af09d8201264f9db86304,Harlon Greyjoy,Male,Ironborn
+5e5af09d8201264f9db86305,Harmen Uller,Male,
+5e5af09d8201264f9db86306,Harmond Umber,Male,Northmen
+5e5af09d8201264f9db86307,Harrag Hoare,Male,Ironborn
+5e5af09d8201264f9db86308,Harras Harlaw,Male,Ironborn
+5e5af09d8201264f9db86309,Harren Botley,Male,Ironborn
+5e5af09d8201264f9db8630a,Harren Hoare,Male,Ironborn
+5e5af09d8201264f9db8630b,Harrion Karstark,Male,Northmen
+5e5af09d8201264f9db8630c,Harrold Hardyng,Male,Valemen
+5e5af09d8201264f9db8630d,Harrold Osgrey,Male,
+5e5af09d8201264f9db8630e,Harrold Westerling,Male,Westerman
+5e5af09d8201264f9db8630f,Harry Strickland,Male,
+5e5af09d8201264f9db86310,Harwin Strong,Male,
+5e5af09d8201264f9db86311,Harwood Fell,Male,
+5e5af09d8201264f9db86312,Harwood Stout,Male,Northmen
+5e5af09d8201264f9db86313,Harwyn Hoare,Male,
+5e5af09d8201264f9db86314,Harwyn Plumm,Male,
+5e5af09d8201264f9db86315,Harys Haigh,Male,
+5e5af09d8201264f9db86316,Harys Swyft,Male,
+5e5af09d8201264f9db86317,Helaena Targaryen,Female,
+5e5af09d8201264f9db86318,Helicent Uffering,Female,
+5e5af09d8201264f9db86319,Helman Tallhart,Male,Northmen
+5e5af09d8201264f9db8631a,Herbert Bolling,Male,
+5e5af09d8201264f9db8631b,Herrock Kenning,Male,Ironborn
+5e5af09d8201264f9db8631c,Hilmar Drumm,Male,Ironborn
+5e5af09d8201264f9db8631d,Hoare,Male,
+5e5af09d8201264f9db8631e,Hoarfrost Umber,Male,Northmen
+5e5af09d8201264f9db8631f,Hobber Redwyne,Male,Reach
+5e5af09d8201264f9db86320,Hooded Man,Male,
+5e5af09d8201264f9db86321,Horas Redwyne,Male,Reach
+5e5af09d8201264f9db86322,Horton Redfort,Male,Valemen
+5e5af09d8201264f9db86323,Hosman Norcross,Male,
+5e5af09d8201264f9db86324,Hosteen Frey,Male,
+5e5af09d8201264f9db86325,Hoster Frey,Male,
+5e5af09d8201264f9db86326,Hoster Tully,Male,Rivermen
+5e5af09d8201264f9db86327,Hother Umber,Male,Northmen
+5e5af09d8201264f9db86328,Hotho Harlaw,Male,Ironborn
+5e5af09d8201264f9db86329,Howland Reed,Male,Crannogmen
+5e5af09d8201264f9db8632a,Hubard Rambton,Male,
+5e5af09d8201264f9db8632b,Hugh,Male,Valemen
+5e5af09d8201264f9db8632c,Hugh Beesbury,Male,
+5e5af09d8201264f9db8632d,Hugh Grandison,Male,
+5e5af09d8201264f9db8632e,Hugo Vance,Male,
+5e5af09d8201264f9db8632f,Hugo Wull,Male,Northern mountain clans
+5e5af09d8201264f9db86330,Humfrey Beesbury,Male,
+5e5af09d8201264f9db86331,Humfrey Hardyng,Male,
+5e5af09d8201264f9db86332,Humfrey Hewett,Male,
+5e5af09d8201264f9db86333,Humfrey Swyft,Male,
+5e5af09d8201264f9db86334,Humfrey Wagstaff,Male,
+5e5af09d8201264f9db86335,Hyle Hunt,Male,
+5e5af09d8201264f9db86336,Igon Vyrwel,Male,
+5e5af09d8201264f9db86337,Illifer,Male,
+5e5af09d8201264f9db86338,Ilyn Payne,Male,Westeros
+5e5af09d8201264f9db86339,Imry Florent,Male,
+5e5af09d8201264f9db8633a,Jacelyn Bywater,Male,
+5e5af09d8201264f9db8633b,Jack Bulwer,Male,
+5e5af09d8201264f9db8633c,Jack Musgood,Male,Stormlands
+5e5af09d8201264f9db8633d,Jaehaerys I,Male,
+5e5af09d8201264f9db8633e,Jaehaerys II,Male,
+5e5af09d8201264f9db8633f,Jaime Frey,Male,
+5e5af09d8201264f9db86340,Jaime Lannister,Male,Westerlands
+5e5af09d8201264f9db86341,Jammos Frey,Male,
+5e5af09d8201264f9db86342,Janei Lannister,Female,
+5e5af09d8201264f9db86343,Janna Tyrell,Female,
+5e5af09d8201264f9db86344,Janos Slynt,Male,
+5e5af09d8201264f9db86345,Janyce Hunter,Female,
+5e5af09d8201264f9db86346,Jared Frey,Male,
+5e5af09d8201264f9db86347,Jaremy Rykker,Male,
+5e5af09d8201264f9db86348,Jarman Buckwell,Male,
+5e5af09d8201264f9db86349,Jason Lannister,Male,
+5e5af09d8201264f9db8634a,Jason Mallister,Male,
+5e5af09d8201264f9db8634b,Jasper Arryn,Male,
+5e5af09d8201264f9db8634c,Jasper Redfort,Male,Valemen
+5e5af09d8201264f9db8634d,Jasper Waynwood,Male,
+5e5af09d8201264f9db8634e,Jasper Wylde,Male,
+5e5af09d8201264f9db8634f,Jeffory Mallister,Male,
+5e5af09d8201264f9db86350,Jeffory Norcross,Male,
+5e5af09d8201264f9db86351,Jena Dondarrion,Female,
+5e5af09d8201264f9db86352,Jeor Mormont,Male,Northmen
+5e5af09d8201264f9db86353,Jeyne Arryn,Female,Valemen
+5e5af09d8201264f9db86354,Jeyne Beesbury,Female,
+5e5af09d8201264f9db86355,Jeyne Darry,Female,Westeros
+5e5af09d8201264f9db86356,Jeyne Farman,Female,
+5e5af09d8201264f9db86357,Jeyne Fossoway,Female,
+5e5af09d8201264f9db86358,Jeyne Goodbrook,Female,
+5e5af09d8201264f9db86359,Jeyne Lothston,Female,
+5e5af09d8201264f9db8635a,Jeyne Lydden,Female,
+5e5af09d8201264f9db8635b,Jeyne Marbrand,Female,
+5e5af09d8201264f9db8635c,Jeyne Poole,Female,Northmen
+5e5af09d8201264f9db8635d,Jeyne Royce,Female,
+5e5af09d8201264f9db8635e,Jeyne Swann,Female,
+5e5af09d8201264f9db8635f,Jeyne Westerling,Female,
+5e5af09d8201264f9db86360,Jeyne Westerling,Female,Westerman
+5e5af09d8201264f9db86361,Joanna Lannister,Female,Westerman
+5e5af09d8201264f9db86362,Joanna Swyft,Female,
+5e5af09d8201264f9db86363,Jocelyn Swyft,Female,
+5e5af09d8201264f9db86364,Joffrey Baratheon,Male,
+5e5af09d8201264f9db86365,Joffrey Caswell,Male,
+5e5af09d8201264f9db86366,Joffrey Lonmouth,Male,
+5e5af09d8201264f9db86367,Johanna Lannister,Female,
+5e5af09d8201264f9db86368,Johanna Swann,Female,
+5e5af09d8201264f9db86369,John the Oak,Male,
+5e5af09d8201264f9db8636a,Jojen Reed,Male,Crannogmen
+5e5af09d8201264f9db8636b,Jon Arryn,Male,Valemen
+5e5af09d8201264f9db8636c,Jon Bettley,Male,
+5e5af09d8201264f9db8636d,Jon Brax,Male,
+5e5af09d8201264f9db8636e,Jon Bulwer,Male,
+5e5af09d8201264f9db8636f,Jon Connington,Male,Stormlands
+5e5af09d8201264f9db86370,Jon Fossoway,Male,Reach
+5e5af09d8201264f9db86371,Jon Hollard,Male,
+5e5af09d8201264f9db86372,Jon Lynderly,Male,
+5e5af09d8201264f9db86373,Jon Myre,Male,Ironborn
+5e5af09d8201264f9db86374,Jon Penrose,Male,
+5e5af09d8201264f9db86375,Jon Redfort,Male,Valemen
+5e5af09d8201264f9db86376,Jon Snow,Male,Northmen
+5e5af09d8201264f9db86377,Jon Stark,Male,
+5e5af09d8201264f9db86378,Jon Umber,Male,Northmen
+5e5af09d8201264f9db86379,Jon Umber,Male,Northmen
+5e5af09d8201264f9db8637a,Jon Wylde,Male,
+5e5af09d8201264f9db8637b,Jonelle Cerwyn,Female,Northmen
+5e5af09d8201264f9db8637c,Jonnel Stark,Male,
+5e5af09d8201264f9db8637d,Jonos Frey,Male,
+5e5af09d8201264f9db8637e,Jonos Stark,Male,Northmen
+5e5af09d8201264f9db8637f,Jonothor Darry,Male,
+5e5af09d8201264f9db86380,Jorah Stark,Male,Northmen
+5e5af09d8201264f9db86381,Jorelle Mormont,Female,Northmen
+5e5af09d8201264f9db86382,Jory Cassel,Male,Northmen
+5e5af09d8201264f9db86383,Joseth Mallister,Male,
+5e5af09d8201264f9db86384,Josmyn Peckledon,Male,
+5e5af09d8201264f9db86385,Josua Willum,Male,
+5e5af09d8201264f9db86386,Jothos Slynt,Male,
+5e5af09d8201264f9db86387,Joyeuse Erenford,Female,
+5e5af09d8201264f9db86388,Justin Massey,Male,
+5e5af09d8201264f9db86389,Jyanna Frey,Female,
+5e5af09d8201264f9db8638a,Karlon Stark,Male,Northmen
+5e5af09d8201264f9db8638b,Karyl Vance,Male,
+5e5af09d8201264f9db8638c,Kevan Lannister,Male,
+5e5af09d8201264f9db8638d,Kirth Vance,Male,
+5e5af09d8201264f9db8638e,Kyle Condon,Male,
+5e5af09d8201264f9db8638f,Kyle Royce,Male,
+5e5af09d8201264f9db86390,Kyra Frey,Female,
+5e5af09d8201264f9db86391,Laena Velaryon,Female,Valyrian
+5e5af09d8201264f9db86392,Laenor Velaryon.,Male,Valyrian
+5e5af09d8201264f9db86393,Lambert Turnberry,Male,
+5e5af09d8201264f9db86394,Lancel Lannister,Male,
+5e5af09d8201264f9db86395,Lancel V Lannister,Male,
+5e5af09d8201264f9db86396,Lann,Male,
+5e5af09d8201264f9db86397,Lanna Lannister,Female,
+5e5af09d8201264f9db86398,Larence Snow,Male,Northmen
+5e5af09d8201264f9db86399,Larys Strong,Male,
+5e5af09d8201264f9db8639a,Leana Frey,Female,
+5e5af09d8201264f9db8639b,Lenwood Tawney,Male,Ironborn
+5e5af09d8201264f9db8639c,Leo Blackbar,Male,
+5e5af09d8201264f9db8639d,Leo Lefford,Male,
+5e5af09d8201264f9db8639e,Leo Tyrell,Male,Reach
+5e5af09d8201264f9db8639f,Leo Tyrell,Male,
+5e5af09d8201264f9db863a0,Leobald Tallhart,Male,Northmen
+5e5af09d8201264f9db863a1,Leona Tyrell,Female,
+5e5af09d8201264f9db863a2,Leona Woolfield,Female,
+5e5af09d8201264f9db863a3,Leonella Lefford,Female,
+5e5af09d8201264f9db863a4,Leslyn Haigh,Male,
+5e5af09d8201264f9db863a5,Lester Morrigen,Male,
+5e5af09d8201264f9db863a6,Lewyn Martell,Male,Dornish
+5e5af09d8201264f9db863a7,Lewys Lydden,Male,
+5e5af09d8201264f9db863a8,Lewys Piper,Male,Rivermen
+5e5af09d8201264f9db863a9,Leyla Hightower,Female,
+5e5af09d8201264f9db863aa,Leyton Hightower,Male,
+5e5af09d8201264f9db863ab,Lia Serry,Female,
+5e5af09d8201264f9db863ac,Liane Vance,Female,
+5e5af09d8201264f9db863ad,Lollys Stokeworth,Female,
+5e5af09d8201264f9db863ae,Lomas Estermont,Male,Stormlands
+5e5af09d8201264f9db863af,Loras Tyrell,Male,Reach
+5e5af09d8201264f9db863b0,Lord Ashford,Male,Reach
+5e5af09d8201264f9db863b1,Lord Caswell,Male,
+5e5af09d8201264f9db863b2,Lord Staunton,Male,
+5e5af09d8201264f9db863b3,Lorent Caswell,Male,
+5e5af09d8201264f9db863b4,Lorent Lorch,Male,
+5e5af09d8201264f9db863b5,Lorent Marbrand,Male,Westerman
+5e5af09d8201264f9db863b6,Lorent Tyrell,Male,
+5e5af09d8201264f9db863b7,Lorra Royce,Female,
+5e5af09d8201264f9db863b8,Lothar Frey,Male,Rivermen
+5e5af09d8201264f9db863b9,Lothar Mallery,Male,
+5e5af09d8201264f9db863ba,Lothor Brune,Male,
+5e5af09d8201264f9db863bb,Lucamore Strong,Male,
+5e5af09d8201264f9db863bc,Lucas Codd,Male,Ironborn
+5e5af09d8201264f9db863bd,Lucas Corbray,Male,
+5e5af09d8201264f9db863be,Lucas Inchfield,Male,
+5e5af09d8201264f9db863bf,Lucas Lothston,Male,
+5e5af09d8201264f9db863c0,Lucas Roote,Male,
+5e5af09d8201264f9db863c1,Lucas Tyrell,Male,
+5e5af09d8201264f9db863c2,Luceon Frey,Male,
+5e5af09d8201264f9db863c3,Lucias Vypren,Male,
+5e5af09d8201264f9db863c4,Lucimore Botley,Male,Ironborn
+5e5af09d8201264f9db863c5,Lucion Lannister,Male,
+5e5af09d8201264f9db863c6,Lucos Chyttering,Male,
+5e5af09d8201264f9db863c7,Luthor Tyrell,Male,Reach
+5e5af09d8201264f9db863c8,Luthor Tyrell,Male,
+5e5af09d8201264f9db863c9,Luthor Tyrell,Male,
+5e5af09d8201264f9db863ca,Lyanna Mormont,Female,Northmen
+5e5af09d8201264f9db863cb,Lyarra Stark,Female,Northmen
+5e5af09d8201264f9db863cc,Lyessa Flint,Female,Northmen
+5e5af09d8201264f9db863cd,Lyle Crakehall,Male,
+5e5af09d8201264f9db863ce,Lyman Beesbury,Male,
+5e5af09d8201264f9db863cf,Lyman Darry,Male,
+5e5af09d8201264f9db863d0,Lymond Goodbrook,Male,
+5e5af09d8201264f9db863d1,Lymond Lychester,Male,Rivermen
+5e5af09d8201264f9db863d2,Lymond Mallister,Male,
+5e5af09d8201264f9db863d3,Lymond Vikary,Male,
+5e5af09d8201264f9db863d4,Lyn Corbray,Male,
+5e5af09d8201264f9db863d5,Lynesse Hightower,Female,
+5e5af09d8201264f9db863d6,Lyonel Baratheon,Male,
+5e5af09d8201264f9db863d7,Lyonel Bentley,Male,
+5e5af09d8201264f9db863d8,Lyonel Corbray,Male,
+5e5af09d8201264f9db863d9,Lyonel Frey,Male,
+5e5af09d8201264f9db863da,Lyonel Selmy,Male,
+5e5af09d8201264f9db863db,Lyonel Strong,Male,
+5e5af09d8201264f9db863dc,Lyonel Tyrell,Male,Reach
+5e5af09d8201264f9db863dd,Lyonel Tyrell,Male,
+5e5af09d8201264f9db863de,Lyra Mormont,Female,Northmen
+5e5af09d8201264f9db863df,Lysa Arryn,Female,
+5e5af09d8201264f9db863e0,Lysa Meadows,Female,
+5e5af09d8201264f9db863e1,Lythene Frey,Female,
+5e5af09d8201264f9db863e2,Mace Tyrell,Male,
+5e5af09d8201264f9db863e3,Maege Mormont,Female,Northmen
+5e5af09d8201264f9db863e4,Maegelle Frey,Female,
+5e5af09d8201264f9db863e5,Maegor I,Male,
+5e5af09d8201264f9db863e6,Maekar I,Male,
+5e5af09d8201264f9db863e7,Maelor Targaryen,Male,
+5e5af09d8201264f9db863e8,Maelys I Blackfyre,Male,Valyrian
+5e5af09d8201264f9db863e9,Maldon Massey,Male,First Men
+5e5af09d8201264f9db863ea,Mallador Locke,Male,
+5e5af09d8201264f9db863eb,Malwyn Frey,Male,
+5e5af09d8201264f9db863ec,Mandon Moore,Male,Valemen
+5e5af09d8201264f9db863ed,Manfred Dondarrion,Male,
+5e5af09d8201264f9db863ee,Manfred Lothston,Male,
+5e5af09d8201264f9db863ef,Manfred Swann,Male,
+5e5af09d8201264f9db863f0,Manfrey Martell,Male,Dornish
+5e5af09d8201264f9db863f1,Manfryd Lothston,Male,
+5e5af09d8201264f9db863f2,Manfryd Yew,Male,
+5e5af09d8201264f9db863f3,Margot Lannister,Female,
+5e5af09d8201264f9db863f4,Mariah Martell,Female,Dornish
+5e5af09d8201264f9db863f5,Maric Seaworth,Male,
+5e5af09d8201264f9db863f6,Marissa Frey,Female,
+5e5af09d8201264f9db863f7,Mariya Darry,Female,
+5e5af09d8201264f9db863f8,Mark Mullendore,Male,
+5e5af09d8201264f9db863f9,Mark Ryswell,Male,Northmen
+5e5af09d8201264f9db863fa,Marlon Manderly,Male,
+5e5af09d8201264f9db863fb,Marna Locke,Female,Northmen
+5e5af09d8201264f9db863fc,Maron Botley,Male,
+5e5af09d8201264f9db863fd,Maron Greyjoy,Male,Ironborn
+5e5af09d8201264f9db863fe,Maron Nymeros Martell,Male,Dornish
+5e5af09d8201264f9db863ff,Maron Volmark,Male,Ironborn
+5e5af09d8201264f9db86400,Marq Piper,Male,Rivermen
+5e5af09d8201264f9db86401,Marq Rankenfell,Male,
+5e5af09d8201264f9db86402,Marsella Waynwood,Female,
+5e5af09d8201264f9db86403,Martyn Cassel,Male,Northmen
+5e5af09d8201264f9db86404,Martyn Lannister,Male,
+5e5af09d8201264f9db86405,Martyn Mullendore,Male,
+5e5af09d8201264f9db86406,Marwyn Belmore,Male,
+5e5af09d8201264f9db86407,Mary Mertyns,Female,Westeros
+5e5af09d8201264f9db86408,Matarys Targaryen,Male,
+5e5af09d8201264f9db86409,Mathis Frey,Male,
+5e5af09d8201264f9db8640a,Mathis Rowan,Male,Reach
+5e5af09d8201264f9db8640b,Maynard Plumm,Male,
+5e5af09d8201264f9db8640c,Medgar Tully,Male,Rivermen
+5e5af09d8201264f9db8640d,Medger Cerwyn,Male,Northmen
+5e5af09d8201264f9db8640e,Meera Reed,Female,Crannogmen
+5e5af09d8201264f9db8640f,Megga Tyrell,Female,
+5e5af09d8201264f9db86410,Melantha Blackwood,Female,
+5e5af09d8201264f9db86411,Melara Crane,Female,
+5e5af09d8201264f9db86412,Melara Hetherspoon,Female,
+5e5af09d8201264f9db86413,Meldred Merlyn,Male,Ironborn
+5e5af09d8201264f9db86414,Melesa Crakehall,Female,
+5e5af09d8201264f9db86415,Melessa Florent,Female,
+5e5af09d8201264f9db86416,Melisandre,Female,Asshai
+5e5af09d8201264f9db86417,Melissa Blackwood,Female,
+5e5af09d8201264f9db86418,Melwyn Sarsfield,Male,
+5e5af09d8201264f9db86419,Meredyth Crane,Female,
+5e5af09d8201264f9db8641a,Merianne Frey,Female,
+5e5af09d8201264f9db8641b,Merlon Crakehall,Male,
+5e5af09d8201264f9db8641c,Mern IX Gardener,Male,
+5e5af09d8201264f9db8641d,Merrell Florent,Male,
+5e5af09d8201264f9db8641e,Merrett Frey,Male,Rivermen
+5e5af09d8201264f9db8641f,Meryn Trant,Male,
+5e5af09d8201264f9db86420,Michael Mertyns,Male,
+5e5af09d8201264f9db86421,Mina Tyrell,Female,
+5e5af09d8201264f9db86422,Minisa Whent,Female,Rivermen
+5e5af09d8201264f9db86423,Monford Velaryon,Male,Valyrian
+5e5af09d8201264f9db86424,Monterys Velaryon,Male,
+5e5af09d8201264f9db86425,Moqorro,Male,
+5e5af09d8201264f9db86426,Morgil Hastwyck,Male,
+5e5af09d8201264f9db86427,Moribald Chester,Male,
+5e5af09d8201264f9db86428,Morros Slynt,Male,
+5e5af09d8201264f9db86429,Mors Manwoody,Male,
+5e5af09d8201264f9db8642a,Mors Martell,Male,
+5e5af09d8201264f9db8642b,Mors Umber,Male,Northmen
+5e5af09d8201264f9db8642c,Morya Frey,Female,
+5e5af09d8201264f9db8642d,Moryn Tyrell,Male,
+5e5af09d8201264f9db8642e,Murmison,Male,
+5e5af09d8201264f9db8642f,Mychel Redfort,Male,Valemen
+5e5af09d8201264f9db86430,Mylenda Caron,Female,
+5e5af09d8201264f9db86431,Myles Manwoody,Male,
+5e5af09d8201264f9db86432,Myles Mooton,Male,
+5e5af09d8201264f9db86433,Myles Smallwood,Male,
+5e5af09d8201264f9db86434,Myranda Lefford,Female,
+5e5af09d8201264f9db86435,Myranda Royce,Female,
+5e5af09d8201264f9db86436,Myrcella Baratheon,Female,
+5e5af09d8201264f9db86437,Myria Jordayne,Female,
+5e5af09d8201264f9db86438,Myriame Manderly,Female,Northmen
+5e5af09d8201264f9db86439,Myrielle Lannister,Female,
+5e5af09d8201264f9db8643a,Naerys Targaryen,Female,Valyrian
+5e5af09d8201264f9db8643b,Norbert Vance,Male,
+5e5af09d8201264f9db8643c,Nymella Toland,Female,Dornish
+5e5af09d8201264f9db8643d,Nymeria,Female,Rhoynar
+5e5af09d8201264f9db8643e,Olene Tyrell,Female,
+5e5af09d8201264f9db8643f,Olenna Redwyne,Female,
+5e5af09d8201264f9db86440,Olymer Tyrell,Male,
+5e5af09d8201264f9db86441,Olyvar Frey,Male,
+5e5af09d8201264f9db86442,Olyvar Oakheart,Male,
+5e5af09d8201264f9db86443,Ondrew Locke,Male,Northmen
+5e5af09d8201264f9db86444,Orbert Caswell,Male,
+5e5af09d8201264f9db86445,Orivel,Male,
+5e5af09d8201264f9db86446,Ormond Osgrey,Male,
+5e5af09d8201264f9db86447,Ormond Westerling,Male,
+5e5af09d8201264f9db86448,Ormond Yronwood,Male,
+5e5af09d8201264f9db86449,Ormund Baratheon,Male,
+5e5af09d8201264f9db8644a,Ormund Wylde,Male,
+5e5af09d8201264f9db8644b,Orton Merryweather,Male,
+5e5af09d8201264f9db8644c,Orys Baratheon,Male,
+5e5af09d8201264f9db8644d,Osbert Serry,Male,
+5e5af09d8201264f9db8644e,Osfryd Kettleblack,Male,
+5e5af09d8201264f9db8644f,Osmund Frey,Male,
+5e5af09d8201264f9db86450,Osmund Kettleblack,Male,
+5e5af09d8201264f9db86451,Osney Kettleblack,Male,
+5e5af09d8201264f9db86452,Ossifer Plumm,Male,
+5e5af09d8201264f9db86453,Oswell Kettleblack,Male,
+5e5af09d8201264f9db86454,Oswell Whent,Male,Rivermen
+5e5af09d8201264f9db86455,Othell Yarwyck,Male,
+5e5af09d8201264f9db86456,Otho Bracken,Male,
+5e5af09d8201264f9db86457,Otto Hightower,Male,
+5e5af09d8201264f9db86458,Ottyn Wythers,Male,
+5e5af09d8201264f9db86459,Owen Inchfield,Male,
+5e5af09d8201264f9db8645a,Owen Norrey,Male,Northern mountain clans
+5e5af09d8201264f9db8645b,Parmen Crane,Male,
+5e5af09d8201264f9db8645c,Pate,Male,First Men
+5e5af09d8201264f9db8645d,Patrek Mallister,Male,
+5e5af09d8201264f9db8645e,Paxter Redwyne,Male,
+5e5af09d8201264f9db8645f,Pearse Caron,Male,
+5e5af09d8201264f9db86460,Perra Frey,Female,
+5e5af09d8201264f9db86461,Perra Royce,Female,
+5e5af09d8201264f9db86462,Perriane Frey,Female,
+5e5af09d8201264f9db86463,Perwyn Frey,Male,
+5e5af09d8201264f9db86464,Perwyn Osgrey,Male,
+5e5af09d8201264f9db86465,Peter Plumm,Male,
+5e5af09d8201264f9db86466,Petyr Baelish,Male,Valemen
+5e5af09d8201264f9db86467,Petyr Frey,Male,
+5e5af09d8201264f9db86468,Philip Foote,Male,
+5e5af09d8201264f9db86469,Philip Plumm,Male,
+5e5af09d8201264f9db8646a,Podrick Payne,Male,
+5e5af09d8201264f9db8646b,Preston Greenfield,Male,Westerman
+5e5af09d8201264f9db8646c,Pypar,Male,
+5e5af09d8201264f9db8646d,Qarl Kenning,Male,Ironborn
+5e5af09d8201264f9db8646e,Qarlton Chelsted,Male,
+5e5af09d8201264f9db8646f,Qhorin,Male,
+5e5af09d8201264f9db86470,Qhorwyn Hoare,Male,
+5e5af09d8201264f9db86471,Qorgyle,Male,
+5e5af09d8201264f9db86472,Quellon Botley,Male,Ironborn
+5e5af09d8201264f9db86473,Quellon Greyjoy,Male,Ironborn
+5e5af09d8201264f9db86474,Quenten Banefort,Male,
+5e5af09d8201264f9db86475,Quentin Tyrell,Male,
+5e5af09d8201264f9db86476,Quenton Greyjoy,Male,Ironborn
+5e5af09d8201264f9db86477,Quenton Hightower,Male,
+5e5af09d8201264f9db86478,Quenton Qoherys,Male,
+5e5af09d8201264f9db86479,Quentyn Ball,Male,
+5e5af09d8201264f9db8647a,Quentyn Blackwood,Male,
+5e5af09d8201264f9db8647b,Quentyn Martell,Male,Dornish
+5e5af09d8201264f9db8647c,Quentyn Qorgyle,Male,
+5e5af09d8201264f9db8647d,Ralf Kenning,Male,Ironborn
+5e5af09d8201264f9db8647e,Ralf Stonehouse,Male,Ironborn
+5e5af09d8201264f9db8647f,Ralph Buckler,Male,
+5e5af09d8201264f9db86480,Ramsay Snow,Male,Northmen
+5e5af09d8201264f9db86481,Randyll Tarly,Male,
+5e5af09d8201264f9db86482,Ravella Swann,Female,
+5e5af09d8201264f9db86483,Raymun Darry,Male,
+5e5af09d8201264f9db86484,Raymun Fossoway,Male,
+5e5af09d8201264f9db86485,Raymund Frey,Male,
+5e5af09d8201264f9db86486,Raymund Tyrell,Male,
+5e5af09d8201264f9db86487,Raynald Westerling,Male,
+5e5af09d8201264f9db86488,Raynard Ruttiger,Male,
+5e5af09d8201264f9db86489,Red Alyn,Male,
+5e5af09d8201264f9db8648a,Redwyn,Male,
+5e5af09d8201264f9db8648b,Regenard Estren,Male,
+5e5af09d8201264f9db8648c,Renfred Rykker,Male,
+5e5af09d8201264f9db8648d,Renly Baratheon,Male,Stormlands
+5e5af09d8201264f9db8648e,Renly Norcross,Male,
+5e5af09d8201264f9db8648f,Reynard Webber,Male,
+5e5af09d8201264f9db86490,Rhae Targaryen,Female,Valyrian
+5e5af09d8201264f9db86491,Rhaegar Frey,Male,
+5e5af09d8201264f9db86492,Rhaegar Targaryen,Male,Valyrian
+5e5af09d8201264f9db86493,Rhaegel Targaryen,Male,Valyrian
+5e5af09d8201264f9db86494,Rhaella Targaryen,Female,Valyrian
+5e5af09d8201264f9db86495,Rhaelle Targaryen,Female,
+5e5af09d8201264f9db86496,Rhaena Targaryen,Female,
+5e5af09d8201264f9db86497,Rhaena Targaryen,Female,Valyrian
+5e5af09d8201264f9db86498,Rhaena Targaryen,Female,Valyrian
+5e5af09d8201264f9db86499,Rhaenyra Targaryen,Female,Valyrian
+5e5af09d8201264f9db8649a,Rhaenys Targaryen,Female,Valyrian
+5e5af09d8201264f9db8649b,Rhaenys Targaryen,Female,
+5e5af09d8201264f9db8649c,Rhea Florent,Female,
+5e5af09d8201264f9db8649d,Rhea Royce,Female,
+5e5af09d8201264f9db8649e,Rhialta Vance,Female,
+5e5af09d8201264f9db8649f,Rhonda Rowan,Female,
+5e5af09d8201264f9db864a0,Richard Horpe,Male,
+5e5af09d8201264f9db864a1,Richard Lonmouth,Male,
+5e5af09d8201264f9db864a2,Richard Morrigen,Male,
+5e5af09d8201264f9db864a3,Rickard Karstark,Male,Northmen
+5e5af09d8201264f9db864a4,Rickard Ryswell,Male,Northmen
+5e5af09d8201264f9db864a5,Rickard Stark,Male,Northmen
+5e5af09d8201264f9db864a6,Rickard Stark,Male,Northmen
+5e5af09d8201264f9db864a7,Rickard Thorne,Male,
+5e5af09d8201264f9db864a8,Rickard Tyrell,Male,
+5e5af09d8201264f9db864a9,Rickard Wylde,Male,
+5e5af09d8201264f9db864aa,Rickon Stark,Male,Northmen
+5e5af09d8201264f9db864ab,Robar Royce,Male,Valemen
+5e5af09d8201264f9db864ac,Robb Reyne,Male,
+5e5af09d8201264f9db864ad,Robert Arryn,Male,Valemen
+5e5af09d8201264f9db864ae,Robert Ashford,Male,Reach
+5e5af09d8201264f9db864af,Robert Brax,Male,
+5e5af09d8201264f9db864b0,Robert Brax,Male,
+5e5af09d8201264f9db864b1,Robert Flowers,Male,
+5e5af09d8201264f9db864b2,Robert Frey,Male,
+5e5af09d8201264f9db864b3,Robert Frey,Male,
+5e5af09d8201264f9db864b4,Robert I Baratheon,Male,
+5e5af09d8201264f9db864b5,Robert Paege,Male,
+5e5af09d8201264f9db864b6,Robett Glover,Male,Northmen
+5e5af09d8201264f9db864b7,Robin Greyjoy,Male,Ironborn
+5e5af09d8201264f9db864b8,Robin Hill,Male,
+5e5af09d8201264f9db864b9,Robin Hollard,Male,
+5e5af09d8201264f9db864ba,Robin Moreland,Male,
+5e5af09d8201264f9db864bb,Robin Peasebury,Male,
+5e5af09d8201264f9db864bc,Robin Ryger,Male,
+5e5af09d8201264f9db864bd,Robyn Rhysling,Male,
+5e5af09d8201264f9db864be,Robyn Ryswell,Male,Northmen
+5e5af09d8201264f9db864bf,Rodrik Cassel,Male,Northmen
+5e5af09d8201264f9db864c0,Rodrik Greyjoy,Male,Ironborn
+5e5af09d8201264f9db864c1,Rodrik Harlaw,Male,Ironborn
+5e5af09d8201264f9db864c2,Rodrik Ryswell,Male,Northmen
+5e5af09d8201264f9db864c3,Rodrik Stark,Male,Northmen
+5e5af09d8201264f9db864c4,Rodrik Stark,Male,Northmen
+5e5af09d8201264f9db864c5,Rodwell Stark,Male,Northmen
+5e5af09d8201264f9db864c6,Roelle,Female,
+5e5af09d8201264f9db864c7,Rohanne,Female,Tyroshi
+5e5af09d8201264f9db864c8,Roland Crakehall,Male,
+5e5af09d8201264f9db864c9,Roland Crakehall,Male,
+5e5af09d8201264f9db864ca,Rollam Westerling,Male,
+5e5af09d8201264f9db864cb,Rolland Darklyn,Male,
+5e5af09d8201264f9db864cc,Rolland Storm,Male,
+5e5af09d8201264f9db864cd,Rolland Uffering,Male,
+5e5af09d8201264f9db864ce,Rolph Spicer,Male,
+5e5af09d8201264f9db864cf,Ronald Connington,Male,
+5e5af09d8201264f9db864d0,Ronald Vance,Male,
+5e5af09d8201264f9db864d1,Ronnel Harclay,Male,
+5e5af09d8201264f9db864d2,Ronnel Stout,Male,Northmen
+5e5af09d8201264f9db864d3,Ronnet Connington,Male,
+5e5af09d8201264f9db864d4,Roose Bolton,Male,Northmen
+5e5af09d8201264f9db864d5,Roose Ryswell,Male,Northmen
+5e5af09d8201264f9db864d6,Roryn Drumm,Male,Ironborn
+5e5af09d8201264f9db864d7,Rosamund Lannister,Female,
+5e5af09d8201264f9db864d8,Roslin Frey,Female,Rivermen
+5e5af09d8201264f9db864d9,Rossart,Male,
+5e5af09d8201264f9db864da,Royce Coldwater,Male,
+5e5af09d8201264f9db864db,Runcel Hightower,Male,
+5e5af09d8201264f9db864dc,Rupert Brax,Male,
+5e5af09d8201264f9db864dd,Rupert Crabb,Male,
+5e5af09d8201264f9db864de,Russell Merryweather,Male,
+5e5af09d8201264f9db864df,Ryam Florent,Male,
+5e5af09d8201264f9db864e0,Ryam Redwyne,Male,
+5e5af09d8201264f9db864e1,Rycherd Crane,Male,
+5e5af09d8201264f9db864e2,Ryella Frey,Female,
+5e5af09d8201264f9db864e3,Ryella Royce,Female,
+5e5af09d8201264f9db864e4,Rylene Florent,Female,
+5e5af09d8201264f9db864e5,Ryman Frey,Male,
+5e5af09d8201264f9db864e6,Saera Targaryen,Female,Valyrian
+5e5af09d8201264f9db864e7,Sallei Paege,Female,
+5e5af09d8201264f9db864e8,Samwell Spicer,Male,
+5e5af09d8201264f9db864e9,Samwell Tarly,Male,Andal
+5e5af09d8201264f9db864ea,Sandor Clegane,Male,
+5e5af09d8201264f9db864eb,Sandor Frey,Male,
+5e5af09d8201264f9db864ec,Sansa Stark,Female,Northmen
+5e5af09d8201264f9db864ed,Sargon Botley,Male,Ironborn
+5e5af09d8201264f9db864ee,Sarra Frey,Female,
+5e5af09d8201264f9db864ef,Sarya Whent,Female,
+5e5af09d8201264f9db864f0,Sawane Botley,Male,Ironborn
+5e5af09d8201264f9db864f1,Sebastion Errol,Male,
+5e5af09d8201264f9db864f2,Sebaston Farman,Male,Westerman
+5e5af09d8201264f9db864f3,Sefton Staunton,Male,
+5e5af09d8201264f9db864f4,Selmond Stackspear,Male,
+5e5af09d8201264f9db864f5,Selwyn Tarth,Male,
+5e5af09d8201264f9db864f6,Serala of Myr,Female,Myrish
+5e5af09d8201264f9db864f7,Serra Frey,Female,
+5e5af09d8201264f9db864f8,Serwyn,Male,
+5e5af09d8201264f9db864f9,Shadrich,Male,
+5e5af09d8201264f9db864fa,Shaera Targaryen,Female,Valyrian
+5e5af09d8201264f9db864fb,Shella Whent,Female,Rivermen
+5e5af09d8201264f9db864fc,Shiera Crakehall,Female,
+5e5af09d8201264f9db864fd,Shierle Swyft,Female,
+5e5af09d8201264f9db864fe,Shireen Baratheon,Female,
+5e5af09d8201264f9db864ff,Shirei Frey,Female,
+5e5af09d8201264f9db86500,Shyra Errol,Female,
+5e5af09d8201264f9db86501,Sigfry Stonetree,Male,Ironborn
+5e5af09d8201264f9db86502,Sigfryd Harlaw,Male,Ironborn
+5e5af09d8201264f9db86503,Sigorn,Male,Thenn
+5e5af09d8201264f9db86504,Simon Leygood,Male,
+5e5af09d8201264f9db86505,Simon Staunton,Male,
+5e5af09d8201264f9db86506,Simon Toyne,Male,
+5e5af09d8201264f9db86507,Stafford Lannister,Male,Westerman
+5e5af09d8201264f9db86508,Steffarion Sparr,Male,Ironborn
+5e5af09d8201264f9db86509,Steffon Baratheon,Male,
+5e5af09d8201264f9db8650a,Steffon Darklyn,Male,
+5e5af09d8201264f9db8650b,Steffon Fossoway,Male,
+5e5af09d8201264f9db8650c,Steffon Frey,Male,
+5e5af09d8201264f9db8650d,Steffon Hollard,Male,
+5e5af09d8201264f9db8650e,Steffon Stackspear,Male,
+5e5af09d8201264f9db8650f,Steffon Swyft,Male,
+5e5af09d8201264f9db86510,Steffon Varner,Male,
+5e5af09d8201264f9db86511,Stevron Frey,Male,
+5e5af09d8201264f9db86512,Stonesnake,Male,
+5e5af09d8201264f9db86513,Sumner Crakehall,Male,
+5e5af09d8201264f9db86514,Sybell Spicer,Female,
+5e5af09d8201264f9db86515,Sybelle Glover,Female,Northmen
+5e5af09d8201264f9db86516,Sylva Santagar,Female,Dornish
+5e5af09d8201264f9db86517,Sylwa Paege,Female,
+5e5af09d8201264f9db86518,Symon Hollard,Male,
+5e5af09d8201264f9db86519,Symon Santagar,Male,
+5e5af09d8201264f9db8651a,Symond Botley,Male,Ironborn
+5e5af09d8201264f9db8651b,Symond Frey,Male,
+5e5af09d8201264f9db8651c,Symond Templeton,Male,
+5e5af09d8201264f9db8651d,Taena of Myr,Female,Myrish
+5e5af09d8201264f9db8651e,Talbert Serry,Male,
+5e5af09d8201264f9db8651f,Talla Tarly,Female,
+5e5af09d8201264f9db86520,Tallad,Male,
+5e5af09d8201264f9db86521,Tanda Stokeworth,Female,
+5e5af09d8201264f9db86522,Tanton Fossoway,Male,
+5e5af09d8201264f9db86523,Terrance Lynderly,Male,
+5e5af09d8201264f9db86524,Terrence Kenning,Male,
+5e5af09d8201264f9db86525,Terrence Toyne,Male,
+5e5af09d8201264f9db86526,The Sparr,Female,Ironborn
+5e5af09d8201264f9db86527,The Stonehouse,Female,Ironborn
+5e5af09d8201264f9db86528,Theo Wull,Male,Northern mountain clans
+5e5af09d8201264f9db86529,Theodan Wells,Male,Northmen
+5e5af09d8201264f9db8652a,Theodore Tyrell,Male,
+5e5af09d8201264f9db8652b,Theomar Smallwood,Male,
+5e5af09d8201264f9db8652c,Theomore Harlaw,Male,
+5e5af09d8201264f9db8652d,Theon Greyjoy,Male,Ironborn
+5e5af09d8201264f9db8652e,Theon Stark,Male,Northmen
+5e5af09d8201264f9db8652f,Thoren Smallwood,Male,
+5e5af09d8201264f9db86530,Tion Frey,Male,
+5e5af09d8201264f9db86531,Tion Lannister,Male,
+5e5af09d8201264f9db86532,Titus Peake,Male,
+5e5af09d8201264f9db86533,Tom Costayne,Male,
+5e5af09d8201264f9db86534,Tommen Baratheon,Male,
+5e5af09d8201264f9db86535,Tommen Costayne,Male,
+5e5af09d8201264f9db86536,Torren Liddle,Male,Northern mountain clans
+5e5af09d8201264f9db86537,Torrence Teague,Male,Rivermen
+5e5af09d8201264f9db86538,Torrhen Karstark,Male,Northmen
+5e5af09d8201264f9db86539,Torrhen Stark,Male,Northmen
+5e5af09d8201264f9db8653a,Trebor Jordayne,Male,
+5e5af09d8201264f9db8653b,Tremond Gargalen,Male,Dornish
+5e5af09d8201264f9db8653c,Tristan Mudd,Male,
+5e5af09d8201264f9db8653d,Tristan Ryger,Male,
+5e5af09d8201264f9db8653e,Tristifer Botley,Male,Ironborn
+5e5af09d8201264f9db8653f,Tristifer IV Mudd,Male,
+5e5af09d8201264f9db86540,Tristifer V,Male,
+5e5af09d8201264f9db86541,Triston Sunderland,Male,
+5e5af09d8201264f9db86542,Trystane Martell,Male,Dornish
+5e5af09d8201264f9db86543,Tya Lannister,Female,
+5e5af09d8201264f9db86544,Tyana Wylde,Female,
+5e5af09d8201264f9db86545,Tybolt Crakehall,Male,
+5e5af09d8201264f9db86546,Tybolt Hetherspoon,Male,
+5e5af09d8201264f9db86547,Tybolt Lannister,Male,Westerman
+5e5af09d8201264f9db86548,Tygett Lannister,Male,
+5e5af09d8201264f9db86549,Tyland Lannister,Male,
+5e5af09d8201264f9db8654a,Tyrek Lannister,Male,
+5e5af09d8201264f9db8654b,Tyrion Lannister,Male,
+5e5af09d8201264f9db8654c,Tysane Frey,Female,
+5e5af09d8201264f9db8654d,Tyta Frey,Female,
+5e5af09d8201264f9db8654e,Tytos Brax,Male,
+5e5af09d8201264f9db8654f,Tytos Frey,Male,
+5e5af09d8201264f9db86550,Tytos Lannister,Male,
+5e5af09d8201264f9db86551,Tywin Frey,Male,
+5e5af09d8201264f9db86552,Tywin Frey,Male,
+5e5af09d8201264f9db86553,Ulrick Dayne,Male,Dornish
+5e5af09d8201264f9db86554,Ulwyck Uller,Male,
+5e5af09d8201264f9db86555,Urrigon Greyjoy,Male,Ironborn
+5e5af09d8201264f9db86556,Utherydes Wayn,Male,
+5e5af09d8201264f9db86557,Uthor Tollett,Male,Valemen
+5e5af09d8201264f9db86558,Uthor Underleaf,Male,
+5e5af09d8201264f9db86559,Vaemond Velaryon,Male,Valyrian
+5e5af09d8201264f9db8655a,Valarr Targaryen,Male,Valyrian
+5e5af09d8201264f9db8655b,Vardis Egen,Male,Valemen
+5e5af09d8201264f9db8655c,Vayon Poole,Male,
+5e5af09d8201264f9db8655d,Velaena Velaryon,Female,Valyrian
+5e5af09d8201264f9db8655e,Vickon Botley,Male,Ironborn
+5e5af09d8201264f9db8655f,Vickon Greyjoy,Male,
+5e5af09d8201264f9db86560,Victaria Tyrell,Female,
+5e5af09d8201264f9db86561,Victarion Greyjoy,Male,Ironborn
+5e5af09d8201264f9db86562,Victor Tyrell,Male,
+5e5af09d8201264f9db86563,Viserys I,Male,
+5e5af09d8201264f9db86564,Viserys II,Male,
+5e5af09d8201264f9db86565,Viserys Plumm,Male,
+5e5af09d8201264f9db86566,Viserys Targaryen,Male,Valyrian
+5e5af09d8201264f9db86567,Vortimer Crane,Male,
+5e5af09d8201264f9db86568,Walda Frey,Female,
+5e5af09d8201264f9db86569,Walda Frey,Female,
+5e5af09d8201264f9db8656a,Walda Frey,Female,
+5e5af09d8201264f9db8656b,Walda Frey,Female,
+5e5af09d8201264f9db8656c,Walda Frey,Female,
+5e5af09d8201264f9db8656d,Walda Rivers,Female,
+5e5af09d8201264f9db8656e,Walda Rivers,Female,
+5e5af09d8201264f9db8656f,Walder Brax,Male,
+5e5af09d8201264f9db86570,Walder Frey,Male,
+5e5af09d8201264f9db86571,Walder Frey,Male,Rivermen
+5e5af09d8201264f9db86572,Walder Frey,Male,
+5e5af09d8201264f9db86573,Walder Frey,Male,
+5e5af09d8201264f9db86574,Walder Frey,Male,Rivermen
+5e5af09d8201264f9db86575,Walder Goodbrook,Male,
+5e5af09d8201264f9db86576,Walder Haigh,Male,
+5e5af09d8201264f9db86577,Walder Rivers,Male,Rivermen
+5e5af09d8201264f9db86578,Waldon Wynch,Male,Ironborn
+5e5af09d8201264f9db86579,Wallace Waynwood,Male,
+5e5af09d8201264f9db8657a,Walter Whent,Male,Rivermen
+5e5af09d8201264f9db8657b,Walton Frey,Male,
+5e5af09d8201264f9db8657c,Walton Stark,Male,
+5e5af09d8201264f9db8657d,Waltyr Frey,Male,
+5e5af09d8201264f9db8657e,Warryn Beesbury,Male,
+5e5af09d8201264f9db8657f,Waymar Royce,Male,Valemen
+5e5af09d8201264f9db86580,Wendel Frey,Male,
+5e5af09d8201264f9db86581,Wendel Manderly,Male,
+5e5af09d8201264f9db86582,Whalen Frey,Male,
+5e5af09d8201264f9db86583,Wilbert Osgrey,Male,
+5e5af09d8201264f9db86584,Will,Male,
+5e5af09d8201264f9db86585,Willam Dustin,Male,Northmen
+5e5af09d8201264f9db86586,Willam Stark,Male,Northmen
+5e5af09d8201264f9db86587,Willam Wythers,Male,
+5e5af09d8201264f9db86588,Willas Tyrell,Male,
+5e5af09d8201264f9db86589,Willem Darry,Male,
+5e5af09d8201264f9db8658a,Willem Frey,Male,
+5e5af09d8201264f9db8658b,Willem Lannister,Male,
+5e5af09d8201264f9db8658c,Willem Wylde,Male,
+5e5af09d8201264f9db8658d,William Mooton,Male,
+5e5af09d8201264f9db8658e,Willis Fell,Male,
+5e5af09d8201264f9db8658f,Willis Wode,Male,
+5e5af09d8201264f9db86590,Wyl Waynwood,Male,
+5e5af09d8201264f9db86591,Wylis Manderly,Male,
+5e5af09d8201264f9db86592,Wylla Manderly,Female,
+5e5af09d8201264f9db86593,Wyman Manderly,Male,
+5e5af09d8201264f9db86594,Wynafrei Whent,Female,
+5e5af09d8201264f9db86595,Wynafryd Manderly,Female,
+5e5af09d8201264f9db86596,Wynton Stout,Male,Northmen
+5e5af09d8201264f9db86597,Ygon Farwynd,Male,
+5e5af09d8201264f9db86598,Ynys Yronwood,Female,Dornish
+5e5af09d8201264f9db86599,Yohn Farwynd,Male,Ironborn
+5e5af09d8201264f9db8659a,Yohn Royce,Male,Valemen
+5e5af09d8201264f9db8659b,Yoren,Male,Westeros
+5e5af09d8201264f9db8659c,Ysilla Royce,Female,Valemen
+5e5af09d8201264f9db8659d,Zachery Frey,Male,
+5e5af09d8201264f9db8659e,Zhoe Blanetree,Female,
+5e5af09d8201264f9db8659f,Zia Frey,Female,
+5e5af09d8201264f9db865a0,Monster,Male,Free Folk
+5e5af09d8201264f9db865a1,Addam,Male,
+5e5af09d8201264f9db865a2,Aethan,Male,
+5e5af09d8201264f9db865a3,Aethelmure,Male,
+5e5af09d8201264f9db865a4,Aggar,Male,
+5e5af09d8201264f9db865a5,Aggo,Male,Dothraki
+5e5af09d8201264f9db865a6,Agrivane,Male,
+5e5af09d8201264f9db865a7,Alan of Rosby,Male,
+5e5af09d8201264f9db865a8,Alaric of Eysen,Male,
+5e5af09d8201264f9db865a9,Alayaya,Female,
+5e5af09d8201264f9db865aa,Albett,Male,
+5e5af09d8201264f9db865ab,Alebelly,Male,Northmen
+5e5af09d8201264f9db865ac,Alequo Adarys,Male,Tyroshi
+5e5af09d8201264f9db865ad,Alesandor Torrent,Male,
+5e5af09d8201264f9db865ae,Alfyn,Male,Free Folk
+5e5af09d8201264f9db865af,Alia of Braavos,Female,
+5e5af09d8201264f9db865b0,All-for-Joffrey,Male,
+5e5af09d8201264f9db865b1,Allaquo,Male,Braavosi
+5e5af09d8201264f9db865b2,Allard Seaworth,Male,
+5e5af09d8201264f9db865b3,Alvyn Sharp,Male,Ironborn
+5e5af09d8201264f9db865b4,Alyce,Female,
+5e5af09d8201264f9db865b5,Alyn,Male,
+5e5af09d8201264f9db865b6,Alyn,Male,
+5e5af09d8201264f9db865b7,Alysanne Bracken,Female,
+5e5af09d8201264f9db865b8,Amabel,Female,
+5e5af09d8201264f9db865b9,Ambrode,Male,Ironborn
+5e5af09d8201264f9db865ba,Andrey Dalt,Male,Dornish
+5e5af09d8201264f9db865bb,Andrik,Male,Ironborn
+5e5af09d8201264f9db865bc,Anguy,Male,
+5e5af09d8201264f9db865bd,Areo Hotah,Male,Norvoshi
+5e5af09d8201264f9db865be,Argrave the Defiant,Male,
+5e5af09d8201264f9db865bf,Armen,Male,
+5e5af09d8201264f9db865c0,Armistead Vance,Male,Andal
+5e5af09d8201264f9db865c1,Arneld,Male,
+5e5af09d8201264f9db865c2,Arnell,Male,
+5e5af09d8201264f9db865c3,Arron,Male,
+5e5af09d8201264f9db865c4,Arryk,Male,
+5e5af09d8201264f9db865c5,Arson,Male,Free Folk
+5e5af09d8201264f9db865c6,Arya Flint,Female,Northern mountain clans
+5e5af09d8201264f9db865c7,Assadora,Female,Ibbenese
+5e5af09d8201264f9db865c8,Aurane Waters,Male,Valyrian
+5e5af09d8201264f9db865c9,Ayrmidon,Male,Valyrian
+5e5af09d8201264f9db865ca,Azor Ahai,Male,Asshai
+5e5af09d8201264f9db865cb,Azzak,Male,Ghiscari
+5e5af09d8201264f9db865cc,Bael,Male,Free Folk
+5e5af09d8201264f9db865cd,Baelish,Male,Braavosi
+5e5af09d8201264f9db865ce,Balaq,Male,Summer Isles
+5e5af09d8201264f9db865cf,Ballabar,Male,
+5e5af09d8201264f9db865d0,Bandy,Male,Northmen
+5e5af09d8201264f9db865d1,Bannen,Male,
+5e5af09d8201264f9db865d2,Barbara Bracken,Female,
+5e5af09d8201264f9db865d3,Barra,Female,
+5e5af09d8201264f9db865d4,Barsena,Female,Ghiscari
+5e5af09d8201264f9db865d5,Barth,Male,
+5e5af09d8201264f9db865d6,Bearded Ben,Male,
+5e5af09d8201264f9db865d7,Beardless Dick,Male,
+5e5af09d8201264f9db865d8,Becca,Female,
+5e5af09d8201264f9db865d9,Becca,Female,
+5e5af09d8201264f9db865da,Beck,Male,
+5e5af09d8201264f9db865db,Bedwyck,Male,
+5e5af09d8201264f9db865dc,Belandra,Female,
+5e5af09d8201264f9db865dd,Belaquo,Male,Ghiscari
+5e5af09d8201264f9db865de,Beldecar,Male,
+5e5af09d8201264f9db865df,Belis,Male,
+5e5af09d8201264f9db865e0,Bella,Female,
+5e5af09d8201264f9db865e1,Bellegere Otherys,Female,Braavosi
+5e5af09d8201264f9db865e2,Bellegere Otherys,Female,Braavosi
+5e5af09d8201264f9db865e3,Bellonara Otherys,Female,Braavosi
+5e5af09d8201264f9db865e4,Belwas,Male,Meereenese
+5e5af09d8201264f9db865e5,Ben,Male,
+5e5af09d8201264f9db865e6,Ben,Male,
+5e5af09d8201264f9db865e7,Ben,Male,
+5e5af09d8201264f9db865e8,Benedict,Male,
+5e5af09d8201264f9db865e9,Bennet,Male,
+5e5af09d8201264f9db865ea,Beqqo,Male,Braavosi
+5e5af09d8201264f9db865eb,Bess Bracken,Female,
+5e5af09d8201264f9db865ec,Bessa,Female,
+5e5af09d8201264f9db865ed,Bessa,Female,Northmen
+5e5af09d8201264f9db865ee,Bethany,Female,Braavosi
+5e5af09d8201264f9db865ef,Bethany Fair-Fingers,Female,
+5e5af09d8201264f9db865f0,Betharios,Female,
+5e5af09d8201264f9db865f1,Bhakaz zo Loraq,Male,Ghiscari
+5e5af09d8201264f9db865f2,Bharbo,Male,Dothraki
+5e5af09d8201264f9db865f3,Big Belly Ben,Male,
+5e5af09d8201264f9db865f4,Big Boil,Male,Free Folk
+5e5af09d8201264f9db865f5,Biter,Male,
+5e5af09d8201264f9db865f6,Black Bernarr,Male,
+5e5af09d8201264f9db865f7,Blane,Male,
+5e5af09d8201264f9db865f8,Bloodbeard,Male,
+5e5af09d8201264f9db865f9,Bluetooth,Male,Ironborn
+5e5af09d8201264f9db865fa,Bodger,Male,Free Folk
+5e5af09d8201264f9db865fb,Borcas,Male,
+5e5af09d8201264f9db865fc,Borroq,Male,Free Folk
+5e5af09d8201264f9db865fd,Bors,Male,
+5e5af09d8201264f9db865fe,Boy,Male,
+5e5af09d8201264f9db865ff,Brea,Female,Braavosi
+5e5af09d8201264f9db86600,Brella,Female,
+5e5af09d8201264f9db86601,Brenett,Male,
+5e5af09d8201264f9db86602,Briar,Male,Free Folk
+5e5af09d8201264f9db86603,Brogg,Male,Free Folk
+5e5af09d8201264f9db86604,Brown Bernarr,Male,
+5e5af09d8201264f9db86605,Brusco,Male,Braavosi
+5e5af09d8201264f9db86606,Bryan of Oldtown,Male,Reach
+5e5af09d8201264f9db86607,Bryen,Male,
+5e5af09d8201264f9db86608,Brynden Blackwood,Male,
+5e5af09d8201264f9db86609,Brynden Rivers,Male,Valyrian
+5e5af09d8201264f9db8660a,Bump,Male,Free Folk
+5e5af09d8201264f9db8660b,Butterbumps,Male,
+5e5af09d8201264f9db8660c,Buu,Female,
+5e5af09d8201264f9db8660d,Byam Flint,Male,
+5e5af09d8201264f9db8660e,Byan Votyris,Male,Norvoshi
+5e5af09d8201264f9db8660f,Byren Flowers,Male,
+5e5af09d8201264f9db86610,Byron,Male,
+5e5af09d8201264f9db86611,Cadwyl,Male,Ironborn
+5e5af09d8201264f9db86612,Cadwyn,Male,
+5e5af09d8201264f9db86613,Cafferen,Male,
+5e5af09d8201264f9db86614,Caleotte,Male,
+5e5af09d8201264f9db86615,Calon,Male,Northmen
+5e5af09d8201264f9db86616,Camarron,Male,Ghiscari
+5e5af09d8201264f9db86617,Carrot,Male,
+5e5af09d8201264f9db86618,Cass,Female,
+5e5af09d8201264f9db86619,Castos,Male,
+5e5af09d8201264f9db8661a,Catelyn Bracken,Female,
+5e5af09d8201264f9db8661b,Cayn,Male,Northmen
+5e5af09d8201264f9db8661c,Cedra,Female,
+5e5af09d8201264f9db8661d,Cellador,Male,
+5e5af09d8201264f9db8661e,Cerrick,Male,Ironborn
+5e5af09d8201264f9db8661f,Cetheres,Male,
+5e5af09d8201264f9db86620,Chataya,Female,Summer Isles
+5e5af09d8201264f9db86621,Chella daughter of Cheyk,Female,Mountain clans
+5e5af09d8201264f9db86622,Chett,Male,
+5e5af09d8201264f9db86623,Cheyk,Female,
+5e5af09d8201264f9db86624,Chiggen,Male,
+5e5af09d8201264f9db86625,Chiswyck,Male,
+5e5af09d8201264f9db86626,Clarence Crabb,Male,
+5e5af09d8201264f9db86627,Clegane,Male,
+5e5af09d8201264f9db86628,Clement,Male,
+5e5af09d8201264f9db86629,Cleon,Male,Astapori
+5e5af09d8201264f9db8662a,Cleos Frey,Male,
+5e5af09d8201264f9db8662b,Clifford Conklyn,Male,
+5e5af09d8201264f9db8662c,Clydas,Male,
+5e5af09d8201264f9db8662d,Cohollo,Male,Dothraki
+5e5af09d8201264f9db8662e,Coldhands,Male,
+5e5af09d8201264f9db8662f,Colemon,Male,
+5e5af09d8201264f9db86630,Collio Quaynis,Male,Tyroshi
+5e5af09d8201264f9db86631,Conn son of Coratt,Male,
+5e5af09d8201264f9db86632,Conwy,Male,
+5e5af09d8201264f9db86633,Coratt,Male,
+5e5af09d8201264f9db86634,Corliss Penny,Male,
+5e5af09d8201264f9db86635,Corlos,Male,First Men
+5e5af09d8201264f9db86636,Cosgrove,Male,
+5e5af09d8201264f9db86637,Cossomo,Male,Braavosi
+5e5af09d8201264f9db86638,Cotter Pyke,Male,Ironborn
+5e5af09d8201264f9db86639,Courteny Greenhill,Male,
+5e5af09d8201264f9db8663a,Craghas Drahar,Male,Myrish
+5e5af09d8201264f9db8663b,Cragorn,Male,
+5e5af09d8201264f9db8663c,Craster,Male,Free Folk
+5e5af09d8201264f9db8663d,Crawn son of Calor,Male,Mountain clans
+5e5af09d8201264f9db8663e,Cressen,Male,
+5e5af09d8201264f9db8663f,Cuger,Male,
+5e5af09d8201264f9db86640,Cutjack,Male,
+5e5af09d8201264f9db86641,Daario Naharis,Male,Tyroshi
+5e5af09d8201264f9db86642,Dacks,Male,
+5e5af09d8201264f9db86643,Daegon Shepherd,Male,Ironborn
+5e5af09d8201264f9db86644,Daemon Sand,Male,Dornish
+5e5af09d8201264f9db86645,Daenaera Velaryon,Female,Valyrian
+5e5af09d8201264f9db86646,Daenerys Targaryen,Female,Valyrian
+5e5af09d8201264f9db86647,Daeryssa,Female,
+5e5af09d8201264f9db86648,Dafyn Vance,Male,
+5e5af09d8201264f9db86649,Dagmer,Male,Ironborn
+5e5af09d8201264f9db8664a,Dagon Ironmaker,Male,Ironborn
+5e5af09d8201264f9db8664b,Dake,Male,
+5e5af09d8201264f9db8664c,Dake,Male,
+5e5af09d8201264f9db8664d,Dale Seaworth,Male,
+5e5af09d8201264f9db8664e,Dalla,Female,Free Folk
+5e5af09d8201264f9db8664f,Dalla,Female,
+5e5af09d8201264f9db86650,Damon,Male,
+5e5af09d8201264f9db86651,Dan,Male,Free Folk
+5e5af09d8201264f9db86652,Dancy,Female,
+5e5af09d8201264f9db86653,Danny Flint,Male,Northmen
+5e5af09d8201264f9db86654,Dareon,Male,
+5e5af09d8201264f9db86655,Darla Deddings,Female,
+5e5af09d8201264f9db86656,Davos Seaworth,Male,Westeros
+5e5af09d8201264f9db86657,Del,Male,Free Folk
+5e5af09d8201264f9db86658,Delp,Male,
+5e5af09d8201264f9db86659,Denestan,Male,
+5e5af09d8201264f9db8665a,Dennett,Male,
+5e5af09d8201264f9db8665b,Denyo Terys,Male,Braavosi
+5e5af09d8201264f9db8665c,Dermot,Male,
+5e5af09d8201264f9db8665d,Desmond,Male,
+5e5af09d8201264f9db8665e,Devyn,Male,Free Folk
+5e5af09d8201264f9db8665f,Dhazzar,Female,Ghiscari
+5e5af09d8201264f9db86660,Dick,Male,
+5e5af09d8201264f9db86661,Dick Crabb,Male,
+5e5af09d8201264f9db86662,Dirk,Male,
+5e5af09d8201264f9db86663,Dobber,Male,
+5e5af09d8201264f9db86664,Dolf son of Holger,Male,
+5e5af09d8201264f9db86665,Donnel Hill,Male,
+5e5af09d8201264f9db86666,Donnel Waynwood,Male,
+5e5af09d8201264f9db86667,Donnis,Male,Northmen
+5e5af09d8201264f9db86668,Donyse,Female,
+5e5af09d8201264f9db86669,Dorcas,Female,
+5e5af09d8201264f9db8666a,Dorea Sand,Female,Dornish
+5e5af09d8201264f9db8666b,Doreah,Female,Lysene
+5e5af09d8201264f9db8666c,Dormund,Male,Free Folk
+5e5af09d8201264f9db8666d,Dornish Dilly,Male,
+5e5af09d8201264f9db8666e,Doss,Male,Free Folk
+5e5af09d8201264f9db8666f,Draqaz,Male,Ghiscari
+5e5af09d8201264f9db86670,Drennan,Male,Ironborn
+5e5af09d8201264f9db86671,Drogo,Male,Dothraki
+5e5af09d8201264f9db86672,Dryn,Male,Free Folk
+5e5af09d8201264f9db86673,Dudley,Male,
+5e5af09d8201264f9db86674,Dunaver,Male,
+5e5af09d8201264f9db86675,Dunsen,Male,
+5e5af09d8201264f9db86676,Dyah,Female,Free Folk
+5e5af09d8201264f9db86677,Dywen,Male,
+5e5af09d8201264f9db86678,Easy,Male,
+5e5af09d8201264f9db86679,Ebrose,Male,
+5e5af09d8201264f9db8667a,Edric Storm,Male,
+5e5af09d8201264f9db8667b,Eggon,Male,
+5e5af09d8201264f9db8667c,Egon Emeros,Male,Qartheen
+5e5af09d8201264f9db8667d,Elaena Targaryen,Female,Valyrian
+5e5af09d8201264f9db8667e,Elder Brother,Male,
+5e5af09d8201264f9db8667f,Eldiss,Male,Ironborn
+5e5af09d8201264f9db86680,Elenei,Female,
+5e5af09d8201264f9db86681,Elia Sand,Female,Dornish
+5e5af09d8201264f9db86682,Elron,Male,
+5e5af09d8201264f9db86683,Elwood,Male,
+5e5af09d8201264f9db86684,Elza,Female,Meereenese
+5e5af09d8201264f9db86685,Emma,Female,
+5e5af09d8201264f9db86686,Emmett,Male,
+5e5af09d8201264f9db86687,Emmond,Male,Ironborn
+5e5af09d8201264f9db86688,Emrick,Male,
+5e5af09d8201264f9db86689,Endehar,Male,
+5e5af09d8201264f9db8668a,Enger,Male,
+5e5af09d8201264f9db8668b,Erik Ironmaker,Male,Ironborn
+5e5af09d8201264f9db8668c,Eroeh,Female,Lhazareen
+5e5af09d8201264f9db8668d,Erreck,Male,
+5e5af09d8201264f9db8668e,Erreg,Male,Andal
+5e5af09d8201264f9db8668f,Errok,Male,Free Folk
+5e5af09d8201264f9db86690,Erryk,Male,
+5e5af09d8201264f9db86691,Esgred,Female,
+5e5af09d8201264f9db86692,Eustace,Male,
+5e5af09d8201264f9db86693,Eustace Brune,Male,
+5e5af09d8201264f9db86694,Ezzara,Female,Ghiscari
+5e5af09d8201264f9db86695,Falia Flowers,Female,
+5e5af09d8201264f9db86696,Farlen,Male,
+5e5af09d8201264f9db86697,Fern,Female,
+5e5af09d8201264f9db86698,Ferny,Female,Free Folk
+5e5af09d8201264f9db86699,Ferrego Antaryon,Male,Braavosi
+5e5af09d8201264f9db8669a,Ferret,Male,
+5e5af09d8201264f9db8669b,Florys the Fox,Female,
+5e5af09d8201264f9db8669c,Fogo,Male,Dothraki
+5e5af09d8201264f9db8669d,Fornio,Male,
+5e5af09d8201264f9db8669e,Fralegg,Male,Ironborn
+5e5af09d8201264f9db8669f,Franklyn Frey,Male,
+5e5af09d8201264f9db866a0,Frenken,Male,
+5e5af09d8201264f9db866a1,Frenya,Female,Free Folk
+5e5af09d8201264f9db866a2,Frynne,Female,
+5e5af09d8201264f9db866a3,Gage,Male,
+5e5af09d8201264f9db866a4,Galazza Galare,Female,Ghiscari
+5e5af09d8201264f9db866a5,Galladon of Morne,Male,
+5e5af09d8201264f9db866a6,Gallard,Male,
+5e5af09d8201264f9db866a7,Galt,Male,Mountain clans
+5e5af09d8201264f9db866a8,Galyeon of Cuy,Male,
+5e5af09d8201264f9db866a9,Gareth,Male,
+5e5af09d8201264f9db866aa,Gareth Clifton,Male,
+5e5af09d8201264f9db866ab,Garigus,Male,
+5e5af09d8201264f9db866ac,Garin,Male,Dornish
+5e5af09d8201264f9db866ad,Garin,Male,Rhoynar
+5e5af09d8201264f9db866ae,Gariss,Male,
+5e5af09d8201264f9db866af,Garizon,Male,
+5e5af09d8201264f9db866b0,Garrett Flowers,Male,
+5e5af09d8201264f9db866b1,Garse Flowers,Male,
+5e5af09d8201264f9db866b2,Garth Greenhand,Male,First Men
+5e5af09d8201264f9db866b3,Garth of Greenaway,Male,
+5e5af09d8201264f9db866b4,Garth of Oldtown,Male,
+5e5af09d8201264f9db866b5,Gascoyne,Male,
+5e5af09d8201264f9db866b6,Gavin,Male,Free Folk
+5e5af09d8201264f9db866b7,Gelmarr,Male,
+5e5af09d8201264f9db866b8,Gendel,Male,Free Folk
+5e5af09d8201264f9db866b9,Gendry,Male,
+5e5af09d8201264f9db866ba,Gerardys,Male,
+5e5af09d8201264f9db866bb,Gergen,Male,
+5e5af09d8201264f9db866bc,Gerold Dayne,Male,Dornish
+5e5af09d8201264f9db866bd,Gerren,Male,
+5e5af09d8201264f9db866be,Gerrick,Male,Free folk
+5e5af09d8201264f9db866bf,Gerris Drinkwater,Male,Dornish
+5e5af09d8201264f9db866c0,Ghael,Male,Astapori
+5e5af09d8201264f9db866c1,Ghost of High Heart,Female,
+5e5af09d8201264f9db866c2,Gilly,Female,Free Folk
+5e5af09d8201264f9db866c3,Glendon Hewett,Male,
+5e5af09d8201264f9db866c4,Goady,Male,
+5e5af09d8201264f9db866c5,Godwyn,Male,
+5e5af09d8201264f9db866c6,Goghor,Male,Ghiscari
+5e5af09d8201264f9db866c7,Goodwin,Male,
+5e5af09d8201264f9db866c8,Gorghan of Old Ghis,Male,Ghiscari
+5e5af09d8201264f9db866c9,Gormon Tyrell,Male,
+5e5af09d8201264f9db866ca,Gorne,Male,Free Folk
+5e5af09d8201264f9db866cb,Grazdan,Male,Astapori
+5e5af09d8201264f9db866cc,Grazdan mo Ullhor,Male,Astapori
+5e5af09d8201264f9db866cd,Grazdan the Great,Male,Ghiscari
+5e5af09d8201264f9db866ce,Grazdan zo Galare,Male,Meereenese
+5e5af09d8201264f9db866cf,Grazdar zo Galare,Male,Ghiscari
+5e5af09d8201264f9db866d0,Great Walrus,Male,Free Folk
+5e5af09d8201264f9db866d1,Gregor Clegane,Male,
+5e5af09d8201264f9db866d2,Gretchel,Female,
+5e5af09d8201264f9db866d3,Grey King,Male,Ironborn
+5e5af09d8201264f9db866d4,Grey Worm,Male,
+5e5af09d8201264f9db866d5,Griffin King,Male,First Men
+5e5af09d8201264f9db866d6,Grigg,Male,Free Folk
+5e5af09d8201264f9db866d7,Grisel,Female,
+5e5af09d8201264f9db866d8,Grisella,Female,Free Folk
+5e5af09d8201264f9db866d9,Groleo,Male,Pentoshi
+5e5af09d8201264f9db866da,Grubbs,Male,
+5e5af09d8201264f9db866db,Grunt,Male,Northmen
+5e5af09d8201264f9db866dc,Gueren,Male,
+5e5af09d8201264f9db866dd,Gulian,Male,
+5e5af09d8201264f9db866de,Gunthor son of Gurn,Male,
+5e5af09d8201264f9db866df,Gurn,Male,Mountain clans
+5e5af09d8201264f9db866e0,Guyne,Male,
+5e5af09d8201264f9db866e1,Gyldayn,Male,
+5e5af09d8201264f9db866e2,Gyleno Dothare,Male,Braavosi
+5e5af09d8201264f9db866e3,Gyloro Dothare,Male,Braavosi
+5e5af09d8201264f9db866e4,Gynir,Male,
+5e5af09d8201264f9db866e5,Haegon Blackfyre,Male,Valyrian
+5e5af09d8201264f9db866e6,Haggo,Male,Dothraki
+5e5af09d8201264f9db866e7,Haggon,Male,Free Folk
+5e5af09d8201264f9db866e8,Hairy Hal,Male,
+5e5af09d8201264f9db866e9,Hake,Male,
+5e5af09d8201264f9db866ea,Hal,Male,
+5e5af09d8201264f9db866eb,Halder,Male,
+5e5af09d8201264f9db866ec,Haldon,Male,
+5e5af09d8201264f9db866ed,Hali,Female,Free Folk
+5e5af09d8201264f9db866ee,Hallyne,Male,
+5e5af09d8201264f9db866ef,Hamish,Male,
+5e5af09d8201264f9db866f0,Harbert,Male,
+5e5af09d8201264f9db866f1,Hareth,Male,
+5e5af09d8201264f9db866f2,Hareth,Male,
+5e5af09d8201264f9db866f3,Harghaz,Male,Ghiscari
+5e5af09d8201264f9db866f4,Harle,Male,Free Folk
+5e5af09d8201264f9db866f5,Harle,Male,Free Folk
+5e5af09d8201264f9db866f6,Harma,Female,Free Folk
+5e5af09d8201264f9db866f7,Harmund Sharp,Male,Ironborn
+5e5af09d8201264f9db866f8,Harmune,Male,
+5e5af09d8201264f9db866f9,Harodon,Male,
+5e5af09d8201264f9db866fa,Harra,Female,
+5e5af09d8201264f9db866fb,Harrag Sharp,Male,Ironborn
+5e5af09d8201264f9db866fc,Harren Half-Hoare,Male,Ironborn
+5e5af09d8201264f9db866fd,Harry Sawyer,Male,
+5e5af09d8201264f9db866fe,Harsley,Male,
+5e5af09d8201264f9db866ff,Harwin,Male,Northmen
+5e5af09d8201264f9db86700,Hayhead,Male,Northmen
+5e5af09d8201264f9db86701,Hazrak zo Loraq,Male,Ghiscari
+5e5af09d8201264f9db86702,Hazzea,Female,Ghiscari
+5e5af09d8201264f9db86703,Heke,Male,
+5e5af09d8201264f9db86704,Helliweg,Male,
+5e5af09d8201264f9db86705,Helly,Female,
+5e5af09d8201264f9db86706,Helya,Female,
+5e5af09d8201264f9db86707,Hendry Bracken,Male,
+5e5af09d8201264f9db86708,Henk,Male,Free Folk
+5e5af09d8201264f9db86709,Henly,Male,
+5e5af09d8201264f9db8670a,Heward,Male,Northmen
+5e5af09d8201264f9db8670b,Hibald,Male,
+5e5af09d8201264f9db8670c,Hizdahr zo Loraq,Male,Ghiscari
+5e5af09d8201264f9db8670d,Hobb,Male,
+5e5af09d8201264f9db8670e,Hod,Male,
+5e5af09d8201264f9db8670f,Hoke,Male,
+5e5af09d8201264f9db86710,Holger,Male,
+5e5af09d8201264f9db86711,Holly,Female,Free Folk
+5e5af09d8201264f9db86712,Hop-Robin,Male,
+5e5af09d8201264f9db86713,Hot Pie,Male,
+5e5af09d8201264f9db86714,Howd,Male,Free Folk
+5e5af09d8201264f9db86715,Hugh Hammer,Male,
+5e5af09d8201264f9db86716,Hugor of the Hill,Male,Andal
+5e5af09d8201264f9db86717,Hullen,Male,Northmen
+5e5af09d8201264f9db86718,Humfrey Clifton,Male,
+5e5af09d8201264f9db86719,Hunnimore,Male,
+5e5af09d8201264f9db8671a,Husband,Male,
+5e5af09d8201264f9db8671b,Iggo,Male,Dothraki
+5e5af09d8201264f9db8671c,Illyrio Mopatis,Male,Pentoshi
+5e5af09d8201264f9db8671d,Illyrio's first wife,Female,Pentoshi
+5e5af09d8201264f9db8671e,Ironbelly,Male,
+5e5af09d8201264f9db8671f,Irri,Female,Dothraki
+5e5af09d8201264f9db86720,Ithoke,Male,Ghiscari
+5e5af09d8201264f9db86721,Jack,Male,
+5e5af09d8201264f9db86722,Jacks,Male,
+5e5af09d8201264f9db86723,Jaehaera Targaryen,Female,Valyrian
+5e5af09d8201264f9db86724,Jaehaerys Targaryen,Male,
+5e5af09d8201264f9db86725,Jafer Flowers,Male,
+5e5af09d8201264f9db86726,Jaggot,Male,
+5e5af09d8201264f9db86727,Jalabhar Xho,Male,Summer Isles
+5e5af09d8201264f9db86728,Jaqen H'ghar,Male,
+5e5af09d8201264f9db86729,Jarl,Male,Free Folk
+5e5af09d8201264f9db8672a,Jate,Male,
+5e5af09d8201264f9db8672b,Jate Blackberry,Male,
+5e5af09d8201264f9db8672c,Jayde,Female,
+5e5af09d8201264f9db8672d,Jayne Bracken,Female,
+5e5af09d8201264f9db8672e,Jenny,Female,
+5e5af09d8201264f9db8672f,Jenny of Oldstones,Female,
+5e5af09d8201264f9db86730,Jeren,Male,
+5e5af09d8201264f9db86731,Jeyne,Female,Braavosi
+5e5af09d8201264f9db86732,Jeyne,Female,
+5e5af09d8201264f9db86733,Jeyne Heddle,Female,
+5e5af09d8201264f9db86734,Jeyne Rivers,Female,
+5e5af09d8201264f9db86735,Jeyne Waters,Female,Westeros
+5e5af09d8201264f9db86736,Jezhene,Female,Ghiscari
+5e5af09d8201264f9db86737,Jhaqo,Male,Dothraki
+5e5af09d8201264f9db86738,Jhiqui,Female,Dothraki
+5e5af09d8201264f9db86739,Jhogo,Male,Dothraki
+5e5af09d8201264f9db8673a,Jodge,Male,
+5e5af09d8201264f9db8673b,Jommo,Male,Dothraki
+5e5af09d8201264f9db8673c,Jommy,Male,
+5e5af09d8201264f9db8673d,Jon Cupps,Male,
+5e5af09d8201264f9db8673e,Jon Heddle,Male,
+5e5af09d8201264f9db8673f,Jon Penny,Male,
+5e5af09d8201264f9db86740,Jon Pox,Male,
+5e5af09d8201264f9db86741,Jon Vance,Male,
+5e5af09d8201264f9db86742,Jon Waters,Male,
+5e5af09d8201264f9db86743,Jonos Bracken,Male,
+5e5af09d8201264f9db86744,Jorah Mormont,Male,Northmen
+5e5af09d8201264f9db86745,Joramun,Male,Free Folk
+5e5af09d8201264f9db86746,Jorgen,Male,
+5e5af09d8201264f9db86747,Jorquen,Male,
+5e5af09d8201264f9db86748,Joseran,Male,
+5e5af09d8201264f9db86749,Joseth,Male,
+5e5af09d8201264f9db8674a,Joss,Male,
+5e5af09d8201264f9db8674b,Joss,Male,Braavosi
+5e5af09d8201264f9db8674c,Joss Stilwood,Male,
+5e5af09d8201264f9db8674d,Joth Quickbow,Male,
+5e5af09d8201264f9db8674e,Joy Hill,Female,
+5e5af09d8201264f9db8674f,Jurne,Male,
+5e5af09d8201264f9db86750,Jyana,Female,Crannogmen
+5e5af09d8201264f9db86751,Jyck,Male,
+5e5af09d8201264f9db86752,Jynessa Blackmont,Female,Dornish
+5e5af09d8201264f9db86753,Jyzene,Female,
+5e5af09d8201264f9db86754,Kaeth,Male,
+5e5af09d8201264f9db86755,Karl,Male,
+5e5af09d8201264f9db86756,Kedge Whiteye,Male,
+5e5af09d8201264f9db86757,Kedry,Male,
+5e5af09d8201264f9db86758,Kegs,Male,
+5e5af09d8201264f9db86759,Kella,Female,
+5e5af09d8201264f9db8675a,Kemmett Pyke,Male,Ironborn
+5e5af09d8201264f9db8675b,Kenned,Male,Ironborn
+5e5af09d8201264f9db8675c,Kennos of Kayce,Male,
+5e5af09d8201264f9db8675d,Ketter,Male,
+5e5af09d8201264f9db8675e,Kezmya,Female,Ghiscari
+5e5af09d8201264f9db8675f,Khorane Sathmantes,Male,Lysene
+5e5af09d8201264f9db86760,Khrazz,Male,Ghiscari
+5e5af09d8201264f9db86761,Kiera of Tyrosh,Female,Tyroshi
+5e5af09d8201264f9db86762,Kindly Man,Male,Braavosi
+5e5af09d8201264f9db86763,Kirby Pimm,Male,
+5e5af09d8201264f9db86764,Kojja Mo,Female,Summer Isles
+5e5af09d8201264f9db86765,Koss,Male,
+5e5af09d8201264f9db86766,Kraznys mo Nakloz,Male,Astapori
+5e5af09d8201264f9db86767,Kromm,Male,Ironborn
+5e5af09d8201264f9db86768,Kurleket,Male,
+5e5af09d8201264f9db86769,Kurz,Male,
+5e5af09d8201264f9db8676a,Kyle,Male,
+5e5af09d8201264f9db8676b,Kyle,Male,
+5e5af09d8201264f9db8676c,Kyleg,Male,Free Folk
+5e5af09d8201264f9db8676d,Kym,Male,
+5e5af09d8201264f9db8676e,Kyra,Female,
+5e5af09d8201264f9db8676f,Lady of the Leaves,Female,
+5e5af09d8201264f9db86770,Lanna,Female,
+5e5af09d8201264f9db86771,Lanna,Female,Braavosi
+5e5af09d8201264f9db86772,Lark,Male,Sistermen
+5e5af09d8201264f9db86773,Larra Blackmont,Female,Dornish
+5e5af09d8201264f9db86774,Larra Rogare,Female,Lysene
+5e5af09d8201264f9db86775,Larraq,Male,Ghiscari
+5e5af09d8201264f9db86776,Layna,Female,
+5e5af09d8201264f9db86777,Leathers,Male,Free Folk
+5e5af09d8201264f9db86778,Left Hand Lew,Male,
+5e5af09d8201264f9db86779,Lem,Male,
+5e5af09d8201264f9db8677a,Lem,Male,
+5e5af09d8201264f9db8677b,Lenn,Male,Free Folk
+5e5af09d8201264f9db8677c,Lennocks,Male,
+5e5af09d8201264f9db8677d,Lenyl,Male,Free Folk
+5e5af09d8201264f9db8677e,Leonette Fossoway,Female,
+5e5af09d8201264f9db8677f,Lester,Male,
+5e5af09d8201264f9db86780,Lew,Male,Northmen
+5e5af09d8201264f9db86781,Lew,Male,
+5e5af09d8201264f9db86782,Lewis Lanster,Male,
+5e5af09d8201264f9db86783,Lewys,Male,
+5e5af09d8201264f9db86784,Lharys,Male,
+5e5af09d8201264f9db86785,Lister,Male,
+5e5af09d8201264f9db86786,Lommy,Male,
+5e5af09d8201264f9db86787,Lomys,Male,
+5e5af09d8201264f9db86788,Lorcas,Male,
+5e5af09d8201264f9db86789,Lord Belgrave,Male,
+5e5af09d8201264f9db8678a,Lord of Bones,Male,Free Folk
+5e5af09d8201264f9db8678b,Loren I Lannister,Male,
+5e5af09d8201264f9db8678c,Loreza Sand,Female,Dornish
+5e5af09d8201264f9db8678d,Lorimer,Male,
+5e5af09d8201264f9db8678e,Lormelle,Male,
+5e5af09d8201264f9db8678f,Lorren,Male,
+5e5af09d8201264f9db86790,Lothar,Male,
+5e5af09d8201264f9db86791,Lotho Lornel,Male,Braavosi
+5e5af09d8201264f9db86792,Lucan,Male,
+5e5af09d8201264f9db86793,Lucantine Woodwright,Male,
+5e5af09d8201264f9db86794,Lucas Blackwood,Male,
+5e5af09d8201264f9db86795,Lucas Nayland,Male,
+5e5af09d8201264f9db86796,Lucifer Hardy,Male,
+5e5af09d8201264f9db86797,Luco Prestayn,Male,Braavosi
+5e5af09d8201264f9db86798,Lucos,Male,
+5e5af09d8201264f9db86799,Luke,Male,
+5e5af09d8201264f9db8679a,Luke,Male,
+5e5af09d8201264f9db8679b,Lum,Male,
+5e5af09d8201264f9db8679c,Luton,Male,Northmen
+5e5af09d8201264f9db8679d,Luwin,Male,Westeros
+5e5af09d8201264f9db8679e,Lyanna Stark,Female,Northmen
+5e5af09d8201264f9db8679f,Lync,Male,
+5e5af09d8201264f9db867a0,Lyonel,Male,
+5e5af09d8201264f9db867a1,Lysono Maar,Male,Lysene
+5e5af09d8201264f9db867a2,Mad Huntsman,Male,
+5e5af09d8201264f9db867a3,Maddy,Female,
+5e5af09d8201264f9db867a4,Maerie,Female,
+5e5af09d8201264f9db867a5,Maerie,Female,
+5e5af09d8201264f9db867a6,Mag Mar Tun Doh Weg,Male,
+5e5af09d8201264f9db867a7,Maggy,Female,
+5e5af09d8201264f9db867a8,Mago,Male,Dothraki
+5e5af09d8201264f9db867a9,Malcolm,Male,
+5e5af09d8201264f9db867aa,Malleon,Male,
+5e5af09d8201264f9db867ab,Malliard,Male,
+5e5af09d8201264f9db867ac,Mallor,Male,
+5e5af09d8201264f9db867ad,Mallor,Male,
+5e5af09d8201264f9db867ae,Mance Rayder,Male,Free folk
+5e5af09d8201264f9db867af,Marei,Female,
+5e5af09d8201264f9db867b0,Marghaz zo Loraq,Male,Ghiscari
+5e5af09d8201264f9db867b1,Marianne Vance,Female,
+5e5af09d8201264f9db867b2,Marillion,Male,
+5e5af09d8201264f9db867b3,Maris,Female,Free folk
+5e5af09d8201264f9db867b4,Maris the Maid,Female,
+5e5af09d8201264f9db867b5,Marq Grafton,Male,
+5e5af09d8201264f9db867b6,Martyn Rivers,Male,
+5e5af09d8201264f9db867b7,Marwyn,Male,
+5e5af09d8201264f9db867b8,Marya Seaworth,Female,
+5e5af09d8201264f9db867b9,Masha Heddle,Female,
+5e5af09d8201264f9db867ba,Maslyn,Male,
+5e5af09d8201264f9db867bb,Mathos Mallarawan,Male,Qartheen
+5e5af09d8201264f9db867bc,Matrice,Female,
+5e5af09d8201264f9db867bd,Matt,Male,
+5e5af09d8201264f9db867be,Matthar,Male,
+5e5af09d8201264f9db867bf,Matthos Seaworth,Male,
+5e5af09d8201264f9db867c0,Mawney,Male,
+5e5af09d8201264f9db867c1,Maynard,Male,
+5e5af09d8201264f9db867c2,Mazdhan zo Loraq,Male,Ghiscari
+5e5af09d8201264f9db867c3,Mebble,Male,
+5e5af09d8201264f9db867c4,Medwick Tyrell,Male,
+5e5af09d8201264f9db867c5,Meg,Female,
+5e5af09d8201264f9db867c6,Megette,Female,
+5e5af09d8201264f9db867c7,Meha,Female,Free Folk
+5e5af09d8201264f9db867c8,Meizo Mahr,Male,
+5e5af09d8201264f9db867c9,Mela,Female,
+5e5af09d8201264f9db867ca,Melaquin,Male,
+5e5af09d8201264f9db867cb,Meliana,Female,
+5e5af09d8201264f9db867cc,Mellara Rivers,Female,
+5e5af09d8201264f9db867cd,Mellario,Female,Norvoshi
+5e5af09d8201264f9db867ce,Mellei,Female,
+5e5af09d8201264f9db867cf,Mellos,Male,
+5e5af09d8201264f9db867d0,Melly,Female,
+5e5af09d8201264f9db867d1,Melwys Rivers,Male,
+5e5af09d8201264f9db867d2,Meralyn,Male,Braavosi
+5e5af09d8201264f9db867d3,Mero,Male,Braavosi
+5e5af09d8201264f9db867d4,Merrit,Male,
+5e5af09d8201264f9db867d5,Mezzara,Female,Ghiscari
+5e5af09d8201264f9db867d6,Mikken,Male,Northmen
+5e5af09d8201264f9db867d7,Miklaz,Male,Ghiscari
+5e5af09d8201264f9db867d8,Mirri Maz Duur,Female,Lhazareen
+5e5af09d8201264f9db867d9,Missandei,Female,Naathi
+5e5af09d8201264f9db867da,Mohor,Male,
+5e5af09d8201264f9db867db,Mollander,Male,
+5e5af09d8201264f9db867dc,Mollos,Male,
+5e5af09d8201264f9db867dd,Moon Boy,Male,
+5e5af09d8201264f9db867de,Moonshadow,Female,
+5e5af09d8201264f9db867df,Mord,Male,
+5e5af09d8201264f9db867e0,Moredo Prestayn,Male,Braavosi
+5e5af09d8201264f9db867e1,Moreo Tumitis,Male,
+5e5af09d8201264f9db867e2,Morgan Martell,Male,Andal
+5e5af09d8201264f9db867e3,Morgarth,Male,
+5e5af09d8201264f9db867e4,Morna White Mask,Female,Free Folk
+5e5af09d8201264f9db867e5,Moro,Male,Dothraki
+5e5af09d8201264f9db867e6,Morosh the Myrman,Male,Myrish
+5e5af09d8201264f9db867e7,Morra,Female,
+5e5af09d8201264f9db867e8,Morrec,Male,
+5e5af09d8201264f9db867e9,Mors Martell,Male,Dornish
+5e5af09d8201264f9db867ea,Mortimer Boggs,Male,
+5e5af09d8201264f9db867eb,Morton Waynwood,Male,
+5e5af09d8201264f9db867ec,Mother Mole,Female,Free Folk
+5e5af09d8201264f9db867ed,Mudge,Male,
+5e5af09d8201264f9db867ee,Mudge,Male,
+5e5af09d8201264f9db867ef,Mudge,Male,
+5e5af09d8201264f9db867f0,Mullin,Male,
+5e5af09d8201264f9db867f1,Mully,Male,
+5e5af09d8201264f9db867f2,Munciter,Male,
+5e5af09d8201264f9db867f3,Munda,Female,Free Folk
+5e5af09d8201264f9db867f4,Murch,Male,
+5e5af09d8201264f9db867f5,Murch,Male,Northmen
+5e5af09d8201264f9db867f6,Murenmure,Male,
+5e5af09d8201264f9db867f7,Mushroom,Male,
+5e5af09d8201264f9db867f8,Muttering Bill,Male,
+5e5af09d8201264f9db867f9,Mya Stone,Female,
+5e5af09d8201264f9db867fa,Mycah,Male,Westeros
+5e5af09d8201264f9db867fb,Myles,Male,
+5e5af09d8201264f9db867fc,Myles,Male,
+5e5af09d8201264f9db867fd,Myrtle,Female,Free Folk
+5e5af09d8201264f9db867fe,Mysaria,Female,Lysene
+5e5af09d8201264f9db867ff,Nage,Male,
+5e5af09d8201264f9db86800,Nail,Male,
+5e5af09d8201264f9db86801,Nan,Female,
+5e5af09d8201264f9db86802,Narbert,Male,
+5e5af09d8201264f9db86803,Narbo,Male,Braavosi
+5e5af09d8201264f9db86804,Ned,Male,
+5e5af09d8201264f9db86805,Ned Woods,Male,Northmen
+5e5af09d8201264f9db86806,Nella,Female,Free Folk
+5e5af09d8201264f9db86807,Nestor Royce,Male,
+5e5af09d8201264f9db86808,Nettles,Female,
+5e5af09d8201264f9db86809,Nissa Nissa,Female,
+5e5af09d8201264f9db8680a,Noho Dimittis,Male,Braavosi
+5e5af09d8201264f9db8680b,Nolla,Female,
+5e5af09d8201264f9db8680c,Norjen,Male,Ironborn
+5e5af09d8201264f9db8680d,Normund Tyrell,Male,
+5e5af09d8201264f9db8680e,Norne Goodbrother,Male,Ironborn
+5e5af09d8201264f9db8680f,Norren,Male,
+5e5af09d8201264f9db86810,Notch,Male,
+5e5af09d8201264f9db86811,Nute,Male,Ironborn
+5e5af09d8201264f9db86812,Nymeria Sand,Female,Dornish
+5e5af09d8201264f9db86813,Nymos,Male,
+5e5af09d8201264f9db86814,Obara Sand,Female,Dornish
+5e5af09d8201264f9db86815,Obella Sand,Female,Dornish
+5e5af09d8201264f9db86816,Oberyn Nymeros Martell,Male,Dornish
+5e5af09d8201264f9db86817,Ocley,Male,
+5e5af09d8201264f9db86818,Ogo,Male,Dothraki
+5e5af09d8201264f9db86819,Old Grey Gull,Female,Ironborn
+5e5af09d8201264f9db8681a,Old Henly,Female,
+5e5af09d8201264f9db8681b,Old Tattersalt,Female,
+5e5af09d8201264f9db8681c,Ollo,Male,Tyroshi
+5e5af09d8201264f9db8681d,Omer Blackberry,Male,
+5e5af09d8201264f9db8681e,Omer Florent,Male,
+5e5af09d8201264f9db8681f,Orbelo,Male,Braavosi
+5e5af09d8201264f9db86820,Ordello,Male,Pentoshi
+5e5af09d8201264f9db86821,Orell,Male,Free Folk
+5e5af09d8201264f9db86822,Orland of Oldtown,Male,
+5e5af09d8201264f9db86823,Ormond,Male,
+5e5af09d8201264f9db86824,Oro Tendyris,Male,Braavosi
+5e5af09d8201264f9db86825,Orphan Oss,Male,
+5e5af09d8201264f9db86826,Orwyle,Male,
+5e5af09d8201264f9db86827,Osha,Female,Free Folk
+5e5af09d8201264f9db86828,Ossy,Male,
+5e5af09d8201264f9db86829,Oswyn,Male,
+5e5af09d8201264f9db8682a,Othor,Male,
+5e5af09d8201264f9db8682b,Otter Gimpknee,Male,
+5e5af09d8201264f9db8682c,Ottomore,Male,
+5e5af09d8201264f9db8682d,Owen,Male,
+5e5af09d8201264f9db8682e,Owen,Male,
+5e5af09d8201264f9db8682f,Oznak zo Pahl,Male,Meereenese
+5e5af09d8201264f9db86830,Palla,Female,Northmen
+5e5af09d8201264f9db86831,Patchface,Male,
+5e5af09d8201264f9db86832,Pate,Male,
+5e5af09d8201264f9db86833,Pate,Male,
+5e5af09d8201264f9db86834,Pate,Male,
+5e5af09d8201264f9db86835,Pate,Male,
+5e5af09d8201264f9db86836,Pate,Male,
+5e5af09d8201264f9db86837,Pate,Male,
+5e5af09d8201264f9db86838,Pate of Lancewood,Male,
+5e5af09d8201264f9db86839,Pate of Mory,Male,
+5e5af09d8201264f9db8683a,Pate of Shermer's Grove,Male,
+5e5af09d8201264f9db8683b,Patrek Vance,Male,
+5e5af09d8201264f9db8683c,Pello of Tyrosh,Male,Tyroshi
+5e5af09d8201264f9db8683d,Penny,Female,
+5e5af09d8201264f9db8683e,Perros Blackmont,Male,Dornish
+5e5af09d8201264f9db8683f,Pia,Female,
+5e5af09d8201264f9db86840,Plummer,Male,
+5e5af09d8201264f9db86841,Pollitor,Male,
+5e5af09d8201264f9db86842,Polliver,Male,
+5e5af09d8201264f9db86843,Pono,Male,Dothraki
+5e5af09d8201264f9db86844,Porther,Male,Northmen
+5e5af09d8201264f9db86845,Portifer Woodwright,Male,
+5e5af09d8201264f9db86846,Poul Pemford,Male,
+5e5af09d8201264f9db86847,Poxy Tym,Male,Northmen
+5e5af09d8201264f9db86848,Praed,Male,
+5e5af09d8201264f9db86849,Prendahl na Ghezn,Male,Ghiscari
+5e5af09d8201264f9db8684a,Puckens,Male,
+5e5af09d8201264f9db8684b,Pudding,Male,
+5e5af09d8201264f9db8684c,Puddingfoot,Male,
+5e5af09d8201264f9db8684d,Pyat Pree,Male,
+5e5af09d8201264f9db8684e,Pycelle,Male,
+5e5af09d8201264f9db8684f,Pyg,Male,
+5e5af09d8201264f9db86850,Pylos,Male,
+5e5af09d8201264f9db86851,Qalen,Male,
+5e5af09d8201264f9db86852,Qarl,Male,Ironborn
+5e5af09d8201264f9db86853,Qarl,Male,Ironborn
+5e5af09d8201264f9db86854,Qarl,Male,Ironborn
+5e5af09d8201264f9db86855,Qarl Correy,Male,
+5e5af09d8201264f9db86856,Qarl Shepherd,Male,Ironborn
+5e5af09d8201264f9db86857,Qarro Volentin,Male,Braavosi
+5e5af09d8201264f9db86858,Qezza,Female,Ghiscari
+5e5af09d8201264f9db86859,Qos,Male,
+5e5af09d8201264f9db8685a,Qotho,Male,Dothraki
+5e5af09d8201264f9db8685b,Quaithe,Female,Asshai
+5e5af09d8201264f9db8685c,Quaro,Male,Dothraki
+5e5af09d8201264f9db8685d,Quellon Humble,Male,Ironborn
+5e5af09d8201264f9db8685e,Quence,Male,Braavosi
+5e5af09d8201264f9db8685f,Quent,Male,Northmen
+5e5af09d8201264f9db86860,Quhuru Mo,Male,Summer Isles
+5e5af09d8201264f9db86861,Quill,Male,Braavosi
+5e5af09d8201264f9db86862,Quincy Cox,Male,
+5e5af09d8201264f9db86863,Quort,Male,
+5e5af09d8201264f9db86864,Qyburn,Male,
+5e5af09d8201264f9db86865,Qyle,Male,
+5e5af09d8201264f9db86866,Racallio Ryndoon,Male,Tyroshi
+5e5af09d8201264f9db86867,Rafe,Male,
+5e5af09d8201264f9db86868,Rafford,Male,
+5e5af09d8201264f9db86869,Ragnor Pyke,Male,Ironborn
+5e5af09d8201264f9db8686a,Ragwyle,Male,Free folk
+5e5af09d8201264f9db8686b,Rainbow Knight,Male,
+5e5af09d8201264f9db8686c,Rakharo,Male,Dothraki
+5e5af09d8201264f9db8686d,Ralf,Male,Ironborn
+5e5af09d8201264f9db8686e,Ralf,Male,Ironborn
+5e5af09d8201264f9db8686f,Ralf the Limper,Male,Ironborn
+5e5af09d8201264f9db86870,Randa,Female,
+5e5af09d8201264f9db86871,Rast,Male,
+5e5af09d8201264f9db86872,Rat Cook,Male,
+5e5af09d8201264f9db86873,Rawney,Male,
+5e5af09d8201264f9db86874,Raymar Royce,Male,
+5e5af09d8201264f9db86875,Raymond Nayland,Male,
+5e5af09d8201264f9db86876,Raymun Redbeard,Male,Free Folk
+5e5af09d8201264f9db86877,Red Lamb,Male,Lhazareen
+5e5af09d8201264f9db86878,Red Oarsman,Male,Ironborn
+5e5af09d8201264f9db86879,Redtusk,Male,
+5e5af09d8201264f9db8687a,Rennifer Longwaters,Male,
+5e5af09d8201264f9db8687b,Reysen,Male,
+5e5af09d8201264f9db8687c,Reznak mo Reznak,Male,Ghiscari
+5e5af09d8201264f9db8687d,Rhaego,Male,
+5e5af09d8201264f9db8687e,Rhaenys Targaryen,Female,Valyrian
+5e5af09d8201264f9db8687f,Rhogoro,Male,Dothraki
+5e5af09d8201264f9db86880,Ricasso,Male,
+5e5af09d8201264f9db86881,Richard Farrow,Male,
+5e5af09d8201264f9db86882,Rigney,Male,
+5e5af09d8201264f9db86883,Rob,Male,
+5e5af09d8201264f9db86884,Robb Stark,Male,
+5e5af09d8201264f9db86885,Robin,Male,
+5e5af09d8201264f9db86886,Robin Flint,Male,
+5e5af09d8201264f9db86887,Robin Potter,Male,
+5e5af09d8201264f9db86888,Rodrik Arryn,Male,
+5e5af09d8201264f9db86889,Rodrik Flint,Male,
+5e5af09d8201264f9db8688a,Rodrik Freeborn,Male,Ironborn
+5e5af09d8201264f9db8688b,Roger Hogg,Male,
+5e5af09d8201264f9db8688c,Roger Ryswell,Male,Northmen
+5e5af09d8201264f9db8688d,Roger of Pennytree,Male,
+5e5af09d8201264f9db8688e,Roggo,Male,Braavosi
+5e5af09d8201264f9db8688f,Rohanne Webber,Female,
+5e5af09d8201264f9db86890,Rolder,Male,
+5e5af09d8201264f9db86891,Rolfe,Male,
+5e5af09d8201264f9db86892,Rolfe,Male,
+5e5af09d8201264f9db86893,Rolland Longthorpe,Male,
+5e5af09d8201264f9db86894,Rolley of Sisterton,Male,Sistermen
+5e5af09d8201264f9db86895,Rolly Duckfield,Male,
+5e5af09d8201264f9db86896,Romny Weaver,Male,Ironborn
+5e5af09d8201264f9db86897,Ronald Storm,Male,
+5e5af09d8201264f9db86898,Ronel Rivers,Male,
+5e5af09d8201264f9db86899,Roone,Male,
+5e5af09d8201264f9db8689a,Roone,Male,
+5e5af09d8201264f9db8689b,Rorge,Male,
+5e5af09d8201264f9db8689c,Roro Uhoris,Male,Tyroshi
+5e5af09d8201264f9db8689d,Rose of Red Lake,Male,
+5e5af09d8201264f9db8689e,Rosey,Female,
+5e5af09d8201264f9db8689f,Rowan,Male,Free folk
+5e5af09d8201264f9db868a0,Rowan Gold-Tree,Male,
+5e5af09d8201264f9db868a1,Rudge,Male,
+5e5af09d8201264f9db868a2,Rufus Leek,Male,
+5e5af09d8201264f9db868a3,Rugen,Male,
+5e5af09d8201264f9db868a4,Runciter,Male,
+5e5af09d8201264f9db868a5,Rus,Male,Ironborn
+5e5af09d8201264f9db868a6,Rusty Flowers,Male,
+5e5af09d8201264f9db868a7,Ryam,Male,
+5e5af09d8201264f9db868a8,Ryger Rivers,Male,
+5e5af09d8201264f9db868a9,Ryk,Male,Free Folk
+5e5af09d8201264f9db868aa,Ryles,Male,
+5e5af09d8201264f9db868ab,Rymolf,Male,Ironborn
+5e5af09d8201264f9db868ac,Rymund,Male,
+5e5af09d8201264f9db868ad,Ryn,Male,
+5e5af09d8201264f9db868ae,Ryon Allyrion,Male,Dornish
+5e5af09d8201264f9db868af,S'vrone,Female,Braavosi
+5e5af09d8201264f9db868b0,Saathos,Male,
+5e5af09d8201264f9db868b1,Salladhor Saan,Male,Lysene
+5e5af09d8201264f9db868b2,Sallor,Male,Qartheen
+5e5af09d8201264f9db868b3,Salloreon,Male,
+5e5af09d8201264f9db868b4,Sam Stoops,Male,
+5e5af09d8201264f9db868b5,Samwell Stone,Male,
+5e5af09d8201264f9db868b6,Sarella Sand,Female,Dornish
+5e5af09d8201264f9db868b7,Satin,Male,
+5e5af09d8201264f9db868b8,Sawwood,Male,
+5e5af09d8201264f9db868b9,Scarb,Male,
+5e5af09d8201264f9db868ba,Sedgekins,Male,
+5e5af09d8201264f9db868bb,Selyse Florent,Female,
+5e5af09d8201264f9db868bc,Senelle,Female,
+5e5af09d8201264f9db868bd,Serra,Female,Lysene
+5e5af09d8201264f9db868be,Shae,Female,
+5e5af09d8201264f9db868bf,Shagga son of Dolf,Male,Mountain clans
+5e5af09d8201264f9db868c0,Shagwell,Male,
+5e5af09d8201264f9db868c1,Sharna,Female,
+5e5af09d8201264f9db868c2,Shella,Female,
+5e5af09d8201264f9db868c3,Sherrit,Male,
+5e5af09d8201264f9db868c4,Shiera Seastar,Female,Westeros
+5e5af09d8201264f9db868c5,Shortear,Male,
+5e5af09d8201264f9db868c6,Shyra,Female,Northmen
+5e5af09d8201264f9db868c7,Sigrin,Male,Ironborn
+5e5af09d8201264f9db868c8,Skahaz mo Kandaq,Male,Ghiscari
+5e5af09d8201264f9db868c9,Skinner,Male,
+5e5af09d8201264f9db868ca,Skittrick,Male,Northmen
+5e5af09d8201264f9db868cb,Sky Blue Su,Female,
+5e5af09d8201264f9db868cc,Skyte,Male,Ironborn
+5e5af09d8201264f9db868cd,Sloey,Female,Braavosi
+5e5af09d8201264f9db868ce,Small Paul,Male,
+5e5af09d8201264f9db868cf,Softfoot,Male,
+5e5af09d8201264f9db868d0,Soren,Male,Free Folk
+5e5af09d8201264f9db868d1,Spare Boot,Male,
+5e5af09d8201264f9db868d2,Spotted Cat,Male,Ghiscari
+5e5af09d8201264f9db868d3,Spotted Pate,Male,
+5e5af09d8201264f9db868d4,Squint,Male,
+5e5af09d8201264f9db868d5,Squirrel,Female,Free Folk
+5e5af09d8201264f9db868d6,Stalwart Shield,Male,
+5e5af09d8201264f9db868d7,Stannis Baratheon,Male,
+5e5af09d8201264f9db868d8,Stannis Seaworth,Male,
+5e5af09d8201264f9db868d9,Steeelskin,Male,Ghiscari
+5e5af09d8201264f9db868da,Steely Pate,Male,
+5e5af09d8201264f9db868db,Steffon Seaworth,Male,
+5e5af09d8201264f9db868dc,Stiv,Male,Free Folk
+5e5af09d8201264f9db868dd,Stone Thumbs,Male,Free Folk
+5e5af09d8201264f9db868de,Stonehand,Male,Ironborn
+5e5af09d8201264f9db868df,Stygg,Male,
+5e5af09d8201264f9db868e0,Styr,Male,Free Folk
+5e5af09d8201264f9db868e1,Sybassion,Male,Qartheen
+5e5af09d8201264f9db868e2,Sylas,Male,
+5e5af09d8201264f9db868e3,Sylas Flatnose,Male,Ironborn
+5e5af09d8201264f9db868e4,Symeon Star-Eyes,Male,
+5e5af09d8201264f9db868e5,Symon,Male,
+5e5af09d8201264f9db868e6,Symon Stripeback,Male,
+5e5af09d8201264f9db868e7,Syrio Forel,Male,Braavosi
+5e5af09d8201264f9db868e8,Tagganaro,Male,Braavosi
+5e5af09d8201264f9db868e9,Tal Toraq,Male,Summer Isles
+5e5af09d8201264f9db868ea,Talea,Female,Braavosi
+5e5af09d8201264f9db868eb,Tanselle,Female,Dornish
+5e5af09d8201264f9db868ec,Tansy,Female,
+5e5af09d8201264f9db868ed,Tansy,Female,
+5e5af09d8201264f9db868ee,Tarber,Male,
+5e5af09d8201264f9db868ef,Tarle,Male,Ironborn
+5e5af09d8201264f9db868f0,Temmo,Male,Dothraki
+5e5af09d8201264f9db868f1,Teora Kyndall,Female,
+5e5af09d8201264f9db868f2,Ternesio Terys,Male,Braavosi
+5e5af09d8201264f9db868f3,Terro,Male,Braavosi
+5e5af09d8201264f9db868f4,The Nightingale,Female,
+5e5af09d8201264f9db868f5,The Smiling Knight,Female,
+5e5af09d8201264f9db868f6,The Tickler,Female,
+5e5af09d8201264f9db868f7,The Weeper,Female,Free Folk
+5e5af09d8201264f9db868f8,Theo Frey,Male,
+5e5af09d8201264f9db868f9,Theobald,Male,
+5e5af09d8201264f9db868fa,Theomore Lannister,Male,
+5e5af09d8201264f9db868fb,Thistle,Female,Free Folk
+5e5af09d8201264f9db868fc,Thormor Ironmaker,Male,Ironborn
+5e5af09d8201264f9db868fd,Thoros of Myr,Male,Myrish
+5e5af09d8201264f9db868fe,Three Toes,Male,
+5e5af09d8201264f9db868ff,Three-Tooth,Female,Ironborn
+5e5af09d8201264f9db86900,Tim Stone,Male,
+5e5af09d8201264f9db86901,Tim Tangletongue,Male,
+5e5af09d8201264f9db86902,Timeon,Male,Dornish
+5e5af09d8201264f9db86903,Timett,Male,Mountain clans
+5e5af09d8201264f9db86904,Timett son of Timett,Male,Mountain clans
+5e5af09d8201264f9db86905,Timon,Male,
+5e5af09d8201264f9db86906,Timoth,Male,
+5e5af09d8201264f9db86907,Tobbot,Male,
+5e5af09d8201264f9db86908,Tobho Mott,Male,Qohor
+5e5af09d8201264f9db86909,Todder,Male,
+5e5af09d8201264f9db8690a,Todric,Male,
+5e5af09d8201264f9db8690b,Toefinger,Male,Free Folk
+5e5af09d8201264f9db8690c,Togg Joth,Male,Ibbenese
+5e5af09d8201264f9db8690d,Tom of Sevenstreams,Male,
+5e5af09d8201264f9db8690e,TomToo,Male,Northmen
+5e5af09d8201264f9db8690f,Tomard,Male,Northmen
+5e5af09d8201264f9db86910,Tommard Heddle,Male,
+5e5af09d8201264f9db86911,Toregg,Male,Free Folk
+5e5af09d8201264f9db86912,Torghen Flint,Male,Northern mountain clans
+5e5af09d8201264f9db86913,Tormund,Male,Free Folk
+5e5af09d8201264f9db86914,Torrek,Male,
+5e5af09d8201264f9db86915,Torwold,Male,Ironborn
+5e5af09d8201264f9db86916,Torwynd,Male,Free Folk
+5e5af09d8201264f9db86917,Tothmure,Male,
+5e5af09d8201264f9db86918,Tregar,Male,
+5e5af09d8201264f9db86919,Tregar Ormollen,Male,Lysene
+5e5af09d8201264f9db8691a,Tristimun,Male,
+5e5af09d8201264f9db8691b,Triston,Male,
+5e5af09d8201264f9db8691c,Triston Farwynd,Male,Ironborn
+5e5af09d8201264f9db8691d,Tuffleberry,Male,
+5e5af09d8201264f9db8691e,Tumberjon,Male,
+5e5af09d8201264f9db8691f,Tumco Lho,Male,Ghiscari
+5e5af09d8201264f9db86920,Turnip,Female,Northmen
+5e5af09d8201264f9db86921,Turquin,Male,
+5e5af09d8201264f9db86922,Tybero Istarion,Male,
+5e5af09d8201264f9db86923,Tycho Nestoris,Male,Braavosi
+5e5af09d8201264f9db86924,Tyene Sand,Female,Dornish
+5e5af09d8201264f9db86925,Tymor,Male,
+5e5af09d8201264f9db86926,Tyrion Tanner,Male,
+5e5af09d8201264f9db86927,Tysha,Female,
+5e5af09d8201264f9db86928,Tytos Blackwood,Male,
+5e5af09d8201264f9db86929,Ulf,Male,Ironborn
+5e5af09d8201264f9db8692a,Ulf son of Umar,Male,Mountain clans
+5e5af09d8201264f9db8692b,Ulf the White,Male,
+5e5af09d8201264f9db8692c,Uller,Male,Ironborn
+5e5af09d8201264f9db8692d,Ulmer,Male,
+5e5af09d8201264f9db8692e,Umar,Male,Mountain clans
+5e5af09d8201264f9db8692f,Umfred,Male,
+5e5af09d8201264f9db86930,Umma,Female,
+5e5af09d8201264f9db86931,Unknown,Male,Westeros
+5e5af09d8201264f9db86932,Urek Ironmaker,Male,Ironborn
+5e5af09d8201264f9db86933,Urras Greyiron,Male,
+5e5af09d8201264f9db86934,Urrathon,Male,Qartheen
+5e5af09d8201264f9db86935,Urreg,Male,
+5e5af09d8201264f9db86936,Urron Greyiron,Male,Ironborn
+5e5af09d8201264f9db86937,Urswyck,Male,
+5e5af09d8201264f9db86938,Urzen,Male,Ironborn
+5e5af09d8201264f9db86939,Uthor of the High Tower,Male,
+5e5af09d8201264f9db8693a,Utt,Male,
+5e5af09d8201264f9db8693b,Vaellyn,Male,
+5e5af09d8201264f9db8693c,Val,Female,Free Folk
+5e5af09d8201264f9db8693d,Varamyr,Male,Free Folk
+5e5af09d8201264f9db8693e,Vargo Hoat,Male,Qohor
+5e5af09d8201264f9db8693f,Varly,Male,Northmen
+5e5af09d8201264f9db86940,Varys,Male,
+5e5af09d8201264f9db86941,Violet,Female,
+5e5af09d8201264f9db86942,Visenya Targaryen,Female,Valyrian
+5e5af09d8201264f9db86943,Vylarr,Male,
+5e5af09d8201264f9db86944,Vyman,Male,
+5e5af09d8201264f9db86945,Walder Vance,Male,
+5e5af09d8201264f9db86946,Walgrave,Male,
+5e5af09d8201264f9db86947,Wallen,Male,
+5e5af09d8201264f9db86948,Walton,Male,
+5e5af09d8201264f9db86949,Walys Flowers,Male,Reach
+5e5af09d8201264f9db8694a,Wat,Male,
+5e5af09d8201264f9db8694b,Wat,Male,
+5e5af09d8201264f9db8694c,Wat,Male,
+5e5af09d8201264f9db8694d,Wat,Male,
+5e5af09d8201264f9db8694e,Wat,Male,
+5e5af09d8201264f9db8694f,Wat,Male,
+5e5af09d8201264f9db86950,Wat,Male,
+5e5af09d8201264f9db86951,Wate,Male,
+5e5af09d8201264f9db86952,Watt,Male,
+5e5af09d8201264f9db86953,Watty,Male,
+5e5af09d8201264f9db86954,Wayn,Male,Northmen
+5e5af09d8201264f9db86955,Weasel,Female,
+5e5af09d8201264f9db86956,Weese,Male,
+5e5af09d8201264f9db86957,Wenda,Female,
+5e5af09d8201264f9db86958,Wendamyr,Male,
+5e5af09d8201264f9db86959,Wendell Webber,Male,
+5e5af09d8201264f9db8695a,Wendello Qar Deeth,Male,Qartheen
+5e5af09d8201264f9db8695b,Werlag,Male,Ironborn
+5e5af09d8201264f9db8695c,Wex Pyke,Male,Ironborn
+5e5af09d8201264f9db8695d,Wilbert,Male,
+5e5af09d8201264f9db8695e,Will,Male,
+5e5af09d8201264f9db8695f,Will,Male,
+5e5af09d8201264f9db86960,Will,Male,
+5e5af09d8201264f9db86961,Will,Male,
+5e5af09d8201264f9db86962,Will,Male,
+5e5af09d8201264f9db86963,Will,Male,
+5e5af09d8201264f9db86964,Will,Male,
+5e5af09d8201264f9db86965,Will Humble,Male,Ironborn
+5e5af09d8201264f9db86966,Willam,Male,
+5e5af09d8201264f9db86967,Willam Wells,Male,Dornish
+5e5af09d8201264f9db86968,Willamen Frey,Male,
+5e5af09d8201264f9db86969,Willifer,Male,
+5e5af09d8201264f9db8696a,Willit,Male,
+5e5af09d8201264f9db8696b,Willow,Female,Free Folk
+5e5af09d8201264f9db8696c,Willow Heddle,Female,
+5e5af09d8201264f9db8696d,Willum,Male,
+5e5af09d8201264f9db8696e,Wolmer,Male,
+5e5af09d8201264f9db8696f,Woth,Male,
+5e5af09d8201264f9db86970,Wulfe,Male,Ironborn
+5e5af09d8201264f9db86971,Wun Weg Wun Dar Wun,Male,
+5e5af09d8201264f9db86972,Wyl,Male,Northmen
+5e5af09d8201264f9db86973,Wyl,Male,
+5e5af09d8201264f9db86974,Wylla,Female,
+5e5af09d8201264f9db86975,Xaro Xhoan Daxos,Male,Qartheen
+5e5af09d8201264f9db86976,Xhondo,Male,Summer Isles
+5e5af09d8201264f9db86977,Yandry,Male,
+5e5af09d8201264f9db86978,Ygon,Male,Free Folk
+5e5af09d8201264f9db86979,Ygritte,Female,Free Folk
+5e5af09d8201264f9db8697a,Yna,Female,
+5e5af09d8201264f9db8697b,Yorkel,Male,
+5e5af09d8201264f9db8697c,Yorko Terys,Male,Braavosi
+5e5af09d8201264f9db8697d,Yormwell,Male,
+5e5af09d8201264f9db8697e,Young Henly,Male,
+5e5af09d8201264f9db8697f,Ysilla,Female,
+5e5af09d8201264f9db86980,Zarabelo,Male,
+5e5af09d8201264f9db86981,Zei,Female,
+5e5af09d8201264f9db86982,Zekko,Male,Dothraki
+5e5af09d8201264f9db86983,Zharaq zo Loraq,Male,Ghiscari
+5e5af09d8201264f9db86984,Zollo,Male,Dothraki
+5e5af09d8201264f9db86985,Criston Cole,Male,Stormlands

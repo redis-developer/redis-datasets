@@ -1,0 +1,13 @@
+id,name,isbn,numberOfPages,publisher,country,released 
+5e5aeadb820126475cb09cbf,A Game of Thrones,978-0553103540,694,Bantam Books,United States,1996-08-01T00:00:00
+5e5aeadb820126475cb09cc0,A Clash of Kings,978-0553108033,768,Bantam Books,United States,1999-02-02T00:00:00
+5e5aeadb820126475cb09cc1,A Storm of Swords,978-0553106633,992,Bantam Books,United States,2000-10-31T00:00:00
+5e5aeadb820126475cb09cc2,The Hedge Knight,978-0976401100,164,Dabel Brothers Publishing,United States,2005-03-09T00:00:00
+5e5aeadb820126475cb09cc3,A Feast for Crows,978-0553801507,784,Bantam Books,United Status,2005-11-08T00:00:00
+5e5aeadb820126475cb09cc4,The Sworn Sword,978-0785126508,152,Marvel,United States,2008-06-18T00:00:00
+5e5aeadb820126475cb09cc5,The Mystery Knight,978-0765360267,416,Tor Fantasy,United States,2011-03-29T00:00:00
+5e5aeadb820126475cb09cc6,A Dance with Dragons,978-0553801477,1040,Bantam Books,United States,2011-07-12T00:00:00
+5e5aeadb820126475cb09cc7,The Princess and the Queen,978-0765332066,784,Tor Books,United States,2013-12-03T00:00:00
+5e5aeadb820126475cb09cc8,The Rogue Prince,978-0345537263,832,Bantam Books,United States,2014-06-17T00:00:00
+5e5aeadb820126475cb09cc9,The World of Ice and Fire,978-0553805444,336,Bantam Books,United States,2014-10-28T00:00:00
+5e5aeadb820126475cb09cca,A Knight of the Seven Kingdoms,978-0345533487,368,Bantam Books,United States,2015-10-06T00:00:00

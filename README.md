@@ -1,6 +1,6 @@
 # A Curated List of Sample Redis Datasets
 
-This page shows the sample datasets available for Redis. Click the below sample dataset to lean more about it.
+This page shows the sample datasets available for Redis Modules. Click the below sample dataset to lean more about it.
 
 
 

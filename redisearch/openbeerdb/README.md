@@ -53,3 +53,5 @@ There is a rudimentary flask front end to show search functionality. To access t
 ## Notes
 - The beers are added to the RediSearch index weighted by ABV. So by default, the results will be ordered by ABV highest to lowest. Both ABV and IBU are sortable, so you can order results by either of these fields using `sortby` in the query.
 - The csv files are available on the openbeerdb.com site, but a small change the [beers.csv](../master/beerloader/data/beers.csv) file because it was malformed.  Hence they are part of this repo.
+
+[Credits](https://github.com/RediSearch/redisearch-beer)

@@ -1,6 +1,7 @@
 # A Curated List of Redisgraph datasets
 
 - [Redis Movie Database](https://github.com/Redis-Developer/redis-datasets/blob/master/redisgraph/datasets/redis-movie-database/README.md)
+- [An API of Ice and Fire](https://anapioficeandfire.com/)
 
 
 # Redisgraph Bulk Loader Tools

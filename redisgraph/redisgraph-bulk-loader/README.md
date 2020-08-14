@@ -150,4 +150,4 @@ Inserting these CSVs with the command:
 Will produce a graph named SocialGraph with 2 users, Jeffrey and Filipe. Jeffrey follows Filipe, and that relation has a reaction_count of 25. Filipe also follows Jeffrey, with a reaction_count of 10.
 
 
-[Credits](Credits: https://github.com/RedisGraph/redisgraph-bulk-loader)
+[Credits](https://github.com/RedisGraph/redisgraph-bulk-loader)

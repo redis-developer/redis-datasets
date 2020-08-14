@@ -17,7 +17,7 @@ This page shows the sample datasets available for Redis. Click the below sample 
 
 | List of Dataset | Description |
 | --- | --- |
-| Sample  Dataset | Contains details on Movie Database listings |
+| Sample  Dataset | Contains details on Sample Database listings |
 | [Redis Graph Bulk Loader](https://github.com/Redis-Developer/redis-datasets/tree/master/redisgraph/redisgraph-bulk-loader) | Loading bulk data into Redisgraph |
 
 ## [RedisGears](https://github.com/Redis-Developer/redis-datasets/blob/master/redisgears/README.md)
@@ -25,15 +25,15 @@ This page shows the sample datasets available for Redis. Click the below sample 
 | List of Dataset | Description |
 | --- | --- |
 | [Sample IMDB Dataset](https://github.com/Redis-Developer/redis-datasets/blob/master/redisgears/README.md) | Contains details on IMDB Movie Database listings |
-| Sample  Dataset | Contains details on Geospatial listings |
+| Sample  Dataset | Contains details on Sample listings |
 
 
 ## [RedisJSON](https://github.com/Redis-Developer/redis-datasets/blob/master/redisjson/README.md)
 
 | List of Dataset | Description |
 | --- | --- |
-| Sample  Dataset | Contains details on Movie Database listings |
-| Sample Dataset | Contains details on Geospatial listings |
+| Sample  Dataset | Contains details on Sample Database listings |
+| Sample Dataset | Contains details on Sample listings |
 
 
 
@@ -42,7 +42,7 @@ This page shows the sample datasets available for Redis. Click the below sample 
 | List of Dataset | Description |
 | --- | --- |
 | [Sample AirQuality Dataset](https://github.com/Redis-Developer/redis-datasets/tree/master/redistimeseries/AirQualityUCI) | Contains details on Air Quality listings |
-| Sample Geospatial  Dataset | Contains details on Geospatial listings |
+| Sample Geospatial  Dataset | Contains details on Sample Database listings |
 
 ## [RedisAI](https://github.com/Redis-Developer/redis-datasets/blob/master/redisai/README.md)
 
@@ -58,5 +58,5 @@ This page shows the sample datasets available for Redis. Click the below sample 
 
 | List of Dataset | Description |
 | --- | --- |
-| Sample Dataset | Contains details on Movie Database listings |
-| Sample  Dataset | Contains details on Geospatial listings |
+| Sample Dataset | Contains details on Sample Database listings |
+| Sample  Dataset | Contains details on Sample listings |

@@ -8,8 +8,8 @@ Demo for RediSearch using the https://openbeerdb.com/ dataset.
 
 
 ```
-$ git clone https://github.com/RediSearch/redisearch-beer.git
-$ cd redisearch-beer
+$ git clone https://github.com/Redis-Developer/redis-datasets
+$ cd redis-datasets/redisearch/openbeerdb
 ```
 
 ## Using Docker Compose

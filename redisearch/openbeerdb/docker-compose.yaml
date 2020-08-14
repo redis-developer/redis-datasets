@@ -1,0 +1,18 @@
+version: '3'
+services:
+  redisearch:
+    image: "redislabs/redisearch"
+    ports:
+      - "6379:6379"
+  beerloader:
+    build: ./beerloader/.
+    depends_on:
+      - redisearch
+    command: ['import.py', '--url', 'redis://redisearch:6379']
+  frontend:
+    build: ./frontend/.
+    ports:
+      - "5000:5000"
+    depends_on:
+      - redisearch
+      - beerloader

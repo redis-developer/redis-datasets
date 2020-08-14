@@ -1,0 +1,71 @@
+<html>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 5px;
+            text-align: left;    
+        }
+        pre, code {
+            font-family: monospace, monospace;
+        }
+        pre {
+            overflow: auto;
+        }
+        pre > code {
+            display: block;
+            /* padding: 1rem; */
+            word-wrap: normal;
+        }
+    </style>
+    <head>
+        {% if title %}
+        <title>{{ title }} - RediSearch Beer</title>
+        {% else %}
+        <title>Welcome to RediSearch Beer</title>
+        {% endif %}
+    </head>
+    <body>
+        <h1>RediSearch Beer</h1>
+        {% if rsindex and rsquery %}
+        <table>
+            <tr>
+                <th>RediSearch Index:</th>
+                <td><code>{{ rsindex }}</code></td>
+            </tr>
+            <tr>
+                <th>RediSearch Query:</th>
+                <td><code>{{ rsquery }}</code></td>
+            </tr>
+            <tr>
+                <th>redis-cli Command:</th>
+                <td><code>FT.SEARCH {{ rsindex }} "{{ rsquery }}"</code></td>
+            </tr>
+        </table>
+        {% endif %}
+        
+        <h2>Search Results</h2>
+        <h3>{{ count }} Document{% if count != 1 %}s{% endif %} found in {{ duration }} ms.</h3>
+        <table>
+
+            {% for beer in result %}
+            
+            <tr>
+                <th>{{ beer['id'] }}</th>
+                
+            </tr>
+                {% for k, v in beer.items() %}
+                    {% if k != 'id' and k != 'payload' %}
+            <tr>
+                <td>{{ k }}</td>
+                <td>{{ v }}</td>
+            </tr>
+                    {% endif %}
+                {% endfor %}
+            {% endfor %}
+        </table>
+    </body>
+</html>
+

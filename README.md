@@ -18,7 +18,7 @@ This page shows the sample datasets available for Redis. Click the below sample 
 | List of Dataset | Description |
 | --- | --- |
 | Sample  Dataset | Contains details on Movie Database listings |
-| Sample Dataset | Contains details on Geospatial listings |
+| [Redis Graph Bulk Loader](https://github.com/Redis-Developer/redis-datasets/tree/master/redisgraph/redisgraph-bulk-loader) | Loading bulk data into Redisgraph |
 
 ## [RedisGears](https://github.com/Redis-Developer/redis-datasets/blob/master/redisgears/README.md)
 

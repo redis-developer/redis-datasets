@@ -14,10 +14,12 @@ $ cd redis-datasets/redisearch/openbeerdb
 
 ## Using Docker Compose
 
+```
 $ docker-compose up
 ```
 
 If something went wrong, you might need to force docker-compose to rebuild the containers
+
 ```
 $ docker-compose up --force-recreate --build
 ```
@@ -30,7 +32,7 @@ Open a second terminal to connect to redis and explore the dataset:
 $ redis-cli
 ```
 
-## Example Queries
+##  Example Queries
 
 After the data is imported, you can query it using RediSearch. Some example commands:
 
@@ -54,4 +56,5 @@ There is a rudimentary flask front end to show search functionality. To access t
 - The beers are added to the RediSearch index weighted by ABV. So by default, the results will be ordered by ABV highest to lowest. Both ABV and IBU are sortable, so you can order results by either of these fields using `sortby` in the query.
 - The csv files are available on the openbeerdb.com site, but a small change the [beers.csv](../master/beerloader/data/beers.csv) file because it was malformed.  Hence they are part of this repo.
 
-[Credits](https://github.com/RediSearch/redisearch-beer)
+
+## [Credits](https://github.com/RediSearch/redisearch-beer)

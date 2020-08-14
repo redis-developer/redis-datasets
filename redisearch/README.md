@@ -1,6 +1,0 @@
-
-# RediSearch Datasets
-
-* Beer
-* Movies
-*

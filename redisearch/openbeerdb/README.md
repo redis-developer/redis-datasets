@@ -1,26 +1,37 @@
-[![Actions Status](https://github.com/RediSearch/redisearch-beer/workflows/CI/badge.svg)](https://github.com/RediSearch/redisearch-beer/actions)
 
-# rediseach-beer
+
+# OpenBeer DB Dataset 
 
 Demo for RediSearch using the https://openbeerdb.com/ dataset.
 
-## Running the Demo
-To run the demo:
+## Cloning the Repository
+
+
 ```
 $ git clone https://github.com/RediSearch/redisearch-beer.git
 $ cd redisearch-beer
+```
+
+## Using Docker Compose
+
 $ docker-compose up
 ```
+
 If something went wrong, you might need to force docker-compose to rebuild the containers
 ```
 $ docker-compose up --force-recreate --build
 ```
+
+## Connecting to Redis and Exploring the Dataset
+
 Open a second terminal to connect to redis and explore the dataset:
+
 ```
 $ redis-cli
 ```
 
 ## Example Queries
+
 After the data is imported, you can query it using RediSearch. Some example commands:
 
 Irish Ale and German Ale beers with ABV greater than 9%:

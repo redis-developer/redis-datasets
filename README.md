@@ -60,3 +60,45 @@ This page shows the sample datasets available for Redis Modules. Click the below
 | --- | --- |
 | Sample Dataset | Contains details on Sample Database listings |
 | Sample  Dataset | Contains details on Sample listings |
+
+
+## Quick Tips For New Beginners
+
+
+Following are the pre-requisites for using Redis Modules
+
+## Installing Redis
+Reference and more detailed steps: [here](https://redis.io/download#installation)
+
+```bash
+$ wget http://download.redis.io/redis-stable.tar.gz
+
+$ tar xvzf redis-stable.tar.gz
+
+$ cd redis-stable
+
+$ make
+
+$ make test
+
+$ sudo make install
+```
+
+## Build RedisGraph Module(Example)
+Reference and more detailed steps: [here](https://oss.redislabs.com/redisgraph/)
+
+```bash
+# Ubuntu/Linux
+
+$ sudo apt-get install build-essential cmake m4 automake peg libtool autoconf
+
+# Mac
+
+$ brew install cmake m4 automake peg libtool autoconf
+
+$ git clone --recurse-submodules -j8 [https://github.com/RedisGraph/RedisGraph.git](https://github.com/RedisGraph/RedisGraph.git)
+
+$ cd RedisGraph
+
+$ make
+```

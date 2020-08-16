@@ -9,7 +9,7 @@ This page shows the sample datasets available for Redis Modules. Click the below
 
 | List of Dataset | Description |
 | --- | --- |
-| IMDB 5000 Movie Dataset | Contains details on Movie Database listings |
+| [Movie Dataset](https://github.com/Redis-Developer/redis-datasets/tree/movie-dataset/movie-database) | Contains details on Movie Database listings |
 | [OpenBeerDB](https://github.com/Redis-Developer/redis-datasets/tree/master/redisearch/openbeerdb) | Contains details on Openbeer listings |
 
 

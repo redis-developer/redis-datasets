@@ -1,49 +1,6 @@
 # RedisGraph Demo
 
-This is a RedisGraph Demo dataset containing CSV Data and a python script for migrating data into RedisGraph Database.
 
-Following are the pre-requisites for using RedisGraph.
-
-## Installing Redis
-Reference and more detailed steps: [here](https://redis.io/download#installation)
-
-```bash
-$ wget http://download.redis.io/redis-stable.tar.gz
-
-$ tar xvzf redis-stable.tar.gz
-
-$ cd redis-stable
-
-$ make
-
-$ make test
-
-$ sudo make install
-```
-
-## Build RedisGraph Module
-Reference and more detailed steps: [here](https://oss.redislabs.com/redisgraph/)
-
-```bash
-# Ubuntu/Linux
-
-$ sudo apt-get install build-essential cmake m4 automake peg libtool autoconf
-
-# Mac
-
-$ brew install cmake m4 automake peg libtool autoconf
-
-$ git clone --recurse-submodules -j8 [https://github.com/RedisGraph/RedisGraph.git](https://github.com/RedisGraph/RedisGraph.git)
-
-$ cd RedisGraph
-
-$ make
-```
-
-#### Once build succeeds, load the module into the redis-cli
-```bash
-$ module load /path/to/module/src/redisgraph.so
-```
 
 ## Data Set
 JSON data has been converted to CSV from a public API provided at [An API of Ice and Fire](https://anapioficeandfire.com/).

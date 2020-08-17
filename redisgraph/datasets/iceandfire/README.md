@@ -119,4 +119,3 @@ Finding all the characters that belong to either `House Stark of Winterfell` or 
 4.  Push to the branch (`git push origin my-new-feature`)
 5.  Create a new Pull Request
 
-[Credits](https://github.com/md-farhan-memon/redis_graph_demo)

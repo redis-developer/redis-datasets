@@ -43,6 +43,15 @@ $ pip3 install click redis
 ### Migration Command:
 ```bash
 $ python3 bulk_insert.py GOT_DEMO -n data/character.csv -n data/house.csv -n data/book.csv -n data/writer.csv -r data/wrote.csv -r data/belongs.csv
+
+2124 nodes created with label 'b'character''
+438 nodes created with label 'b'house''
+12 nodes created with label 'b'book''
+3 nodes created with label 'b'writer''
+14 relations created for type 'b'wrote''
+2208 relations created for type 'b'belongs''
+Construction of graph 'GOT_DEMO' complete: 2577 nodes created, 2222 relations created in 0.156645 seconds
+
 ```
 
 ### Sample RedisGraph Query Commands:

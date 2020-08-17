@@ -1,60 +1,39 @@
 
 
-# OpenBeer DB Dataset 
+# Redis Beer Database Sample Dataset
 
-Demo for RediSearch using the https://openbeerdb.com/ dataset.
+
+This dataset contains:
+- Openbeerdb data.
+- Search for your favourite beer in the beer index. 
+- Add an alias to the index and query the alias for your favourite beer
+
+Link: https://openbeerdb.com/
+
+This dataset could be used for:
+
+- RediSearch
 
 ## Cloning the Repository
 
-
 ```
-$ git clone https://github.com/Redis-Developer/redis-datasets
-$ cd redis-datasets/redisearch/openbeerdb
-```
-
-## Using Docker Compose
-
-```
-$ docker-compose up
+git clone https://github.com/redis-developer/redis-datasets
+cd redis-datasets/redisearch/openbeerdb/beerloader
 ```
 
-If something went wrong, you might need to force docker-compose to rebuild the containers
+## Installing Pre-requisites:
 
 ```
-$ docker-compose up --force-recreate --build
+brew install python3
+pip3 install -r requirements.txt
 ```
 
-## Connecting to Redis and Exploring the Dataset
-
-Open a second terminal to connect to redis and explore the dataset:
+## Importing the data
 
 ```
-$ redis-cli
+python3 import.py --url redis://192.168.1.3:6379
 ```
 
-##  Example Queries
 
-After the data is imported, you can query it using RediSearch. Some example commands:
+## Querying via RedisInsight
 
-Irish Ale and German Ale beers with ABV greater than 9%:
-```
-FT.SEARCH beerIdx "@category:Irish Ale|German Ale @abv:[9 inf]"
-```
-All beers with ABV higher than 5% but lower than 6%:
-```
-FT.SEARCH beerIdx "@abv:[5 6]"
-```
-Breweries in a 10km radius of the coordinates of Chicago, IL USA:
-```
-FT.SEARCH breweryIdx "@location:[-87.623177 41.881832 10 km]"
-```
-
-## Frontend
-There is a rudimentary flask front end to show search functionality. To access the UI, point your web browser at http://localhost:5000/
-
-## Notes
-- The beers are added to the RediSearch index weighted by ABV. So by default, the results will be ordered by ABV highest to lowest. Both ABV and IBU are sortable, so you can order results by either of these fields using `sortby` in the query.
-- The csv files are available on the openbeerdb.com site, but a small change the [beers.csv](../master/beerloader/data/beers.csv) file because it was malformed.  Hence they are part of this repo.
-
-
-## [Credits](https://github.com/RediSearch/redisearch-beer)

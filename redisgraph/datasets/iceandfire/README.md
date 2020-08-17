@@ -90,7 +90,7 @@ GRAPH.QUERY GOT_DEMO "MATCH (w:writer)-[wrote]->(b:book) return w,b"
                    2) "1996-08-01T00:00:00"
     2) 1) 1) 1) "id"
              2) (intege
-    ```
+  ```
 
 ##### Note:
 

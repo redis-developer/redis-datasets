@@ -15,7 +15,7 @@ This dataset could be used for:
 
 ## Tested Infra
 
-- MacOS
+- MacOS running redis server compiled  with Redisearch modules
 
 
 ## Cloning the Repository

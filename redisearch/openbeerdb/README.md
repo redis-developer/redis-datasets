@@ -13,6 +13,10 @@ This dataset could be used for:
 
 - RediSearch
 
+## Tested Infra
+
+- MacOS
+
 ## Cloning the Repository
 
 ```

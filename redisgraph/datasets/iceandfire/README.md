@@ -56,6 +56,42 @@ Construction of graph 'GOT_DEMO' complete: 2577 nodes created, 2222 relations cr
 
 ### Sample RedisGraph Query Commands:
 
+```
+GRAPH.QUERY GOT_DEMO "MATCH (w:writer)-[wrote]->(b:book) return w,b"
+1) 1) "w"
+   2) "b"
+2)  1) 1) 1) 1) "id"
+             2) (integer) 2574
+          2) 1) "labels"
+             2) 1) "writer"
+          3) 1) "properties"
+             2) 1) 1) "id"
+                   2) "5e5aeb4a820126475cb09ccb"
+                2) 1) "writer "
+                   2) "George R. R. Martin"
+       2) 1) 1) "id"
+             2) (integer) 2562
+          2) 1) "labels"
+             2) 1) "book"
+          3) 1) "properties"
+             2) 1) 1) "id"
+                   2) "5e5aeadb820126475cb09cbf"
+                2) 1) "name"
+                   2) "A Game of Thrones"
+                3) 1) "isbn"
+                   2) "978-0553103540"
+                4) 1) "numberOfPages"
+                   2) "694"
+                5) 1) "publisher"
+                   2) "Bantam Books"
+                6) 1) "country"
+                   2) "United States"
+                7) 1) "released "
+                   2) "1996-08-01T00:00:00"
+    2) 1) 1) 1) "id"
+             2) (intege
+    ```
+
 ##### Note:
 
 Reference images taken using Redis Insight, more details and installation steps can be found [here](https://redislabs.com/redisinsight/).

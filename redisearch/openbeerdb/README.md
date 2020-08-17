@@ -37,3 +37,4 @@ python3 import.py --url redis://192.168.1.3:6379
 
 ## Querying via RedisInsight
 
+![My Image](https://github.com/redis-developer/redis-datasets/blob/master/redisearch/openbeerdb/images/redisearch.png)

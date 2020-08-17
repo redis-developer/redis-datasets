@@ -3,8 +3,7 @@
 # Redis Beer Database Sample Dataset
 
 
-This dataset contains:
-- Openbeerdb data.
+- This dataset contains openbeerdb data.
 - Search for your favourite beer in the beer index. 
 - Add an alias to the index and query the alias for your favourite beer
 

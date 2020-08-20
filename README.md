@@ -62,10 +62,21 @@ This page shows the sample datasets available for Redis Modules. Click the below
 | Sample  Dataset | Contains details on Sample listings |
 
 
+# Test Drive these Modules for FREE !!
+
+Sign up for a free account [here](https://redislabs.com/redis-enterprise-cloud/) and get 30MB free tier at no charge. Use the button below to register yourself and get started in no seconds. 
+
+[![](https://github.com/Redis-Developer/redis-datasets/blob/master/images/recloud.png)](https://app.redislabs.com/#/add-subscription)
+
+
+
+
 ## Quick Tips For New Beginners
 
 
 Following are the pre-requisites for using Redis Modules
+
+
 
 ## Installing Redis
 Reference and more detailed steps: [here](https://redis.io/download#installation)

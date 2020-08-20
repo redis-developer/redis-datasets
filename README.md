@@ -4,7 +4,7 @@ This page shows the sample datasets available for Redis Modules. Click the below
 
 
 
-## [RediSearch](https://github.com/Redis-Developer/redis-datasets/tree/master/redisearch)
+RediSearch
 
 
 | List of Dataset | Description |
@@ -13,14 +13,14 @@ This page shows the sample datasets available for Redis Modules. Click the below
 | [OpenBeerDB](https://github.com/Redis-Developer/redis-datasets/tree/master/redisearch/openbeerdb) | Contains details on Openbeer listings |
 
 
-## [RedisGraph](https://github.com/Redis-Developer/redis-datasets/blob/master/redisgraph/README.md)
+RedisGraph
 
 | List of Dataset | Description |
 | --- | --- |
 | [An API of Ice and Fire](https://github.com/Redis-Developer/redis-datasets/blob/master/redisgraph/datasets/iceandfire/README.md) | Contains details on Ice & Fire API Database listings |
 | [Redis Graph Bulk Loader](https://github.com/Redis-Developer/redis-datasets/tree/master/redisgraph/redisgraph-bulk-loader) | Loading bulk data into Redisgraph |
 
-## [RedisGears](https://github.com/Redis-Developer/redis-datasets/blob/master/redisgears/README.md)
+RedisGears
 
 | List of Dataset | Description |
 | --- | --- |
@@ -28,7 +28,7 @@ This page shows the sample datasets available for Redis Modules. Click the below
 | Sample  Dataset | Contains details on Sample listings |
 
 
-## [RedisJSON](https://github.com/Redis-Developer/redis-datasets/blob/master/redisjson/README.md)
+RedisJSON
 
 | List of Dataset | Description |
 | --- | --- |
@@ -37,14 +37,14 @@ This page shows the sample datasets available for Redis Modules. Click the below
 
 
 
-## [RedisTimeseries](https://github.com/Redis-Developer/redis-datasets/blob/master/redistimeseries/README.md)
+RedisTimeseries
 
 | List of Dataset | Description |
 | --- | --- |
 | [Sample AirQuality Dataset](https://github.com/Redis-Developer/redis-datasets/tree/master/redistimeseries/AirQualityUCI) | Contains details on Air Quality listings |
 | Sample Geospatial  Dataset | Contains details on Sample Database listings |
 
-## [RedisAI](https://github.com/Redis-Developer/redis-datasets/blob/master/redisai/README.md)
+RedisAI
 
 
 | List of Dataset | Description |
@@ -54,7 +54,7 @@ This page shows the sample datasets available for Redis Modules. Click the below
 | [Chat Bot Demo](https://github.com/Redis-Developer/redis-datasets/tree/master/redisai) | Contains details on Chat Bot Demo listing |
 [ Redis AI Showcase](https://github.com/Redis-Developer/redis-datasets/tree/master/redisai) | Contains details on Chat Bot Demo listing |
 
-## [RedisBloom](https://github.com/Redis-Developer/redis-datasets/blob/master/redisbloom/README.md)
+RedisBloom
 
 | List of Dataset | Description |
 | --- | --- |

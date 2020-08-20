@@ -4,7 +4,7 @@ This page shows the sample datasets available for Redis Modules. Click the below
 
 
 
-RediSearch
+## RediSearch
 
 
 | List of Dataset | Description |
@@ -13,14 +13,14 @@ RediSearch
 | [OpenBeerDB](https://github.com/Redis-Developer/redis-datasets/tree/master/redisearch/openbeerdb) | Contains details on Openbeer listings |
 
 
-RedisGraph
+## RedisGraph
 
 | List of Dataset | Description |
 | --- | --- |
 | [An API of Ice and Fire](https://github.com/Redis-Developer/redis-datasets/blob/master/redisgraph/datasets/iceandfire/README.md) | Contains details on Ice & Fire API Database listings |
 | [Redis Graph Bulk Loader](https://github.com/Redis-Developer/redis-datasets/tree/master/redisgraph/redisgraph-bulk-loader) | Loading bulk data into Redisgraph |
 
-RedisGears
+## RedisGears
 
 | List of Dataset | Description |
 | --- | --- |
@@ -28,7 +28,7 @@ RedisGears
 | Sample  Dataset | Contains details on Sample listings |
 
 
-RedisJSON
+## RedisJSON
 
 | List of Dataset | Description |
 | --- | --- |
@@ -37,14 +37,14 @@ RedisJSON
 
 
 
-RedisTimeseries
+## RedisTimeseries
 
 | List of Dataset | Description |
 | --- | --- |
 | [Sample AirQuality Dataset](https://github.com/Redis-Developer/redis-datasets/tree/master/redistimeseries/AirQualityUCI) | Contains details on Air Quality listings |
 | Sample Geospatial  Dataset | Contains details on Sample Database listings |
 
-RedisAI
+## RedisAI
 
 
 | List of Dataset | Description |
@@ -54,7 +54,7 @@ RedisAI
 | [Chat Bot Demo](https://github.com/Redis-Developer/redis-datasets/tree/master/redisai) | Contains details on Chat Bot Demo listing |
 [ Redis AI Showcase](https://github.com/Redis-Developer/redis-datasets/tree/master/redisai) | Contains details on Chat Bot Demo listing |
 
-RedisBloom
+## RedisBloom
 
 | List of Dataset | Description |
 | --- | --- |

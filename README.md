@@ -62,7 +62,10 @@ This page shows the sample datasets available for Redis Modules. Click the below
 | Sample  Dataset | Contains details on Sample listings |
 
 
-# Test Drive these Modules for FREE !!
+## How to test drive these Modules
+
+
+### Using Redis Cloud
 
 Sign up for a free account [here](https://redislabs.com/redis-enterprise-cloud/) and get 30MB free tier at $0. Use the button below to register yourself and get started in no seconds. 
 
@@ -71,7 +74,7 @@ Sign up for a free account [here](https://redislabs.com/redis-enterprise-cloud/)
 
 
 
-## Quick Tips For New Beginners
+### Using Linux
 
 
 Following are the pre-requisites for using Redis Modules
@@ -113,3 +116,7 @@ $ cd RedisGraph
 
 $ make
 ```
+
+### Using Windows
+
+### Using IoT

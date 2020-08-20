@@ -81,7 +81,7 @@ Following are the pre-requisites for using Redis Modules
 
 
 
-## Installing Redis
+#### Installing Redis
 Reference and more detailed steps: [here](https://redis.io/download#installation)
 
 ```bash
@@ -98,7 +98,7 @@ $ make test
 $ sudo make install
 ```
 
-## Build RedisGraph Module(Example)
+#### Build RedisGraph Module(Example)
 Reference and more detailed steps: [here](https://oss.redislabs.com/redisgraph/)
 
 ```bash
@@ -119,4 +119,4 @@ $ make
 
 ### Using Windows
 
-### Using IoT
+

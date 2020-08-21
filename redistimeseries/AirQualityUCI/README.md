@@ -55,4 +55,13 @@ Sample Output:
 1598021878.813468 [0 172.17.0.1:38436] "ts.add" "ts:relative_humidity" "1112603400" "13.1"
 ```
 
+## Fetching the Value
 
+
+```
+127.0.0.1:6379> keys *
+
+1) "ts:relative_humidity"
+2) "ts:temperature"
+3) "ts:carbon_monoxide"
+```

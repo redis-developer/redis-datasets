@@ -92,6 +92,16 @@ TS.RANGE temperature:4:12 404505606707 404505606710
    2) "31"
 ```
 
+## Aggregation
+
+```
+TS.RANGE temperature:4:12 404505606707 404505606710 AGGREGATION avg 10
+1) 1) (integer) 404505606700
+   2) "30.5"
+```
+
+
+
 
 
 

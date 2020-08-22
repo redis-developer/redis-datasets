@@ -31,36 +31,45 @@ TS.ADD temperature:6:18 606707808910 61
 ```
 TS.GET temperature:5:15
 1) (integer) 505606707809
+2) "51"
 ```
 
 ```
 TS.GET temperature:4:12
 1) (integer) 404505606708
-2) 31
+2) "31"
 ```
 
 ## using Filters
 
 ```
-TS.MGET FILTER area_id=32
-1) 1) "temperature:4:12"
-   2) (empty array)
+ TS.MGET FILTER area_id=32
+1) 1) "temperature"
+   2) (empty list or set)
+   3) (empty list or set)
+2) 1) "temperature:4:12"
+   2) (empty list or set)
    3) 1) (integer) 404505606708
-      2) 31
+      2) "31"
 
 ```
 ## With Labels
 
 ```
  TS.MGET WITHLABELS FILTER area_id=32
-1) 1) "temperature:4:12"
+1) 1) "temperature"
+   2) 1) 1) "sensor_id"
+         2) "2"
+      2) 1) "area_id"
+         2) "32"
+   3) (empty list or set)
+2) 1) "temperature:4:12"
    2) 1) 1) "sensor_id"
          2) "4"
       2) 1) "area_id"
          2) "32"
    3) 1) (integer) 404505606708
-      2) 31
-
+      2) "31"
  ```
  
  ## Query a range across one or multiple time-series
@@ -68,17 +77,19 @@ TS.MGET FILTER area_id=32
 
 ```
 TS.RANGE temperature:5:15 505606707808 5056067070810
-1) 1) (integer) 505606707809
-   2) 51
+1) 1) (integer) 505606707808
+   2) "50"
+2) 1) (integer) 505606707809
+   2) "51"
 
 ```
 
 ```
 TS.RANGE temperature:4:12 404505606707 404505606710
 1) 1) (integer) 404505606707
-   2) 30
+   2) "30"
 2) 1) (integer) 404505606708
-   2) 31
+   2) "31"
 ```
 
 

@@ -1,6 +1,7 @@
 # Redis JSON Datasets
 
 
+## JSON.SET
 
 Syntax:
 
@@ -31,8 +32,42 @@ The { (curly brace) represents the JSON object.
 "OK"
 ```
 
+
+
+## JSON.GET
+
+### Syntax
+
+```
+JSON.GET <key>
+         [INDENT indentation-string]
+         [NEWLINE line-break-string]
+         [SPACE space-string]
+         [NOESCAPE]
+         [path ...]
+```
+
+It return the value at path in JSON serialized form.This command accepts multiple path s, and defaults to the value's root when none are given.
+
+The following subcommands change the reply's format and are all set to the empty string by default: * INDENT sets the indentation string for nested levels * NEWLINE sets the string that's printed at the end of each line * SPACE sets the string that's put between a key and a value
+
 ```
 >> >> JSON.GET employee_profile
 "{\"employee\":{\"name\":\"alpha\",\"age\":40,\"married\":true}}"
 ```
 
+## JSON.TYPE
+
+### Syntax 
+
+JSON.TYPE <key> [path]
+
+It reports the type of JSON value at path and path defaults to root if not provided. If the key or path do not exist, null is returned.
+
+```
+>> JSON.TYPE employee_profile
+"object"
+```
+
+
+## 

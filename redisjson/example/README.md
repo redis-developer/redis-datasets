@@ -42,7 +42,7 @@ It sets the JSON value at path in key. For new Redis keys the path must be the r
 "\"4\""
 ```
 
-
+As shown above, you can retrieve one part of the document by using .ans
 
 ## How to insert JSON data into Redis
 

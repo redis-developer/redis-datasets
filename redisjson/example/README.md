@@ -37,7 +37,10 @@ It sets the JSON value at path in key. For new Redis keys the path must be the r
 >> JSON.GET object
 "{\"foo\":\"bar\",\"ans\":\"4\"}"
 ```
-
+```
+>> JSON.GET object .ans
+"\"4\""
+```
 
 
 

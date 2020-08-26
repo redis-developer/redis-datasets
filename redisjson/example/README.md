@@ -1,7 +1,14 @@
 # Redis JSON Datasets
 
+- Keys can contain any valid JSON values
+  - scalars, objects or arrays
+  - Nested or not
+- Data is stored decoded in binary format
+- JSONPath like syntax for direct access to elements
+- Strongly typed atomic commands
 
-## JSON.SET
+
+## Scalar
 
 Syntax:
 
@@ -10,6 +17,29 @@ JSON.SET <key> <path> <json>
 ```
 
 It sets the JSON value at path in key. For new Redis keys the path must be the root. For existing keys, when the entire path exists, the value that it contains is replaced with the json value.
+
+
+```
+>> JSON.SET scalar .  ' "Hello JSON!" '
+"OK"
+```
+```
+>> JSON.GET scalar
+"\"Hello JSON!\""
+```
+
+
+## Objects
+
+```
+>> JSON.SET object . '{"foo":"bar", "ans":"4" }'
+"OK"
+>> JSON.GET object
+"{\"foo\":\"bar\",\"ans\":\"4\"}"
+```
+
+
+
 
 ## How to insert JSON data into Redis
 

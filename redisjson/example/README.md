@@ -103,4 +103,33 @@ It reports the type of JSON value at path and path defaults to root if not provi
 ```
 
 
-## 
+## Arrays
+
+JSON array represents ordered list of values. JSON array can store multiple values. It can store string, number, boolean or object in JSON array.
+
+In JSON array, values must be separated by comma.
+
+The [ (square bracket) represents JSON array.
+
+JSON Array of Objects
+Let's see a simple JSON array example having 4 objects.
+
+```
+{"employees":[    
+    {"name":"Ram", "email":"ram@gmail.com", "age":23},    
+    {"name":"Shyam", "email":"shyam23@gmail.com", "age":28},  
+    {"name":"John", "email":"john@gmail.com", "age":33},    
+    {"name":"Bob", "email":"bob32@gmail.com", "age":41}   
+]}  
+```
+
+```
+>> JSON.SET testarray . '  {"employees":[         {"name":"Ram", "email":"ram@gmail.com", "age":23},         {"name":"Shyam", "email":"shyam23@gmail.com", "age":28},       {"name":"John", "email":"john@gmail.com", "age":33},         {"name":"Bob", "email":"bob32@gmail.com", "age":41}    ]}  '
+"OK"
+```
+
+```
+>> JSON.GET testarray
+"{\"employees\":[{\"name\":\"Ram\",\"email\":\"ram@gmail.com\",\"age\":23},{\"name\":\"Shyam\",\"email\":\"shyam23@gmail.com\",\"age\":28},{\"name\":\"John\",\"email\":\"john@gmail.com\",\"age\":33},{\"name\":\"Bob\",\"email\":\"bob32@gmail.com\",\"age\":41}]}"
+```
+

@@ -133,3 +133,18 @@ Let's see a simple JSON array example having 4 objects.
 "{\"employees\":[{\"name\":\"Ram\",\"email\":\"ram@gmail.com\",\"age\":23},{\"name\":\"Shyam\",\"email\":\"shyam23@gmail.com\",\"age\":28},{\"name\":\"John\",\"email\":\"john@gmail.com\",\"age\":33},{\"name\":\"Bob\",\"email\":\"bob32@gmail.com\",\"age\":41}]}"
 ```
 
+
+## JSON Nested Object Example
+
+A JSON object can have another object also. Let's see a simple example of JSON object having another object.
+
+
+```
+>> JSON.SET employee_info . ' {        "firstName": "Sonoo",         "lastName": "Jaiswal",         "age": 27,        "address" : {            "streetAddress": "Plot-6, Mohan Nagar",            "city": "Ghaziabad",            "state": "UP",            "postalCode": "201007"        }    }  '
+"OK"
+```
+
+```
+>> JSON.GET employee_info
+"{\"firstName\":\"Sonoo\",\"lastName\":\"Jaiswal\",\"age\":27,\"address\":{\"streetAddress\":\"Plot-6, Mohan Nagar\",\"city\":\"Ghaziabad\",\"state\":\"UP\",\"postalCode\":\"201007\"}}"
+```

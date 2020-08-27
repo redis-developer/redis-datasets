@@ -12,6 +12,22 @@ redis-17937.c212.ap-south-1-1.ec2.cloud.redislabs.com:17937> BF.ADD bloom redis
 
 The above command returns "1" if the item was newly inserted, or "0" if it may have existed previously.
 
+## BF.EXISTS
+
+Determines whether an item may exist in the Bloom Filter or not.
+
+Format: BF.EXISTS {key} {item}
+
+```
+redis-17937.c212.ap-south-1-1.ec2.cloud.redislabs.com:17937> BF.EXISTS bloom redis
+(integer) 1
+```
+
+```
+redis-17937.c212.ap-south-1-1.ec2.cloud.redislabs.com:17937> BF.EXISTS bloom rediss
+(integer) 0
+```
+
 # BF.INSERT
 
 This command will add one or more items to the bloom filter, by default creating it if it does not yet exist. 
@@ -39,21 +55,7 @@ BF.INSERT filter NOCREATE ITEMS foo bar
 The above commands returns an array of booleans (integers). Each element is either true or false depending on whether the corresponding input element was newly
 added to the filter or may have previously existed.
 
-## BF.EXISTS
 
-Determines whether an item may exist in the Bloom Filter or not.
-
-Format: BF.EXISTS {key} {item}
-
-```
-redis-17937.c212.ap-south-1-1.ec2.cloud.redislabs.com:17937> BF.EXISTS bloom redis
-(integer) 1
-```
-
-```
-redis-17937.c212.ap-south-1-1.ec2.cloud.redislabs.com:17937> BF.EXISTS bloom rediss
-(integer) 0
-```
 
 # BF.INFO 
 

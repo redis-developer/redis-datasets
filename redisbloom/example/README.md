@@ -82,3 +82,24 @@ key Name of the key to restore
 10) (integer) 2
 ```
 
+# BF.MADD
+
+Adds one or more items to the Bloom Filter, creating the filter if it does not yet exist. This command operates identically to BF.ADD except it allows multiple inputs and returns multiple values.
+
+Format: BF.MADD {key} {item} [item...]
+
+```
+127.0.0.1:12543> BF.MADD bloom elem1 elem2 elem3
+ 1) (integer) 1
+ 2) (integer) 1
+ 3) (integer) 1
+ ```
+ 
+You can use BF.MEXISTS to retrieve return an array of booleans (integers). Each element is either true or false depending on whether the corresponding input element was newly added to the filter or may have previously existed.
+
+ ```
+ 127.0.0.1:12543> BF.MEXISTS bloom elem1 elem2 elem3
+ 1) (integer) 1
+ 2) (integer) 1
+ 3) (integer) 1
+ ```

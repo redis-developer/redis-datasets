@@ -33,6 +33,9 @@ Format: BF.EXISTS {key} {item}
 This command will add one or more items to the bloom filter, by default creating it if it does not yet exist. 
 There are several arguments which may be used to modify this behavior.
 
+Format: BF.INSERT {key} [CAPACITY {cap}] [ERROR {error}] [EXPANSION expansion] [NOCREATE]
+[NONSCALING] ITEMS {item...}
+
 ## Add three items to a filter, using default parameters if the filter does not already exist:
 
 
@@ -40,17 +43,27 @@ There are several arguments which may be used to modify this behavior.
 BF.INSERT filter ITEMS foo bar baz
 ```
 
+In the above example, 
+- "filter"  is the name of the filter, 
+- ITEMS indicates the beginning of the items to be added to the filter. This parameter must be specified.
+
+
 ## Add one item to a filter, specifying a capacity of 10000 to be used if it does not already exist:
 
 ```
 BF.INSERT filter CAPACITY 10000 ITEMS hello
 ```
 
+In the above example, CAPCITY refers to the desired capacity for the filter to be created. 
+
+
 ## Add 2 items to a filter, returning an error if the filter does not already exist
 
 ```
 BF.INSERT filter NOCREATE ITEMS foo bar
 ```
+
+In the above example, NOCREATE  indicates that the filter should not be created if it does not already exist. Please note that NOCREATE can't be used either with CAPACITY or ERROR .
 
 The above commands returns an array of booleans (integers). Each element is either true or false depending on whether the corresponding input element was newly
 added to the filter or may have previously existed.

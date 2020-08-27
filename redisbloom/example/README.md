@@ -3,7 +3,7 @@
 Adds an item to the Bloom Filter, creating the filter if it does not yet exist.
 
 ```
-redis-17937.c212.ap-south-1-1.ec2.cloud.redislabs.com:17937> BF.ADD bloom redis
+>> BF.ADD bloom redis
 (integer) 1
 ```
 
@@ -19,12 +19,12 @@ Determines whether an item may exist in the Bloom Filter or not.
 Format: BF.EXISTS {key} {item}
 
 ```
-redis-17937.c212.ap-south-1-1.ec2.cloud.redislabs.com:17937> BF.EXISTS bloom redis
+>> BF.EXISTS bloom redis
 (integer) 1
 ```
 
 ```
-redis-17937.c212.ap-south-1-1.ec2.cloud.redislabs.com:17937> BF.EXISTS bloom rediss
+>> BF.EXISTS bloom rediss
 (integer) 0
 ```
 

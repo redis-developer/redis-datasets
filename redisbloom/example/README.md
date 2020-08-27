@@ -30,6 +30,8 @@ Format: BF.EXISTS {key} {item}
 
 # BF.INSERT
 
+How is it different from BF.ADD? Out of the box you get the BF.INSERT command too. It does the same thing as BF.ADD with the extra possibility to specify more options for the filter creation in case it hasn’t been created yet.
+
 This command will add one or more items to the bloom filter, by default creating it if it does not yet exist. 
 There are several arguments which may be used to modify this behavior.
 

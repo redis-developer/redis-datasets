@@ -13,8 +13,10 @@ Let’s go ahead and test drive the below JSON specific operations:
 - Arrays of JSON Objects
 - JSON Nested Objects
 
+<details><summary>
 ## Setting a Redis Key with JSON value
-
+</summary>
+    
 ### 1.1 Scalar
 
 Use JSON.SET to set the JSON value at path in key. For new Redis keys the path must be the root. For existing keys, when the entire path exists, the value that it contains is replaced with the json value.
@@ -128,6 +130,7 @@ It is possible that a JSON object can have another object too. Let's see a simpl
 >> JSON.GET employee_info
 "{\"firstName\":\"Alpha\",\"lastName\":\"K\",\"age\":23,\"address\":{\"streetAddress\":\"110 Fulbourn Road Cambridge\",\"city\":\"San Francisco\",\"state\":\"California\",\"postalCode\":\"94016\"}}"
 ```
+</details>
 
 ## Importing the Employee JSON dataset
 

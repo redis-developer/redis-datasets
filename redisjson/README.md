@@ -14,7 +14,7 @@ Let’s go ahead and test drive the below JSON specific operations:
 - JSON Nested Objects
 
 <details><summary>
-## Setting a Redis Key with JSON value
+Setting a Redis Key with JSON value
 </summary>
     
 ### 1.1 Scalar

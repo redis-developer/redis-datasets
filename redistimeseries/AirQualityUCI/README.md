@@ -23,7 +23,7 @@ brew install python3
 
 ```
 git clone https://github.com/Redis-Developer/redis-datasets
-cd redis-datasets/redistimeseries/AirQualityUCI/
+cd redis-datasets/redistimeseries/
 ```
 
 - Install Dependencies

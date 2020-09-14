@@ -4,7 +4,7 @@ This page shows the sample datasets available for Redis Modules. Click the below
 
 
 
-## RediSearch
+## [RediSearch](https://github.com/redis-developer/redis-datasets/blob/master/redisearch/README.md)
 
 
 | List of Dataset | Description |

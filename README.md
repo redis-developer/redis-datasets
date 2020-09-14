@@ -37,7 +37,7 @@ This page shows the sample datasets available for Redis Modules. Click the below
 
 
 
-## RedisTimeseries
+## [RedisTimeseries](https://github.com/redis-developer/redis-datasets/blob/master/redistimeseries/README.md)
 
 | List of Dataset | Description |
 | --- | --- |

@@ -14,9 +14,9 @@ To interact with RedisBloom, you will most of the time use the BF.ADD and BF.EXI
 
 
 
-
+<details><summary>
 ## Understanding how Unique Visitors dataset work
-
+  </summary>
 You will create a very basic dataset based on unique visitor’s IP address, and you will see how to:
 
 - Create a bloom filter
@@ -88,7 +88,7 @@ Use BF.DEBUG to see exactly how the filter is being utilized. This outputs the t
 1) "size:8"
 2) "bytes:138 bits:1104 hashes:8 hashwidth:64 capacity:100 size:8 ratio:0.005"
 ```
-
+</details>
 
 # Importing the Unique IP Address Visit dataset
 

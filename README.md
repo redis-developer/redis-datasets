@@ -117,6 +117,6 @@ $ cd RedisGraph
 $ make
 ```
 
-### Using Windows
+
 
 

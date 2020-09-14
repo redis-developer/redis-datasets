@@ -12,6 +12,10 @@
 
 To interact with RedisBloom, you will most of the time use the BF.ADD and BF.EXISTS command. 
 
+Example:
+
+## Manual Method
+
 You will create a very basic dataset based on unique visitor’s IP address, and you will see how to:
 
 - Create a bloom filter
@@ -83,3 +87,28 @@ Use BF.DEBUG to see exactly how the filter is being utilized. This outputs the t
 1) "size:8"
 2) "bytes:138 bits:1104 hashes:8 hashwidth:64 capacity:100 size:8 ratio:0.005"
 ```
+
+
+# Importing the Unique IP Address Visit dataset
+
+The dataset files are  `redis-cli` scripts that you can import using the following command:
+
+
+```
+> redis-cli -h localhost -p 6379 < ./import_ipaddress.redis
+```
+
+Once done you can check some data:
+
+
+```
+% redis-cli -h localhost
+localhost:6379> keys *
+1) "unique_visitors"
+localhost:6379> BF.MEXISTS unique_visitors 35.173.118.249
+1) (integer) 1
+localhost:6379> BF.MEXISTS unique_visitors 35.173.118.244
+1) (integer) 0
+
+```
+

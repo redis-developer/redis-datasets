@@ -13,7 +13,7 @@ This page shows the sample datasets available for Redis Modules. Click the below
 | [OpenBeerDB](https://github.com/Redis-Developer/redis-datasets/tree/master/redisearch/openbeerdb) | Contains details on Openbeer listings |
 
 
-## RedisGraph
+## [RedisGraph](https://github.com/redis-developer/redis-datasets/blob/master/redisgraph/README.md)
 
 | List of Dataset | Description |
 | --- | --- |

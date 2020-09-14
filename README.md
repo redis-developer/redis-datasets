@@ -65,18 +65,22 @@ This page shows the sample datasets available for Redis Modules. Click the below
 ## How to test drive these Modules
 
 <details><summary>
-### Using Redis Cloud
+Using Redis Cloud
   </summary>
+
+<br>
 Sign up for a free account [here](https://redislabs.com/redis-enterprise-cloud/) and get 30MB free tier at $0. Use the button below to register yourself and get started in no seconds. 
 
 [![](https://github.com/Redis-Developer/redis-datasets/blob/master/images/recloud.png)](https://app.redislabs.com/#/add-subscription)
 
 </details>
+<br>
 
 <details><summary>
-### Using Linux
+Using Linux
 </summary>
-
+<br>
+  
 Following are the pre-requisites for using Redis Modules
 
 
@@ -99,8 +103,10 @@ $ sudo make install
 ```
 </details>
 <details><summary>
-#### Build RedisGraph Module(Example)
+Build RedisGraph Module(Example)
   </summary>
+<br>
+  
 Reference and more detailed steps: [here](https://oss.redislabs.com/redisgraph/)
 
 ```bash

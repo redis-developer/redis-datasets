@@ -58,8 +58,8 @@ This page shows the sample datasets available for Redis Modules. Click the below
 
 | List of Dataset | Description |
 | --- | --- |
-| Sample Dataset | Contains details on Sample Database listings |
-| Sample  Dataset | Contains details on Sample listings |
+| [Unique Website Visitor](https://github.com/redis-developer/redis-datasets/blob/master/redisbloom/README.md) | Contains details on Unique IP address visitors listings |
+
 
 
 ## How to test drive these Modules

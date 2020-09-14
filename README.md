@@ -33,7 +33,7 @@ This page shows the sample datasets available for Redis Modules. Click the below
 
 | List of Dataset | Description |
 | --- | --- |
-| Sample  Dataset | Contains details on Sample Database listings |
+| [Employee Profile JSON data](https://github.com/redis-developer/redis-datasets/blob/master/redisjson/README.md) | Contains details on Sample Employee Profile Database listings |
 | Sample Dataset | Contains details on Sample listings |
 
 

@@ -10,9 +10,9 @@ In the next steps you will use some basic RediSearch commands, you can run them 
 
 You will create a very basic dataset based on movies informations, and you will see how to:
 
-## Create an index
-## Insert data
-## Query data
+- Create an index
+- Insert data
+- Query data
 
 ### 1 - Create an Index
 

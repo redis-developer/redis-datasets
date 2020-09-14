@@ -74,7 +74,7 @@ Sign up for a free account [here](https://redislabs.com/redis-enterprise-cloud/)
 [![](https://github.com/Redis-Developer/redis-datasets/blob/master/images/recloud.png)](https://app.redislabs.com/#/add-subscription)
 
 </details>
-<br>
+
 
 <details><summary>
 Using Linux

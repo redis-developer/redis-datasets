@@ -25,7 +25,7 @@ This page shows the sample datasets available for Redis Modules. Click the below
 | List of Dataset | Description |
 | --- | --- |
 | [Sample IMDB Dataset](https://github.com/Redis-Developer/redis-datasets/blob/master/redisgears/README.md) | Contains details on IMDB Movie Database listings |
-| Sample  Dataset | Contains details on Sample listings |
+
 
 
 ## [RedisJSON](https://github.com/redis-developer/redis-datasets/blob/master/redisjson/README.md)

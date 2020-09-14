@@ -28,7 +28,7 @@ This page shows the sample datasets available for Redis Modules. Click the below
 | Sample  Dataset | Contains details on Sample listings |
 
 
-## RedisJSON
+## [RedisJSON](https://github.com/redis-developer/redis-datasets/blob/master/redisjson/README.md)
 
 | List of Dataset | Description |
 | --- | --- |

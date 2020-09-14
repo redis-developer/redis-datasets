@@ -42,7 +42,7 @@ This page shows the sample datasets available for Redis Modules. Click the below
 | List of Dataset | Description |
 | --- | --- |
 | [AirQuality Dataset](https://github.com/Redis-Developer/redis-datasets/tree/master/redistimeseries/AirQualityUCI) | Contains details on Air Quality listings |
-| Sample Geospatial  Dataset | Contains details on Sample Database listings |
+
 
 ## [RedisAI](https://github.com/redis-developer/redis-datasets/blob/master/redisai/README.md)
 

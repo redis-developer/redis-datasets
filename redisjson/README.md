@@ -129,6 +129,25 @@ It is possible that a JSON object can have another object too. Let's see a simpl
 "{\"firstName\":\"Alpha\",\"lastName\":\"K\",\"age\":23,\"address\":{\"streetAddress\":\"110 Fulbourn Road Cambridge\",\"city\":\"San Francisco\",\"state\":\"California\",\"postalCode\":\"94016\"}}"
 ```
 
-## Landslide Dataset 
+## Importing the Employee JSON dataset
 
-Reference: https://data.gov.ie/dataset/gsi-landslide-events-data
+The dataset files are redis-cli scripts that you can import using the following command:
+
+```
+redis-cli -h localhost -p 6379 < employee.redis
+```
+
+Once done you can check some data:
+
+```
+% redis-cli -h localhost
+localhost:6379> keys *
+1) "employee_profile"
+```
+
+```
+ JSON.GET employee_profile
+"{\"employee\":{\"name\":\"colin\",\"age\":23,\"single\":true}}"
+127.0.0.1:6379> 
+```
+

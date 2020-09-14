@@ -54,7 +54,7 @@ This page shows the sample datasets available for Redis Modules. Click the below
 | [Chat Bot Demo](https://github.com/Redis-Developer/redis-datasets/tree/master/redisai) | Contains details on Chat Bot Demo listing |
 [ Redis AI Showcase](https://github.com/Redis-Developer/redis-datasets/tree/master/redisai) | Contains details on Chat Bot Demo listing |
 
-## RedisBloom
+## [RedisBloom](https://github.com/redis-developer/redis-datasets/blob/master/redisbloom/README.md)
 
 | List of Dataset | Description |
 | --- | --- |

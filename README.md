@@ -49,10 +49,10 @@ This page shows the sample datasets available for Redis Modules. Click the below
 
 | List of Dataset | Description |
 | --- | --- |
-| [Animal Recognition Demo](https://github.com/Redis-Developer/redis-datasets/tree/master/redisai) | Contains details on Animal Recognition listings |
-| [Edge Real time Video Analytics](https://github.com/Redis-Developer/redis-datasets/tree/master/redisai)| Contains details on Edge Real time Video Analytics listings |
-| [Chat Bot Demo](https://github.com/Redis-Developer/redis-datasets/tree/master/redisai) | Contains details on Chat Bot Demo listing |
-[ Redis AI Showcase](https://github.com/Redis-Developer/redis-datasets/tree/master/redisai) | Contains details on Chat Bot Demo listing |
+| [Animal Recognition Demo](https://github.com/RedisGears/AnimalRecognitionDemo) | Contains details on Animal Recognition datasets |
+| [Edge Real time Video Analytics](https://github.com/RedisGears/EdgeRealtimeVideoAnalytics)| Contains details on Edge Real time Video Analytics datasets |
+| [Chat Bot Demo](https://github.com/RedisAI/ChatBotDemo) | Contains details on Chat Bot Demo datasets |
+[ Redis AI Showcase](https://github.com/RedisAI/redisai-examples) | Contains details on Redis AI Showcase datasets|
 
 ## [RedisBloom](https://github.com/redis-developer/redis-datasets/blob/master/redisbloom/README.md)
 

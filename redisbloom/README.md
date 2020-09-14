@@ -15,7 +15,7 @@ To interact with RedisBloom, you will most of the time use the BF.ADD and BF.EXI
 
 
 
-## Manual Method
+## Understanding how Unique Visitors dataset work
 
 You will create a very basic dataset based on unique visitor’s IP address, and you will see how to:
 

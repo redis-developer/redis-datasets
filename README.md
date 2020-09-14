@@ -127,5 +127,37 @@ $ make
 ```
 </details>
 
+<details><summary>
+Using Docker
+</summary>
+  
+```
+docker run -p 6379:6379 redislabs/redismod
+```
+
+```
+redis-cli -h localhost
+```
+
+```
+# Modules
+module:name=ft,ver=10613,api=1,filters=0,usedby=[],using=[],options=[]
+module:name=rg,ver=10001,api=1,filters=0,usedby=[],using=[ai],options=[]
+module:name=bf,ver=20204,api=1,filters=0,usedby=[],using=[],options=[]
+module:name=ReJSON,ver=10004,api=1,filters=0,usedby=[],using=[],options=[]
+module:name=ai,ver=10001,api=1,filters=0,usedby=[rg],using=[],options=[]
+module:name=graph,ver=20019,api=1,filters=0,usedby=[],using=[],options=[]
+module:name=timeseries,ver=10207,api=1,filters=0,usedby=[],using=[],options=[]
+
+# Cluster
+cluster_enabled:0
+
+# Keyspace
+db0:keys=1,expires=0,avg_ttl=0
+localhost:6379> info
+```
+  
+</details>
+
 
 

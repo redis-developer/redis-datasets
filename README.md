@@ -79,7 +79,6 @@ Sign up for a free account [here](https://redislabs.com/redis-enterprise-cloud/)
 <details><summary>
 Using Linux
 </summary>
-<br>
   
 Following are the pre-requisites for using Redis Modules
 
@@ -102,10 +101,12 @@ $ make test
 $ sudo make install
 ```
 </details>
+
+
 <details><summary>
 Build RedisGraph Module(Example)
-  </summary>
-<br>
+</summary>
+
   
 Reference and more detailed steps: [here](https://oss.redislabs.com/redisgraph/)
 

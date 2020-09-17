@@ -11,6 +11,7 @@ This page shows the sample datasets available for Redis Modules. Click the below
 | --- | --- |
 | [Movie Dataset](https://github.com/Redis-Developer/redis-datasets/tree/movie-dataset/movie-database) | Contains details on Movie Database listings |
 | [OpenBeerDB](https://github.com/Redis-Developer/redis-datasets/tree/master/redisearch/openbeerdb) | Contains details on Openbeer listings |
+| [User Sample Datasets](https://github.com/redis-developer/redis-datasets/blob/master/user-database/README.md) | Contains details on Openbeer listings |
 
 
 ## [RedisGraph](https://github.com/redis-developer/redis-datasets/blob/master/redisgraph/README.md)

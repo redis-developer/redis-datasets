@@ -65,3 +65,35 @@ Sample Output:
 2) "ts:temperature"
 3) "ts:carbon_monoxide"
 ```
+
+## Querying the sample
+
+Now that you have sample data in your time series, you’re ready to ask questions such as:
+
+“How do I get the last sample?”
+
+TS.GET is used to get the last sample. The returned array will contain the last sample timestamp followed by the last sample value, when the time series contains data:
+
+
+```
+TS.GET ts:temperature
+1) (integer) 1112623200
+2) 28.5
+```
+
+## Query a range across one or more time series
+
+TS.RANGE is used to query a range in forward directions while TS.REVRANGE is used to query a range in reverse directions, They let you answer such questions as:
+
+“How do I get the sample for a time range?”
+
+```
+TS.RANGE ts:carbon_monoxide 1112596200 1112603400
+1) 1) (integer) 1112598000
+   2) 4
+2) 1) (integer) 1112601600
+   2) 5
+192.168.0.8:6379>
+```
+
+

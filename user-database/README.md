@@ -7,9 +7,9 @@ This dataset could be used for:
 * RediSearch
 
 
-### Movies
+### Users
 
-The movie hashes contain the following fields: 
+The user hashes contain the following fields: 
 
 * **`user:id`** : The key of the hash.
 * **`first_name`** : First Name.

@@ -64,7 +64,7 @@ This page shows the sample datasets available for Redis Modules. Click the below
 
 
 
-## How to test drive these Modules
+## How to test drive these Modules For FREE !!
 
 <details><summary>
 Using Redis Cloud
@@ -77,6 +77,7 @@ Sign up for a free account [here](https://redislabs.com/redis-enterprise-cloud/)
 
 </details>
 
+[![](https://github.com/Redis-Developer/redis-datasets/blob/master/images/recloud.png)](https://app.redislabs.com/#/add-subscription)
 
 <details><summary>
 Using Linux

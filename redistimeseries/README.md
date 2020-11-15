@@ -9,3 +9,4 @@ In the next steps you will use some basic RedisTimeseries commands, you can run 
 To interact with RedisTimeseries you will most of the time use the TS.RANGE command.
 
 - [AirQualityUCI](https://github.com/redis-developer/redis-datasets/blob/master/redistimeseries/AirQualityUCI/README.md)
+- [Stock Price](https://github.com/redis-developer/redis-datasets/blob/master/redistimeseries/StockPrice/README.md)

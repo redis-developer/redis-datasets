@@ -1,5 +1,15 @@
 # Data model for stock prices and technical indicators 
 
+## Pre-requisite
+
+- Clone this Repository
+- Install Python3
+- Install Software
+
+```
+pip3 install -r requirements.txt
+```
+
 
 
 ## Execute the following command to pull and run the Docker image:

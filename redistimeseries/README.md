@@ -8,4 +8,4 @@ A time series is a linked list of memory chunks. Each chunk has a predefined siz
 In the next steps you will use some basic RedisTimeseries commands, you can run them from the redis-cli or using the CLI available in Redis Insight. (Click on “CLI” in the Redis Insight left menu).
 To interact with RedisTimeseries you will most of the time use the TS.RANGE command.
 
-- [[AirQualityUCI]]
+- [AirQualityUCI](https://github.com/redis-developer/redis-datasets/blob/master/redistimeseries/AirQualityUCI/README.md)

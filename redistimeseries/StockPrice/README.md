@@ -1,4 +1,4 @@
-# Data model for stock prices and technical indicators 
+# Data Model for Stock Prices and Technical Indicators 
 
 ## Pre-requisite
 

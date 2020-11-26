@@ -27,12 +27,14 @@ docker run -p 6379:6379 -it --rm redislabs/redistimeseries
 Once you have the Redis TimeSeries container up and running you can connect to the server (make sure you have the right IP address or hostname) using Python script:
 
 
+## Running the scripts
+
 ```
  % python3 redisTSCreateKeysSample.py 
  % python3 redisTimeSeriesQuerySamples.py 
 ```
 
-
+## Scanning the Keys
 
 ```
 127.0.0.1:6379> scan 0

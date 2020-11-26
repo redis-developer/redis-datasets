@@ -18,7 +18,7 @@ pip3 install -r requirements.txt
 
 
 
-## Execute the following command to pull and run the Docker image:
+## Running RedisTimeSeries Docker Container
 
 ```
 docker run -p 6379:6379 -it --rm redislabs/redistimeseries

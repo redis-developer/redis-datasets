@@ -2,15 +2,29 @@
 
 ## Pre-requisite
 
-- Clone this Repository
+### Clone this Repository
 
 ```
 git clone https://github.com/redis-developer/redis-datasets
 cd redis-datasets/redistimeseries/StockPrice
 ```
 
-- Install Python3
-- Install pre-requisite software
+###  Install Python3
+
+
+#### MacOS
+
+```
+brew install python3
+```
+
+#### Linux
+
+```
+apt install python3
+```
+
+### Install Prerequisite software
 
 ```
 pip3 install -r requirements.txt
@@ -28,6 +42,8 @@ Once you have the Redis TimeSeries container up and running you can connect to t
 
 
 ## Running the scripts
+
+Before running these scripts, ensure that you modify host and port number for Redis as per your infrastructure setup.
 
 ```
  % python3 redisTSCreateKeysSample.py 

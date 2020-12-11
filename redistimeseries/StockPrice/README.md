@@ -1,5 +1,7 @@
 # Data Model for Stock Prices and Technical Indicators 
 
+This repository demonstrate a sample code for using RedisTimeSeries to store, aggregate, and query stock prices, financial information, and technical indicators and time-series data sets used by investors. These sets of scripts create various time series for prices and indicators, show how to create aggregations on top of the raw time series, and demonstrate how easily bulk time series can be ingested and queried using various RedisTimeSeries commands. 
+
 ## Pre-requisite
 
 ### Clone this Repository

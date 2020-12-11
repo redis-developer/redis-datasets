@@ -72,7 +72,9 @@ TSDB-TYPE
 127.0.0.1:6379
 ```
 
+## References
 
+- [Build Your Financial Application on RedisTimeSeries](https://redislabs.com/blog/build-your-financial-application-on-redistimeseries/)
 
  
 

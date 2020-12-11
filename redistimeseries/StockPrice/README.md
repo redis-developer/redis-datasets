@@ -32,7 +32,7 @@ pip3 install -r requirements.txt
 
 
 
-## Running RedisTimeSeries Docker Container
+## Running RedisTimeSeries in a Docker Container
 
 ```
 docker run -p 6379:6379 -it --rm redislabs/redistimeseries
@@ -43,7 +43,7 @@ Once you have the Redis TimeSeries container up and running you can connect to t
 
 ## Running the scripts
 
-Before running these scripts, ensure that you modify host and port number for Redis as per your infrastructure setup.
+Before running these scripts, ensure that you modify host and port number(6379) for Redis as per your infrastructure setup.
 
 ```
  % python3 redisTSCreateKeysSample.py 

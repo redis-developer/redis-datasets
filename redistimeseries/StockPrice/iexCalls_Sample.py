@@ -42,6 +42,7 @@ if resp.status_code != 200:
     raise ApiError('GET /tasks/ {}'.format(resp.status_code))
 rsiJSON = resp.json()
 chartList = rsiJSON['chart']
+indicatorList = rsiJSON['indicator']
 RSIIndicatorList = []
 ##
 ## Parsing the JSON for Goldman Sachs' RSI and adding the tuple into a list of tuples.
@@ -56,7 +57,7 @@ for x in range(5, len(chartList)):
     ## Converting regular string timestamp that was created above to integer.
     ##
     eachIntradayPrice = ( 'DAILYRSI:GS'
-                        , int((datetime.strptime(str(rsiDateTime), dailydtFmt) - epoch).total_seconds())
+                        , int((datetime.strptime(str(rsiDateTime), dailydtFmt) - epoch).total_seconds()*1000)
                         , indicatorList[0][x])
     ##
     ## Add each tuple to the list

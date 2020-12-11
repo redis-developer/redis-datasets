@@ -107,11 +107,11 @@ rts.create('DAILYRSI15MINMAX:GS', labels={  'SYMBOL': 'GS'
 # the respective time series that we created above.
 # You can do similar aggregations on other stocks in the market.
 #
-rts.createrule('DAILYRSI:GS', 'DAILYRSI15MINRNG:GS', 'range', 900)
-rts.createrule('DAILYRSI:GS', 'DAILYRSI15MINFIRST:GS', 'first', 900)
-rts.createrule('DAILYRSI:GS', 'DAILYRSI15MINLAST:GS', 'last', 900)
-rts.createrule('DAILYRSI:GS', 'DAILYRSI15MINMIN:GS', 'min', 900)
-rts.createrule('DAILYRSI:GS', 'DAILYRSI15MINMAX:GS', 'max', 900)
+rts.createrule('DAILYRSI:GS', 'DAILYRSI15MINRNG:GS', 'range', 900*1000)
+rts.createrule('DAILYRSI:GS', 'DAILYRSI15MINFIRST:GS', 'first', 900*1000)
+rts.createrule('DAILYRSI:GS', 'DAILYRSI15MINLAST:GS', 'last', 900*1000)
+rts.createrule('DAILYRSI:GS', 'DAILYRSI15MINMIN:GS', 'min', 900*1000)
+rts.createrule('DAILYRSI:GS', 'DAILYRSI15MINMAX:GS', 'max', 900*1000)
 
 #
 # A Redis TimeSeries for storing the intraday prices

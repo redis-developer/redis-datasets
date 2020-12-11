@@ -13,20 +13,13 @@ cd redis-datasets/redistimeseries/StockPrice
 
 ###  Install Python3
 
+Ensure that python3 and pip3 is installed in your system.
 
-#### MacOS
 
-```
-brew install python3
-```
-
-#### Linux
-
-```
-apt install python3
-```
 
 ### Install Prerequisite software
+
+Using pip3 to install redistimeseries,  iexfinance & pandas software.
 
 ```
 pip3 install -r requirements.txt

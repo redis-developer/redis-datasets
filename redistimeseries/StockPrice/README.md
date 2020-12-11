@@ -75,6 +75,7 @@ TSDB-TYPE
 ## References
 
 - [Build Your Financial Application on RedisTimeSeries](https://redislabs.com/blog/build-your-financial-application-on-redistimeseries/)
+- [Why the Financial Industry Needs Redis Enterprise](https://redislabs.com/blog/why-the-financial-industry-needs-redis-enterprise/)
 
  
 

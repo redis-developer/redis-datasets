@@ -21,23 +21,50 @@ Time Series data is sequential data. Analysis of this data is often reduced to r
 docker run -d -p 6379:6379 redislabs/redismod
 ```
 
+- Install Python3
+
+```
+brew install python3
+```
 
 ## Demo
 
-Within the scripts folder run > python .\populateTimeSeries.py --sensor-id=10
+
+```
+git clone https://github.com/redis-developer/redis-datasets
+cd redis-datasets/redistimeseries/sample/sensor_data/
+```
+
+
+Within the scripts folder run:
+
+```
+ python3 populate_timeseries.py --host localhost --port 6379 --sensor-id=10
+```
 
 Then exec into Redis:
 
 ```
-> docker exec -it db-redis sh
-# date +%s
-1554591979
-# redis-cli
-127.0.0.1:6379> TS.RANGE temperature:10 1554591900 1554591979
-...
-...
-...
-127.0.0.1:6379> TS.RANGE temperature:10 1554591900 1554591979 AGGREGATION SUM 10
-...
-127.0.0.1:6379> TS.RANGE temperature:10 1554591900 1554591979 AGGREGATION AVG 10
+ redis-cli
+127.0.0.1:6379> keys *
+1) "humidity:10"
+2) "temperature:10"
+127.0.0.1:6379> 
+```
+
+```
+2 [0 172.17.0.1:55428] "TS.ADD" "temperature:10" "*" "14" "LABELS" "__name__" "temperature" "sensor" "10"
+1609222124.630468 [0 172.17.0.1:55428] "TS.ADD" "humidity:10" "*" "79" "LABELS" "__name__" "humidity" "sensor" "10"
+1609222125.635493 [0 172.17.0.1:55428] "TS.ADD" "temperature:10" "*" "10" "LABELS" "__name__" "temperature" "sensor" "10"
+1609222125.636849 [0 172.17.0.1:55428] "TS.ADD" "humidity:10" "*" "71" "LABELS" "__name__" "humidity" "sensor" "10"
+1609222126.639874 [0 172.17.0.1:55428] "TS.ADD" "temperature:10" "*" "16" "LABELS" "__name__" "temperature" "sensor" "10"
+1609222126.641306 [0 172.17.0.1:55428] "TS.ADD" "humidity:10" "*" "78" "LABELS" "__name__" "humidity" "sensor" "10"
+1609222127.647946 [0 172.17.0.1:55428] "TS.ADD" "temperature:10" "*" "13" "LABELS" "__name__" "temperature" "sensor" "10"
+1609222127.649274 [0 172.17.0.1:55428] "TS.ADD" "humidity:10" "*" "73" "LABELS" "__name__" "humidity" "sensor" "10"
+1609222128.653979 [0 172.17.0.1:55428] "TS.ADD" "temperature:10" "*" "16" "LABELS" "__name__" "temperature" "sensor" "10"
+1609222128.655296 [0 172.17.0.1:55428] "TS.ADD" "humidity:10" "*" "74" "LABELS" "__name__" "humidity" "sensor" "10"
+1609222129.657474 [0 172.17.0.1:55428] "TS.ADD" "temperature:10" "*" "11" "LABELS" "__name__" "temperature" "sensor" "10"
+1609222129.658831 [0 172.17.0.1:55428] "TS.ADD" "humidity:10" "*" "77" "LABELS" "__name__" "humidity" "sensor" "10"
+1609222130.662568 [0 172.17.0.1:55428] "TS.ADD" "temperature:10" "*" "13" "LABELS" "__name__" "temperature" "sensor" "10"
+1609222130.664954 [0 172.17.0.1:55428] "TS.ADD" "humidity:10" "*" "71" "LABELS" "__name__" "humidity" "sensor" "10"
 ```

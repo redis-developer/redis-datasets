@@ -11,4 +11,4 @@ To interact with RedisTimeseries you will most of the time use the TS.RANGE comm
 - [AirQualityUCI](https://github.com/redis-developer/redis-datasets/blob/master/redistimeseries/AirQualityUCI/README.md)
 - [Stock Price](https://github.com/redis-developer/redis-datasets/blob/master/redistimeseries/StockPrice/README.md)
 - [Sample Sensors Data](https://github.com/redis-developer/redis-datasets/tree/master/redistimeseries/sample/sensor_data)
-- [Sample Python Script to load sensor data](https://github.com/redis-developer/redis-datasets/blob/master/redistimeseries/sample/python/README.md)
+- [Sample Python Script to load data](https://github.com/redis-developer/redis-datasets/blob/master/redistimeseries/sample/python/README.md)

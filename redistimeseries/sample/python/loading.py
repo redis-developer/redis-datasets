@@ -10,7 +10,7 @@ print(' \n '.join(sys.path))
 
 ts = RedisTimeSeries(host='localhost', port=6379)
 
-ts.flushdb()
+#ts.flushdb()
 
 key = 'temperature'
 

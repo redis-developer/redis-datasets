@@ -10,7 +10,12 @@
    - Port
 
 
-## Configure Jetson Nano
+## Cloning the Repository
+
+```
+git clone https://github.com/redis-developer/redis-datasets
+cd redis-datasets/redistimeseries/realtime-sensor-jetson
+```
 
 
 ## Running the script

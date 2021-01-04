@@ -10,6 +10,18 @@
    - Password
    - Port
 
+### Setting up Jetson Nano with BME680
+
+ 
+#### Wiring
+
+- Connect the Jetson Nano 3.3V power pin to Vin
+- Connect the Jetson Nano GND pin to GND
+- Connect the Jetson Nano SDA (#3) pin to the BME280 SDI
+- Connect the Jetson Nano SCL (#5) pin to to the BME280 SCK
+
+
+![My Image](https://github.com/redis-developer/redis-datasets/blob/master/redistimeseries/realtime-sensor-jetson/Screenshot%202021-01-04%20at%2011.38.59%20PM.png)
 
 ## Cloning the Repository
 

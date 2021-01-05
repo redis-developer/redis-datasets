@@ -1,4 +1,4 @@
-## Loading BME680 Sensor data directly into RedisTimeSeries(Running on Redis Enterprise Cloud)
+## Loading BME680 Sensor data directly into RedisTimeSeries(over Redis Enterprise Cloud)
 
 ![My Image](https://github.com/redis-developer/redis-datasets/blob/master/redistimeseries/realtime-sensor-jetson/Screenshot%202021-01-04%20at%2011.29.15%20PM.png)
 

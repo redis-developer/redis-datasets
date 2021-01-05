@@ -15,7 +15,7 @@
  
 #### Wiring
 
-
+![My Image](https://github.com/redis-developer/redis-datasets/blob/master/redistimeseries/realtime-sensor-jetson/Screenshot%202021-01-05%20at%208.47.38%20AM.png)
 
 ## Cloning the Repository
 

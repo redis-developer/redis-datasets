@@ -4,11 +4,29 @@
 
 ### Pre-requisite
 
-- Jetson Nano 4GB/2GB Model
+- Jetson Nano 4GB/2GB Model/Raspberry Pi/Arduino
 - Redis Enterprise Cloud Account configured with Subscription and Account
    - Endpoint Required
    - Password
    - Port
+- Install Python3 on your 
+   
+   
+### Installing Required Modules
+
+Install modules as per your sensor device. In my case, it's BME680 and hence I installed bme680
+
+```
+pip3 install bme680
+```
+```
+$ pip3 install bme680
+Password:
+Collecting bme680
+  Downloading bme680-1.0.5-py3-none-any.whl (11 kB)
+Installing collected packages: bme680
+Successfully installed bme680-1.0.5
+```
 
 ### Setting up Jetson Nano with BME680
 

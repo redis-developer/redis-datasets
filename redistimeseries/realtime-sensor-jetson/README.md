@@ -17,9 +17,6 @@
 Install modules as per your sensor device. In my case, it's BME680 and hence I installed bme680
 
 ```
-pip3 install bme680
-```
-```
 $ pip3 install bme680
 Password:
 Collecting bme680

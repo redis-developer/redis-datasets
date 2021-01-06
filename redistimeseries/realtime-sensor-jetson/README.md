@@ -52,7 +52,7 @@ cd redis-datasets/redistimeseries/realtime-sensor-jetson
 - Change the entries as per your Redis Enterprise Cloud account 
 
 ```
-python3 sensorloader.py --host <Redis Enterprise Cloud host> --port <port>  --password <password> 
+python3 sensorloader.py --host <endpoint> --port <port>  --password <password> 
 ```
 
 - For Example

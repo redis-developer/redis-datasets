@@ -9,7 +9,7 @@
    - Endpoint Required
    - Password
    - Port
-- Install Python3 on your 
+- Install Python3 on your Jetson board
    
    
 ### Installing Required Modules

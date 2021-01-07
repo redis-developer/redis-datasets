@@ -46,6 +46,7 @@ This page shows the sample datasets available for Redis Modules. Click the below
 | [AirQuality Dataset](https://github.com/Redis-Developer/redis-datasets/tree/master/redistimeseries/AirQualityUCI) | Contains details on Air Quality listings |
 | [Stock Price Dataset](https://github.com/redis-developer/redis-datasets/blob/master/redistimeseries/StockPrice/README.md) | Data model for stock prices |
 | [Sample Sensor Data](https://github.com/redis-developer/redis-datasets/tree/master/redistimeseries/sample/sensor_data/README.md) | Date Model for Sensors data |
+| [Real-Time IoT Sensor Data](https://github.com/redis-developer/redis-datasets/blob/master/redistimeseries/realtime-sensor-jetson/README.md) | Date Model for IoT Sensors data |
 
 
 ## [RedisAI](https://github.com/redis-developer/redis-datasets/blob/master/redisai/README.md)

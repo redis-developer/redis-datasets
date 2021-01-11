@@ -76,4 +76,33 @@ OK
 
 ## Plotting it over Grafana
 
+
+It will be exciting to plot the sensor data over Grafana. To implement this, run the below command either on your laptop or on your preferable IoT device:=
+
+
+```
+$ docker run -d -e "GF_INSTALL_PLUGINS=redis-app" -e "GF_INSTALL_PLUGINS=redis-datasource" -p 3000:3000 grafana/grafana
+```
+
+
+Ensure that Grafana container is up and running as shown below:
+
+```
+$ docker ps
+CONTAINER ID   IMAGE             COMMAND     CREATED         STATUS         PORTS                    NAMES
+38148d69f114   grafana/grafana   "/run.sh"   5 seconds ago   Up 4 seconds   0.0.0.0:3000->3000/tcp   reverent_feynman
+```
+
+
+
+Open browser and point it to https://<IP_ADDRESS>:3000. Use “admin” as username and “admin” as password to login into Grafana dashboard.
+
+
+Click on the “Data Sources” option on the left side of the Grafana dashboard to add data source. Search for “Redis” as shown below:
+
+
+
+Supply the name, redis database endpoint, password and click on “Save & Test”. Ensure that it displays “Datasource updated”.
+
+
 ![My image](https://github.com/redis-developer/redis-datasets/blob/master/redistimeseries/realtime-sensor-jetson/Screenshot%202021-01-09%20at%2010.54.18%20PM.png)

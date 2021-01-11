@@ -74,3 +74,6 @@ OK
 1609595838.285340 [0 70.167.220.160:52138] "ts.add" "ts:humidity" "1609595837" "14.579"
 ```
 
+## Plotting it over Grafana
+
+![My image](https://github.com/redis-developer/redis-datasets/blob/master/redistimeseries/realtime-sensor-jetson/Screenshot%202021-01-09%20at%2010.54.18%20PM.png)

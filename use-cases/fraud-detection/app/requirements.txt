@@ -1,0 +1,46 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+ca-certificates=2020.10.14=0
+certifi=2020.6.20=py37_0
+cffi=1.14.3=py37he30daa8_0
+click=7.1.2=py_0
+cloudpickle=1.6.0=pypi_0
+flask=1.1.2=py_0
+flask-cors=3.0.9=py_0
+gearsclient=0.1=pypi_0
+gevent=20.9.0=py37h7b6447c_0
+greenlet=0.4.17=py37h7b6447c_0
+hiredis=1.1.0=pypi_0
+itsdangerous=1.1.0=py37_0
+jinja2=2.11.2=py_0
+ld_impl_linux-64=2.33.1=h53a641e_7
+libedit=3.1.20191231=h14c3975_1
+libffi=3.3=he6710b0_2
+libgcc-ng=9.1.0=hdf63c60_0
+libstdcxx-ng=9.1.0=hdf63c60_0
+markupsafe=1.1.1=py37h14c3975_1
+ncurses=6.2=he6710b0_1
+openssl=1.1.1h=h7b6447c_0
+pip=20.2.4=py37_0
+pycparser=2.20=py_2
+python=3.7.9=h7579374_0
+python-dateutil=2.8.1=py_0
+readline=8.0=h7b6447c_0
+redis=3.5.3=pypi_0
+redisbloom=0.4.0=pypi_0
+redistimeseries=1.4.3=pypi_0
+rmtest=0.7.0=pypi_0
+setuptools=50.3.0=py37hb0f4dca_1
+singleton-decorator=1.0.0=pypi_0
+six=1.15.0=py_0
+sqlite=3.33.0=h62c20be_0
+tk=8.6.10=hbc83047_0
+werkzeug=1.0.1=py_0
+wheel=0.35.1=py_0
+wtforms=2.3.3=py_0
+xz=5.2.5=h7b6447c_0
+zlib=1.2.11=h7b6447c_3
+zope=1.0=py37_1
+zope.event=4.5.0=py37_0
+zope.interface=5.1.2=py37h7b6447c_0

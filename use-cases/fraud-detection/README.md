@@ -1,5 +1,8 @@
 # Building Real Time Fraud Detection Application using Redis 
 
+
+![My Image](https://github.com/redis-developer/redis-datasets/blob/master/use-cases/fraud-detection/Screenshot%202021-01-19%20at%201.50.23%20PM.png)
+
 ##  Run redismod docker container
 
 ```

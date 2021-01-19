@@ -11,6 +11,12 @@
   ],
   "__requires": [
     {
+      "type": "panel",
+      "id": "gauge",
+      "name": "Gauge",
+      "version": ""
+    },
+    {
       "type": "grafana",
       "id": "grafana",
       "name": "Grafana",
@@ -60,6 +66,8 @@
         "defaults": {
           "custom": {},
           "mappings": [],
+          "max": 100,
+          "min": 0,
           "thresholds": {
             "mode": "absolute",
             "steps": [
@@ -68,88 +76,35 @@
                 "value": null
               },
               {
+                "color": "#EAB839",
+                "value": 50
+              },
+              {
                 "color": "red",
-                "value": 80
+                "value": 70
               }
             ]
-          }
+          },
+          "unit": "celsius"
         },
         "overrides": []
       },
       "gridPos": {
-        "h": 3,
-        "w": 9,
+        "h": 7,
+        "w": 4,
         "x": 0,
-        "y": 0
-      },
-      "id": 5,
-      "options": {
-        "colorMode": "value",
-        "graphMode": "area",
-        "justifyMode": "auto",
-        "orientation": "auto",
-        "reduceOptions": {
-          "calcs": ["mean"],
-          "fields": "",
-          "values": false
-        },
-        "textMode": "auto"
-      },
-      "pluginVersion": "7.3.7",
-      "targets": [
-        {
-          "command": "ts.range",
-          "keyName": "ts:humidity",
-          "query": "",
-          "refId": "A",
-          "type": "timeSeries"
-        }
-      ],
-      "timeFrom": null,
-      "timeShift": null,
-      "title": "Humidity, Avg",
-      "type": "stat"
-    },
-    {
-      "datasource": "${DS_REDIS}",
-      "fieldConfig": {
-        "defaults": {
-          "custom": {},
-          "mappings": [],
-          "thresholds": {
-            "mode": "absolute",
-            "steps": [
-              {
-                "color": "green",
-                "value": null
-              },
-              {
-                "color": "red",
-                "value": 80
-              }
-            ]
-          }
-        },
-        "overrides": []
-      },
-      "gridPos": {
-        "h": 3,
-        "w": 8,
-        "x": 9,
         "y": 0
       },
       "id": 6,
       "options": {
-        "colorMode": "value",
-        "graphMode": "area",
-        "justifyMode": "auto",
         "orientation": "auto",
         "reduceOptions": {
           "calcs": ["mean"],
           "fields": "",
           "values": false
         },
-        "textMode": "auto"
+        "showThresholdLabels": false,
+        "showThresholdMarkers": true
       },
       "pluginVersion": "7.3.7",
       "targets": [
@@ -164,59 +119,7 @@
       "timeFrom": null,
       "timeShift": null,
       "title": "Temperature, Avg",
-      "type": "stat"
-    },
-    {
-      "datasource": "${DS_REDIS}",
-      "fieldConfig": {
-        "defaults": {
-          "custom": {},
-          "mappings": [],
-          "thresholds": {
-            "mode": "absolute",
-            "steps": [
-              {
-                "color": "green",
-                "value": null
-              }
-            ]
-          }
-        },
-        "overrides": []
-      },
-      "gridPos": {
-        "h": 3,
-        "w": 7,
-        "x": 17,
-        "y": 0
-      },
-      "id": 7,
-      "options": {
-        "colorMode": "value",
-        "graphMode": "area",
-        "justifyMode": "auto",
-        "orientation": "auto",
-        "reduceOptions": {
-          "calcs": ["mean"],
-          "fields": "",
-          "values": false
-        },
-        "textMode": "auto"
-      },
-      "pluginVersion": "7.3.7",
-      "targets": [
-        {
-          "command": "ts.range",
-          "keyName": "ts:pressure",
-          "query": "",
-          "refId": "A",
-          "type": "timeSeries"
-        }
-      ],
-      "timeFrom": null,
-      "timeShift": null,
-      "title": "Pressure, Avg",
-      "type": "stat"
+      "type": "gauge"
     },
     {
       "aliasColors": {},
@@ -233,10 +136,10 @@
       "fill": 1,
       "fillGradient": 0,
       "gridPos": {
-        "h": 9,
-        "w": 24,
-        "x": 0,
-        "y": 3
+        "h": 7,
+        "w": 20,
+        "x": 4,
+        "y": 0
       },
       "hiddenSeries": false,
       "id": 4,
@@ -315,6 +218,67 @@
       }
     },
     {
+      "datasource": "${DS_REDIS}",
+      "fieldConfig": {
+        "defaults": {
+          "custom": {},
+          "mappings": [],
+          "max": 100,
+          "min": 0,
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "dark-yellow",
+                "value": null
+              },
+              {
+                "color": "dark-green",
+                "value": 30
+              },
+              {
+                "color": "dark-yellow",
+                "value": 70
+              }
+            ]
+          },
+          "unit": "humidity"
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 4,
+        "w": 4,
+        "x": 0,
+        "y": 7
+      },
+      "id": 5,
+      "options": {
+        "orientation": "auto",
+        "reduceOptions": {
+          "calcs": ["mean"],
+          "fields": "",
+          "values": false
+        },
+        "showThresholdLabels": false,
+        "showThresholdMarkers": true
+      },
+      "pluginVersion": "7.3.7",
+      "targets": [
+        {
+          "command": "ts.range",
+          "keyName": "ts:humidity",
+          "query": "",
+          "refId": "A",
+          "type": "timeSeries"
+        }
+      ],
+      "timeFrom": null,
+      "timeShift": null,
+      "title": "Humidity, Avg",
+      "type": "gauge"
+    },
+    {
       "aliasColors": {},
       "bars": false,
       "dashLength": 10,
@@ -330,9 +294,9 @@
       "fillGradient": 0,
       "gridPos": {
         "h": 8,
-        "w": 12,
-        "x": 0,
-        "y": 12
+        "w": 9,
+        "x": 4,
+        "y": 7
       },
       "hiddenSeries": false,
       "id": 2,
@@ -426,9 +390,9 @@
       "fillGradient": 0,
       "gridPos": {
         "h": 8,
-        "w": 12,
-        "x": 12,
-        "y": 12
+        "w": 11,
+        "x": 13,
+        "y": 7
       },
       "hiddenSeries": false,
       "id": 3,
@@ -505,6 +469,59 @@
         "align": false,
         "alignLevel": null
       }
+    },
+    {
+      "datasource": "${DS_REDIS}",
+      "fieldConfig": {
+        "defaults": {
+          "custom": {},
+          "mappings": [],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "dark-blue",
+                "value": null
+              }
+            ]
+          },
+          "unit": "pressurembar"
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 4,
+        "w": 4,
+        "x": 0,
+        "y": 11
+      },
+      "id": 7,
+      "options": {
+        "colorMode": "background",
+        "graphMode": "area",
+        "justifyMode": "auto",
+        "orientation": "auto",
+        "reduceOptions": {
+          "calcs": ["mean"],
+          "fields": "",
+          "values": false
+        },
+        "textMode": "auto"
+      },
+      "pluginVersion": "7.3.7",
+      "targets": [
+        {
+          "command": "ts.range",
+          "keyName": "ts:pressure",
+          "query": "",
+          "refId": "A",
+          "type": "timeSeries"
+        }
+      ],
+      "timeFrom": null,
+      "timeShift": null,
+      "title": "Pressure, Avg",
+      "type": "stat"
     }
   ],
   "refresh": "30s",
@@ -515,12 +532,12 @@
     "list": []
   },
   "time": {
-    "from": "now-5m",
+    "from": "now-15m",
     "to": "now"
   },
   "timepicker": {},
   "timezone": "",
   "title": "Sensor Jetson",
   "uid": "ao_LcTBGz",
-  "version": 1
+  "version": 2
 }

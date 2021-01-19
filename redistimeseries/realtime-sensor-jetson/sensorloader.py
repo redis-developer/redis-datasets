@@ -55,12 +55,15 @@ sensor.select_gas_heater_profile(0)
 
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--port", type=int, help="redis instance port", default=6379)
+parser.add_argument("--port", type=int,
+                    help="redis instance port", default=6379)
 parser.add_argument(
     "--password", type=int, help="redis instance password", default=None
 )
-parser.add_argument("--verbose", help="enable verbose output", action="store_true")
-parser.add_argument("--host", type=str, help="redis instance host", default="127.0.0.1")
+parser.add_argument(
+    "--verbose", help="enable verbose output", action="store_true")
+parser.add_argument("--host", type=str,
+                    help="redis instance host", default="127.0.0.1")
 
 
 args = parser.parse_args()
@@ -74,44 +77,44 @@ humidity_key = "ts:humidity"
 print('\n\nPolling:')
 try:
     while True:
-        if sensor.get_sensor_data():
-            output = '{0:.2f} C,{1:.2f} hPa,{2:.2f} %RH'.format(
-                sensor.data.temperature,
-                sensor.data.pressure,
-                sensor.data.humidity)
+        if not sensor.get_sensor_data():
+            print('Can not access sensor data')
+            continue
 
-            if sensor.data.heat_stable:
-                print('{0},{1} Ohms'.format(
-                    output,
-                    sensor.data.gas_resistance))
-                
-                date = datetime.datetime.now()
-                
-                date_value= date.strftime("%d/%m/%Y")
-                time_value = date.strftime("%H.%M.%S")
-                
-                rows = [date_value,time_value,sensor.data.temperature,sensor.data.pressure,sensor.data.humidity]
-                
-                unix_ts = int(
-                    datetime.datetime.strptime(
-                        "{0} {1}".format(date_value, time_value), "%d/%m/%Y %H.%M.%S"
-                    ).timestamp())
-                    
-                redis_obj.execute_command(
-                    "ts.add", temperature_key, unix_ts, sensor.data.temperature
-                )
-                    
-                redis_obj.execute_command(
-                    "ts.add", pressure_key, unix_ts, sensor.data.pressure
-                )
-                
-                redis_obj.execute_command(
-                    "ts.add", humidity_key, unix_ts, sensor.data.humidity
-                )
+        output = '{0:.2f} C,{1:.2f} hPa,{2:.2f} %RH'.format(
+            sensor.data.temperature,
+            sensor.data.pressure,
+            sensor.data.humidity)
 
-            else:
-                print(output)
+        if not sensor.data.heat_stable:
+            print('Heat unstable: ' + output)
+            continue
 
+        print('{0},{1} Ohms'.format(
+            output,
+            sensor.data.gas_resistance))
+
+        date = datetime.datetime.now()
+        rows = [date.strftime("%d/%m/%Y"), date.strftime("%H.%M.%S"), sensor.data.temperature,
+                sensor.data.pressure, sensor.data.humidity]
+        timestamp = int(date.timestamp())
+
+        # Create pipeline
+        pipe = redis_obj.pipeline()
+
+        pipe.execute_command(
+            "ts.add", temperature_key, timestamp, sensor.data.temperature
+        )
+
+        pipe.execute_command(
+            "ts.add", pressure_key, timestamp, sensor.data.pressure
+        )
+
+        pipe.execute_command("ts.add", humidity_key,
+                             timestamp, sensor.data.humidity)
+
+        # Execute pipeline
+        pipe.execute()
 
         time.sleep(1)
 

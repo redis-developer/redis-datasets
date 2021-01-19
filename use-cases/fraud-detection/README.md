@@ -6,7 +6,7 @@
 docker run -d -p 6379:6379 redislabs/redismod
 ```
 
-## Install pre-requisites
+## Install pre-requisites(or you can use requirements.txt)
 
 ```
 apt install python3

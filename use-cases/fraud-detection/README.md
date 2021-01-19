@@ -15,7 +15,7 @@ pip3 install redisbloom
 pip3 install flask
 ```
    
-##  Run app.py with python3
+##  Run app.py 
 
 Clone this repository and run the app.py
 

@@ -95,8 +95,6 @@ try:
             sensor.data.gas_resistance))
 
         date = datetime.datetime.now()
-        rows = [date.strftime("%d/%m/%Y"), date.strftime("%H.%M.%S"), sensor.data.temperature,
-                sensor.data.pressure, sensor.data.humidity]
         timestamp = int(date.timestamp() * 1000)
 
         # Create pipeline

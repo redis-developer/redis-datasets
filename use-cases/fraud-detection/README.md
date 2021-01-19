@@ -12,7 +12,7 @@ Clone this repository and run the app.py
 
 ```
 git clone https://github.com/redis-developer/redis-datasets/
-cd redis-datasets/use-cases/fraud-detection/
+cd redis-datasets/use-cases/fraud-detection/app/
 python3 app.py
 ```
 

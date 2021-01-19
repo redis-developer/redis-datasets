@@ -5,6 +5,14 @@
 ```
 docker run -d -p 6379:6379 redislabs/redismod
 ```
+
+## Install pre-requisites
+
+```
+pip3 install singleton-decorator-1.0.0
+pip3 install redisbloom
+pip3 install flask
+```
    
 ##  Run app.py with python3
 

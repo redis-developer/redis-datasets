@@ -98,7 +98,7 @@ It will be exciting to plot the sensor data over Grafana. To implement this, run
 
 
 ```
-$ docker run -d -e "GF_INSTALL_PLUGINS=redis-app" -e "GF_INSTALL_PLUGINS=redis-datasource" -p 3000:3000 grafana/grafana
+$ docker run -d -e  "GF_INSTALL_PLUGINS=redis-datasource" -p 3000:3000 grafana/grafana
 ```
 
 

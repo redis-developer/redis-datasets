@@ -3,30 +3,19 @@
 
 ![My Image](https://github.com/redis-developer/redis-datasets/blob/master/use-cases/fraud-detection/Screenshot%202021-01-19%20at%201.50.23%20PM.png)
 
-##  Run redismod docker container
+##  Run redismod docker container or use existing Redis Enterprise
 
 ```
 docker run -d -p 6379:6379 redislabs/redismod
 ```
 
-## Install pre-requisites(or you can use requirements.txt)
+## How to run
+1. git clone https://github.com/redis-developer/redis-datasets/
+1. cd redis-datasets/use-cases/fraud-detection/
+2. docker build -t redis-fraud:latest . 
+3. docker run -e REDIS_HOST='<redis-host>' -e REDIS_PORT=<redis-port> -p 5000:5000 -d redis-fraud
 
-```
-apt install python3
-pip3 install singleton-decorator-1.0.0
-pip3 install redisbloom
-pip3 install flask
-```
-   
-##  Run app.py 
-
-Clone this repository and run the app.py
-
-```
-git clone https://github.com/redis-developer/redis-datasets/
-cd redis-datasets/use-cases/fraud-detection/app/
-python3 app.py
-```
+This will start a docker which runs a flask server on port 5000.
 
 ## Sample curl:
  
@@ -52,5 +41,4 @@ curl --location --request POST 'localhost:5000' \
 
 1. Map IP to a location -> use Redis GeoSpatial to get insights on event.
 2. Build a bloom filter based device black list db.
-3. Send data to stream, read by Redis Gears which will add that data to Redis Time series.
 4. Add sample IP blacklist data.

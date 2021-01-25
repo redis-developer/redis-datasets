@@ -9,11 +9,28 @@
 docker run -d -p 6379:6379 redislabs/redismod
 ```
 
-## How to run
-1. git clone https://github.com/redis-developer/redis-datasets/
-1. cd redis-datasets/use-cases/fraud-detection/
-2. docker build -t redis-fraud:latest . 
-3. docker run -e REDIS_HOST='<redis-host>' -e REDIS_PORT=<redis-port> -p 5000:5000 -d redis-fraud
+## Cloning the Repository
+
+
+```
+git clone https://github.com/redis-developer/redis-datasets/
+```
+
+```
+cd redis-datasets/use-cases/fraud-detection/
+```
+
+## Building Image
+
+```
+docker build -t redis-fraud:latest . 
+```
+
+## Running Container
+
+```
+docker run -e REDIS_HOST='<redis-host>' -e REDIS_PORT=<redis-port> -p 5000:5000 -d redis-fraud
+```
 
 This will start a docker which runs a flask server on port 5000.
 

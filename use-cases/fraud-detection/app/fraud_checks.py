@@ -1,29 +1,29 @@
-from redisbloom.client import Client
 import time
-import redis
-from constants import Constants
-from singleton_decorator import singleton
 import json
+
+from singleton_decorator import singleton
+
+from constants import Constants
+from redis_conn import RedisConn
 
 
 @singleton
 class FraudChecks:
 
 	def __init__(self):
-
-		self.redis_client = redis.Redis()
-		self.bloom_client = Client()
+		pass
 
 	def check_fraud(self, data):
 		if self.ip_fraud(data):
 			return 'Fraud IP'
 		if self.ad_stack(data):
 			return 'Ad Stacked'
-		return 'Clean'
+		return 'Clean Event'
 
 	def ip_fraud(self, data):
-		# Todo: initialize cf with data.
-		return self.bloom_client.cfExists(Constants.IP_CUCKOO_FILTER_NAME, data['ip'])
+		exists = RedisConn().bloom().cfExists(Constants.IP_CUCKOO_FILTER_NAME, data['ip'])
+		self.publish(data, "Clean" if not exists else "Fraud")
+		return exists
 
 	def ad_stack(self, data):
 		##
@@ -35,8 +35,14 @@ class FraudChecks:
 		ts = int(time.time() * 1000)
 		is_ad_stacked = False
 		member = json.dumps({'device_id': data['device_id'], 'transaction_id': data['transaction_id'], 'ts': ts})
-		self.redis_client.zadd(data.get('device_id'), {member: ts})
-		count = self.redis_client.zcount(data.get('device_id'), ts - Constants.AD_STACK_WINDOW, ts)
+		RedisConn().redis().zadd(data.get('device_id'), {member: ts})
+		count = RedisConn().redis().zcount(data.get('device_id'), ts - Constants.AD_STACK_WINDOW, ts)
 		if count > Constants.AD_STACK_THRESHOLD:
 			is_ad_stacked = True
+		self.publish(data, "Fraud" if is_ad_stacked else "Clean")
 		return is_ad_stacked
+
+	def publish(self, data, status):
+		data['status'] = status
+		stream = Constants.CLEAN_STREAM_NAME if status == 'Clean' else Constants.FRAUD_STREAM_NAME
+		RedisConn().redis().xadd(stream, data, id='*')

@@ -1,0 +1,6 @@
+flask==1.1.2
+redis==3.5.3
+redisbloom==0.4.0
+redistimeseries==1.4.3
+singleton-decorator==1.0.0
+git+https://github.com/RedisGears/redisgears-py.git

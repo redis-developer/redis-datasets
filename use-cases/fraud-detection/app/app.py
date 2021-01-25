@@ -1,22 +1,22 @@
 from flask import Flask, request
 from fraud_checks import FraudChecks
-
+from setup import Setup
 app = Flask(__name__)
 
 
 @app.route('/', methods=['POST'])
 def check_fraud():
-    # Sample Request
-    # curl --location --request POST 'localhost:5000' \
-    # --header 'Content-Type: application/json' \
-    # --data-raw '{
-    #     "device_id": "111-000-000",
-    #     "ip": "1.1.1.2",
-    #     "transaction_id": "3e4fad5fs"
-    # }'
+    try:
+        response = FraudChecks().check_fraud(request.get_json())
+        code = 200
+    except Exception as e:
+        print("Error occurred ", e)
+        response = str(e)
+        code = 500
 
-    return FraudChecks().check_fraud(request.get_json())
+    return response, code
 
 
 if __name__ == '__main__':
-    app.run(port=5000, debug=True)
+    Setup().init()
+    app.run(port=5000, debug=False, host='0.0.0.0')

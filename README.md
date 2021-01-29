@@ -7,7 +7,7 @@ This page shows the sample datasets available for Redis Modules. Click the below
 ## [RediSearch](https://github.com/redis-developer/redis-datasets/blob/master/redisearch/README.md)
 
 
-| List of Dataset | Description |
+| List of Datasets | Description |
 | --- | --- |
 | [Movie Dataset](https://github.com/Redis-Developer/redis-datasets/tree/movie-dataset/movie-database) | Contains details on Movie Database listings |
 | [OpenBeerDB](https://github.com/Redis-Developer/redis-datasets/tree/master/redisearch/openbeerdb) | Contains details on Openbeer listings |
@@ -16,7 +16,7 @@ This page shows the sample datasets available for Redis Modules. Click the below
 
 ## [RedisGraph](https://github.com/redis-developer/redis-datasets/blob/master/redisgraph/README.md)
 
-| List of Dataset | Description |
+| List of Datasets | Description |
 | --- | --- |
 | [An API of Ice and Fire](https://github.com/Redis-Developer/redis-datasets/blob/master/redisgraph/datasets/iceandfire/README.md) | Contains details on Ice & Fire API Database listings |
 | [Movie Dataset](https://github.com/Redis-Developer/redis-datasets/tree/movie-dataset/movie-database) | Contains details on Movie Database listings |
@@ -24,7 +24,7 @@ This page shows the sample datasets available for Redis Modules. Click the below
 
 ## RedisGears
 
-| List of Dataset | Description |
+| List of Datasets | Description |
 | --- | --- |
 | [Sample IMDB Dataset](https://github.com/Redis-Developer/redis-datasets/blob/master/redisgears/README.md) | Contains details on IMDB Movie Database listings |
 
@@ -32,7 +32,7 @@ This page shows the sample datasets available for Redis Modules. Click the below
 
 ## [RedisJSON](https://github.com/redis-developer/redis-datasets/blob/master/redisjson/README.md)
 
-| List of Dataset | Description |
+| List of Datasets | Description |
 | --- | --- |
 | [Employee Profile dataset](https://github.com/redis-developer/redis-datasets/blob/master/redisjson/README.md) | Contains details on Sample Employee Profile Database listings |
 | Sample Dataset | Contains details on Sample listings |
@@ -41,7 +41,7 @@ This page shows the sample datasets available for Redis Modules. Click the below
 
 ## [RedisTimeseries](https://github.com/redis-developer/redis-datasets/blob/master/redistimeseries/README.md)
 
-| List of Dataset | Description |
+| List of Datasets | Description |
 | --- | --- |
 | [AirQuality Dataset](https://github.com/Redis-Developer/redis-datasets/tree/master/redistimeseries/AirQualityUCI) | Contains details on Air Quality listings |
 | [Stock Price Dataset](https://github.com/redis-developer/redis-datasets/blob/master/redistimeseries/StockPrice/README.md) | Data model for stock prices |
@@ -52,7 +52,7 @@ This page shows the sample datasets available for Redis Modules. Click the below
 ## [RedisAI](https://github.com/redis-developer/redis-datasets/blob/master/redisai/README.md)
 
 
-| List of Dataset | Description |
+| List of Datasets | Description |
 | --- | --- |
 | [Animal Recognition Demo](https://github.com/RedisGears/AnimalRecognitionDemo) | Contains details on Animal Recognition datasets |
 | [Edge Real time Video Analytics](https://github.com/RedisGears/EdgeRealtimeVideoAnalytics)| Contains details on Edge Real time Video Analytics datasets |
@@ -61,7 +61,7 @@ This page shows the sample datasets available for Redis Modules. Click the below
 
 ## [RedisBloom](https://github.com/redis-developer/redis-datasets/blob/master/redisbloom/README.md)
 
-| List of Dataset | Description |
+| List of Datasets | Description |
 | --- | --- |
 | [Unique Website Visitor](https://github.com/redis-developer/redis-datasets/blob/master/redisbloom/README.md) | Contains details on Unique IP address visitors listings |
 

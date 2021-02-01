@@ -68,7 +68,7 @@ This page shows the sample datasets available for Redis Modules. Click the below
 
 
 
-## How to test drive these Modules For FREE !!
+## Getting Started
 
 <details><summary>
 Using Redis Cloud

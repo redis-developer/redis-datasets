@@ -64,7 +64,7 @@ This page shows the sample datasets available for Redis Modules. Click the below
 | List of Datasets | Description |
 | --- | --- |
 | [Unique Website Visitor](https://github.com/redis-developer/redis-datasets/blob/master/redisbloom/README.md) | Contains details on Unique IP address visitors listings |
-| Fraud Detection](https://github.com/redis-developer/redis-datasets/blob/master/use-cases/fraud-detection/README.md) | Contains details on Fraud Detection System using RedisBloom |
+| [Fraud Detection](https://github.com/redis-developer/redis-datasets/blob/master/use-cases/fraud-detection/README.md) | Contains details on Fraud Detection System using RedisBloom |
 
 
 

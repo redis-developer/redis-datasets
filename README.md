@@ -143,6 +143,7 @@ docker run -p 6379:6379 redislabs/redismod
 
 ```
 redis-cli -h localhost
+> info modules
 ```
 
 ```

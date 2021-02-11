@@ -1,9 +1,11 @@
 from gearsclient import GearsRemoteBuilder as GearsBuilder
-from gearsclient import execute
-
 
 from redis_conn import RedisConn
-from constants import Constants
+
+import os
+import json
+import redis
+from redistimeseries.client import Client
 
 
 class Setup:
@@ -12,15 +14,23 @@ class Setup:
         self.__register_gears()
 
     def __register_gears(self):
-        # Todo: need better way to check if gears is registered.
         redis_conn = RedisConn().redis()
         is_reg = redis_conn.get("gears_registered")
         if is_reg and int(is_reg) == 1:
             # Gears already registered
             return
 
-        GearsBuilder(reader='StreamReader', r=redis_conn).foreach(lambda x: execute("TS.INCRBY", "clean_ts", 1))\
-            .register(Constants.CLEAN_STREAM_NAME)
-        GearsBuilder(reader='StreamReader', r=redis_conn).foreach(lambda x: execute("TS.INCRBY", "fraud_ts", 1))\
-            .register(Constants.FRAUD_STREAM_NAME)
+        def stream_handler(item):
+            data = item['value']
+            member = json.dumps(
+                {'device_id': data['device_id'],
+                 'transaction_id': data['transaction_id'],
+                 'ts': data['ts'],
+                 })
+            redis.Redis().zadd(data.get('device_id'), {member: data['ts']})
+            Client().incrby(data['fraud_type'], 1)
+
+        GearsBuilder(reader='StreamReader', r=redis_conn, requirements=["redis", "redistimeseries"]).foreach(stream_handler).register('data_stream')
+        # To avoid multiple gears from being registered for single use case, set this when register is done,
+        # unset this if you want to re-register the Gear when application runs again.
         redis_conn.set("gears_registered", 1)

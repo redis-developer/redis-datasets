@@ -34,10 +34,11 @@ docker run -e REDIS_HOST='<redis-host>' -e REDIS_PORT=<redis-port> -p 5000:5000 
 
 This will start a docker which runs a flask server on port 5000.
 
+
 ## Sample curl:
  
 ```
-curl --location --request POST 'localhost:5000' \
+curl --request POST 'localhost:5000' \
     --header 'Content-Type: application/json' \
     --data-raw '{
         "device_id": "111-000-000",

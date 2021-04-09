@@ -14,6 +14,8 @@
    
 ### Install Required Modules
 
+Pleaee follow the below steps:
+
 1. Install bme680 python module
 
 

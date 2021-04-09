@@ -12,7 +12,7 @@
 - Install Python on your Jetson board
    
    
-### Installing Required Modules
+### Install Required Modules
 
 1. Install bme680 python module
 

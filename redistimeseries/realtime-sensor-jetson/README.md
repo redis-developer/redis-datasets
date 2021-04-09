@@ -14,7 +14,7 @@
    
 ### Installing Required Modules
 
-1. Installing bme680 python module
+1. Install bme680 python module
 
 
 ```

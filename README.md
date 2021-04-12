@@ -26,7 +26,8 @@ This page shows the sample datasets available for Redis Modules. Click the below
 
 | List of Datasets | Description |
 | --- | --- |
-| [Sample IMDB Dataset](https://github.com/Redis-Developer/redis-datasets/blob/master/redisgears/README.md) | Contains details on IMDB Movie Database listings |
+| [Sample IMDB Dataset](https://github.com/Redis-Developer/redis-datasets/blob/master/redisgears/imdb/README.md) | Contains details on IMDB Movie Database listings |
+| [Sample Kaggle CORD19 Dataset](https://github.com/Redis-Developer/redis-datasets/blob/master/redisgears/nlp/README.md) | Contains details on Kaggle CORD19 datasets listings |
 
 
 

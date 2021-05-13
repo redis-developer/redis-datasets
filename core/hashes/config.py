@@ -3,5 +3,4 @@ REDIS_CFG = {
         "port" : 6379,
         "password" : ""
 }
-~                                                                                                                                                                             
-~
+

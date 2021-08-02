@@ -2,8 +2,8 @@ import os, json
 from rejson import Client, Path
 
 rj = Client(host='localhost', port=6379, decode_responses=True)
-print("Connected to Redis")
-base_directory = "../bulkdata/"
+print("Connected successful")
+base_directory = "../data/"
 cnt = 0
 for (dirpath, dirnames, filenames) in os.walk(base_directory):
     print("dirpath=" + dirpath)
@@ -11,16 +11,16 @@ for (dirpath, dirnames, filenames) in os.walk(base_directory):
         # print("file=" + file)
         if ("json" in file):
             shortname = file.replace(".json", "")
-            print("Here's the shortname" + shortname)
+            print("shortname is" + shortname)
             openname = dirpath + "/" + file
-            print("Here's the openname " + openname)
+            print("openname is " + openname)
             data = json.loads(open(openname, "r").readline())
             print("data is ")
             print(data['data'])
-            print("members are")
+            print("members is")
             print(data['data']['members'])
             for member in data['data']['members']:
-                print("Here's the ID:", member['id'])
+                print("the id is", member['id'])
                 memberIdInt = member['id']
                 memberId = str(memberIdInt)
                 memberIdFloat = float(memberIdInt)

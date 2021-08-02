@@ -1,0 +1,19 @@
+version: '3'
+services:
+  redisjson:
+    image: "redislabs/rejson:latest"
+    container_name: redisjson
+    environment:
+      - ENABLE_COMMANDS=FLUSHDB,FLUSHALL,CONFIG
+    ports:
+      - "6379:6379"
+
+  insight:
+    image: "redislabs/redisinsight:latest"
+    container_name: insight
+    ports:
+      - "8001:8001"
+    volumes:
+      - ../redisinsight:/db
+    depends_on:
+      - redisjson

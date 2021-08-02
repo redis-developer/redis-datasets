@@ -1,0 +1,9 @@
+Faker==3.0.0
+hiredis==1.0.1
+python-dateutil==2.8.1
+redis
+redisearch
+rmtest==0.7.0
+six==1.13.0
+text-unidecode==1.3
+rejson

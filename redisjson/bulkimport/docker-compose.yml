@@ -3,8 +3,6 @@ services:
   redisjson:
     image: "redislabs/rejson:latest"
     container_name: redisjson
-    environment:
-      - ENABLE_COMMANDS=FLUSHDB,FLUSHALL,CONFIG
     ports:
       - "6379:6379"
 
